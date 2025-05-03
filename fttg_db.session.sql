@@ -74,6 +74,9 @@ INSERT INTO score (student_id, score) VALUES
 (4,75),
 (5, 88);
 
+INSERT INTO student (name) VALUES
+('Femi');
+
 --Verify table was created and values were inserted
 SELECT * FROM score ORDER BY student_id;
 
@@ -88,26 +91,56 @@ ORDER BY id;
 
 SELECT * FROM score
 ORDER BY student_id;
+
+
+UPDATE student
+SET id = 5
+WHERE name ='Femi';
+
+INSERT INTO score (student_id, score) VALUES
+(5, 88);
+
+
 )
+UPDATE score
+SET student_id = 6
+WHERE student_id = 5;
+
+DELETE FROM student
+WHERE id = 5;
+
 -- TASK A : Show all/only rows with matching ids 
 --in both tables - student and score
 -- INNER JOIN
 SELECT student.id, student.name, score.score
 FROM student
 INNER JOIN score ON student.id = score.student_id
-ORDER BY student.id;
+ORDER BY id;
 
 
+SELECT current_database();
 
 
---TASK B : 
+--TASK B : Show all rows from student (left table) + 
+-- matching rows from score (right table) - if any.
+-- Use null when not present 
 -- LEFT JOIN
 
---TASK C 
+SELECT student.id, student.name, score.score
+FROM student
+LEFT JOIN score ON student.id = score.student_id
+ORDER BY id;
+
+
+--TASK C : Show all roes from score(right table) + matching 
+-- students (left table)(if any). Use null when not present
 -- RIGHT JOIN
 
+SELECT student.id, student.name, score.score
+FROM student
+RIGHT JOIN score ON student.id = score.student_id
+ORDER BY id;
 
-: 
 
-
-
+ALTER TABLE score
+DROP CONSTRAINT score_student_id_fkey;
