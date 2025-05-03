@@ -187,3 +187,64 @@ SELECT table_name
 FROM information_schema.tables
 WHERE table_schema ='public'
 ORDER BY table_name
+
+-- SUBQUERIES
+-- Imagine an employees table which shows salry for each employee
+
+-- TASK  : Find the employees with salary greater
+--  than the average salary
+
+-- Create employees table
+CREATE TABLE employees (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    SALARY INT
+);
+
+-- Insert values into employees table
+INSERT INTO employees (name, salary)
+VALUES ('Alice', 50000),
+    ('Bob', 70000),
+    ('Charlie', 55000),
+    ('Dan', 48000);
+
+-- Verify the employees table was created
+--  and values were inserted
+SELECT * FROM employees ORDER BY id;
+-- Verify the schema of the employees table
+SELECT column_name,
+    data_type
+FROM information_schema.columns
+WHERE table_name = 'employees';
+
+-- TASK  : Find the employees with salary greater
+--  than the average salary 
+-- (50000+70000+55000+48000)/4 = 55750
+
+
+SELECT name,
+    salary
+FROM employees
+WHERE salary > (
+        SELECT AVG(salary)
+        FROM employees
+    )
+ORDER BY salary DESC;
+
+-- Details: The SUB query calculates the average salaryfirst
+-- and then the outer query selects employees with salary
+-- greater than the average salary. The result is ordered by
+-- salary in descending order.
+
+SELECT * FROM employees
+WHERE salary > 55750
+ORDER BY id;
+
+
+UPDATE employees
+SET salary = 66000
+WHERE name = 'Charlie';
+
+-- See current entries in employees table
+SELECT * FROM
+employees ORDER BY id;
