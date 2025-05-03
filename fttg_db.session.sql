@@ -144,3 +144,46 @@ ORDER BY id;
 
 ALTER TABLE score
 DROP CONSTRAINT score_student_id_fkey;
+
+
+-- GROUP & AGGREGATION
+-- Imagine a sales databas with individual salesperson
+-- and amount sold in singular row after row
+
+-- TASK : Find the total sales per salesperson
+-- Create sales table
+
+CREATE TABLE sales(
+    id SERIAl PRIMARY KEY,
+    salesperson VARCHAR(25),
+    amount_sold INT
+);
+
+INSERT INTO sales (salesperson, amount_sold)
+VALUES
+('Alice', 500),
+('Bob', 700),
+('Alice', 300),
+('Bob', 400),
+('Cara', 600);
+
+-- Verify the sales table was created
+--  and values were inserted
+SELECT * FROM sales ORDER BY id;
+
+-- Verify the schema of the sales table
+SELECT column_name, data_type
+FROM information_schema.columns
+WHERE table_name = 'sales';
+
+-- TASK : Find the total sales per salesperson
+-- GROUP BY salesperson, AGGREGATE using SUM()
+SELECT salesperson, SUM(amount_sold) AS total_sales
+FROM sales
+GROUP BY salesperson
+ORDER BY total_sales ASC;
+
+SELECT table_name
+FROM information_schema.tables
+WHERE table_schema ='public'
+ORDER BY table_name
