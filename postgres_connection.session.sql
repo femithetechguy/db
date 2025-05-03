@@ -347,3 +347,47 @@ SELECT DISTINCT
     ) as youngest_student
 FROM teacher t
 JOIN student s ON t.id = s.teacher_id;
+
+Last login: Wed Apr 30 15:02:53 on ttys005
+fttg@Mac ~ % psql
+psql: error: connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  database "fttg" does not exist
+-- Connect to an existing db
+fttg@Mac ~ % psql -U fttg -d postgres
+psql (14.17 (Homebrew))
+Type "help" for help.
+
+
+-- Create DB name fttg_db
+postgres=# CREATE database fttg_db;
+CREATE DATABASE
+-- List all databases to verify
+postgres=# \l
+                         List of databases
+   Name    | Owner | Encoding | Collate | Ctype | Access privileges
+-----------+-------+----------+---------+-------+-------------------
+ fttg_db   | fttg  | UTF8     | C       | C     |
+ postgres  | fttg  | UTF8     | C       | C     |
+ template0 | fttg  | UTF8     | C       | C     | =c/fttg          +
+           |       |          |         |       | fttg=CTc/fttg
+ template1 | fttg  | UTF8     | C       | C     | =c/fttg          +
+           |       |          |         |       | fttg=CTc/fttg
+(4 rows)
+
+postgres=#
+
+-- Connect to fttg_db
+postgres=# \c fttg_db
+You are now connected to database "fttg_db" as user "fttg".
+fttg_db=#
+
+-- Common Commands & Usage
+\l
+List all databases
+\c database_name
+Connect to a different database
+\dt
+List all tables in current database
+\d table_name
+Show table structure/schema
+\q
+Quit and exit psql
