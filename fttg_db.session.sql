@@ -248,3 +248,144 @@ WHERE name = 'Charlie';
 -- See current entries in employees table
 SELECT * FROM
 employees ORDER BY id;
+
+
+-- CASE STATEMENTS
+
+CREATE TABLE orders (
+    id SERIAL PRIMARY KEY,
+    amount INT
+);
+
+-- Insert values into orders table
+INSERT INTO orders (amount) -- TASK : Create a tabl e with orders and amount
+VALUES (150),
+    (50),
+    (300),
+    (90);
+
+-- Verify the orders table was created
+--  and values were inserted
+SELECT * FROM orders ORDER BY id;
+-- Verify the schema of the orders table
+SELECT column_name,
+    data_type
+FROM information_schema.columns
+WHERE table_name = 'orders';
+
+-- Imagine an orders table with with id and amount  of items
+-- We can rant the kind of order we have into high medium and low
+-- depending on the amount of items. 
+-- Our cases there are 3 - high, medium and low
+-- This helps up to categorize our orders
+-- based on these ranges 
+-- CASE High :amout > 200
+-- Case Medium :amount  >=100 || amount  <= 200
+-- Case Low : amount <100
+-- Create orders table
+-- Write the case statement to categorize the orders
+SELECT id,
+    amount,
+    CASE
+        WHEN amount > 200 THEN 'High'
+        WHEN amount >= 100
+        AND amount <= 200 THEN 'Medium'
+        ELSE 'Low'
+    END AS order_size
+FROM orders;
+
+-- We could also rewrite like this
+
+SELECT id,
+    amount,
+    CASE
+        WHEN amount > 200 THEN 'High'
+        WHEN amount >= 100 THEN 'Medium'
+        ELSE 'Low'
+    END AS order_size
+FROM orders;
+
+--Details: The CASE statement checks the amount of each order
+-- and assigns a category based on the specified conditions.
+-- The result includes the order id, amount, and the corresponding
+-- order size category.
+-- The result is ordered by id in ascending order.
+
+
+--WINDOW FUNCTIONS
+-- Imagine a sales_b table with salesperson and amount sold
+-- TASK : We want to show each sale and the total sales by salesperson
+-- Without grouping the rows ( SEE Grouping and Aggregation)
+
+-- Create sales_b table
+CREATE TABLE sales_b (
+    id SERIAL PRIMARY KEY,
+    salesperson VARCHAR(25),
+    amount INT
+);
+
+-- Insert values into sales_b table
+INSERT INTO sales_b (salesperson, amount)
+VALUES
+('Alice', 500),
+('Bob', 700),
+('Alice', 300),
+('Bob', 400),
+('Cara', 600);
+-- Verify the sales_b table was created
+--  and values were inserted
+SELECT * FROM sales_b ORDER BY id;
+-- Verify the schema of the sales_b table
+SELECT column_name,
+    data_type
+FROM information_schema.columns
+WHERE table_name = 'sales_b';
+
+-- TASK : We want to show each sale and the total sales by salesperson 
+-- Without grouping the rows ( SEE Grouping and Aggregation)
+-- Use window function SUM() OVER()
+SELECT id,
+    salesperson,
+    amount,
+    SUM(amount) OVER (PARTITION BY salesperson) 
+    AS total_sales
+FROM sales_b
+ORDER BY id;
+--Details: The window function calculates the total sales for each
+-- salesperson without grouping the rows. The result includes the
+-- order id, salesperson, amount, and the total sales for each
+-- salesperson. The result is ordered by id in ascending order.
+-- The PARTITION BY clause divides the result set into partitions
+-- based on the salesperson, and the SUM() function calculates
+-- the total sales for each partition.
+-- The result is ordered by id in ascending order. 
+-- SUM(amount) calculates the total per person.
+-- PARTITION BY salesperson tells SQL to restart the
+--  calculation for each salesperson.
+-- But rows stay separate — not grouped into one.
+-- 	•	OVER() tells SQL “don’t collapse the rows, 
+-- just calculate alongside them.”
+--  Think of PARTITION BY like:“Do this 
+-- calculation separately for each group.”
+
+
+-- TASK : Number each sale starting at 1 for each salesperson based
+--  on the amount descending (biggest sale first).
+
+-- Use window function ROW_NUMBER() OVER()
+SELECT id,
+    salesperson,
+    amount,
+    ROW_NUMBER() OVER (PARTITION BY salesperson ORDER BY amount DESC) 
+    AS sale_rank
+FROM sales_b;
+--Details: The window function assigns a unique rank to each sale
+-- for each salesperson based on the amount sold in descending order.
+-- The result includes the order id, salesperson, amount, and the
+-- rank of each sale. The result is ordered by id in ascending order.
+-- The PARTITION BY clause divides the result set into partitions
+-- based on the salesperson, and the ROW_NUMBER() function assigns
+-- a unique rank to each row within each partition based on the
+-- specified order. The result is ordered by id in ascending order.
+-- The result is ordered by id in ascending order.
+
