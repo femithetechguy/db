@@ -47,6 +47,6 @@ UPDATE student
 SET age = 19
 WHERE name ='Bob';
 
-JOIN - INNER. LEFT,RIGHT
+-- JOIN - INNER. LEFT,RIGHT
 DELETE FROM student
 WHERE id = 5;
