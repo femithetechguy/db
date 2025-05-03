@@ -50,3 +50,64 @@ WHERE name ='Bob';
 -- JOIN - INNER. LEFT,RIGHT
 DELETE FROM student
 WHERE id = 5;
+
+--Imagine tables student and score
+-- Student with id 3 has no value in score table
+-- There is a score for student with id 5, but there
+-- is no mathchiing student in student table
+
+-- TASK A : Show all/only rows with matching ids 
+--in both tables - student and score
+-- INNER JOIN
+
+-- Create the score table
+CREATE TABLE score (
+    student_id INT, 
+    score INT,
+    FOREIGN KEY (student_id) REFERENCES student(id)
+);
+
+-- Insert values into score table
+INSERT INTO score (student_id, score) VALUES
+(1, 85),
+(2, 90),
+(4,75),
+(5, 88);
+
+--Verify table was created and values were inserted
+SELECT * FROM score ORDER BY student_id;
+
+-- Verify the schema of the score table
+SELECT column_name,data_type
+FROM information_schema.columns
+WHERE table_name = 'score';
+
+-- See current state of student and score tables respectively
+SELECT * FROM student
+ORDER BY id;
+
+SELECT * FROM score
+ORDER BY student_id;
+)
+-- TASK A : Show all/only rows with matching ids 
+--in both tables - student and score
+-- INNER JOIN
+SELECT student.id, student.name, score.score
+FROM student
+INNER JOIN score ON student.id = score.student_id
+ORDER BY student.id;
+
+
+
+
+--TASK B : 
+-- LEFT JOIN
+
+--TASK C 
+-- RIGHT JOIN
+
+
+: 
+
+
+
