@@ -8,6 +8,17 @@ GO
 USE fttg_db;
 GO
 
+-- List all schemas in the current database
+SELECT SCHEMA_NAME AS SchemaName
+FROM INFORMATION_SCHEMA.SCHEMATA;
+GO
+
+-- OR 
+
+SELECT name AS SchemaName
+FROM sys.schemas;
+GO
+
 -- See all tables in the current database
 SELECT TABLE_NAME
 FROM INFORMATION_SCHEMA.TABLES
