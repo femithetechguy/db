@@ -40,4 +40,29 @@ WHERE o.type IN ('U', 'V', 'P', 'FN', 'IF', 'TF') -- U: User table, V: View, P: 
 ORDER BY s.name, o.name;
 GO
 
+-- Create a new database
+CREATE DATABASE fttg_db;    
+GO
+-- identify which database is currently in use
+SELECT DB_NAME() AS CurrentDatabase;
+GO
+-- Switch to the new database
+USE fttg_db;
+GO
 
+-- List all schemas in the current database
+SELECT SCHEMA_NAME AS SchemaName
+FROM INFORMATION_SCHEMA.SCHEMATA;
+GO
+
+-- OR 
+
+SELECT name AS SchemaName
+FROM sys.schemas;
+GO
+
+-- See all tables in the current database
+SELECT TABLE_NAME
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_TYPE = 'BASE TABLE';
+GO
