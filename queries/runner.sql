@@ -1,3 +1,25 @@
+-- RULE OF THUMB
+-- Order of Operations
+
+-- Schema must exist before creating tables
+-- Table must exist before inserting data
+-- Each DDL statement needs its own batch (separated by GO)
+-- Common Gotchas
+
+-- Schema names are case-sensitive
+-- Make sure you're in the correct database
+-- Check for proper permissions
+-- Verify schema existence before operations
+-- Best Practices
+
+-- Always use schema qualification (group_schema.Sales)
+-- Include error handling for production code
+-- Verify data after insertions
+-- Use meaningful column names in aggregations
+-- Debugging Tips If you get schema/table errors:
+
+-- RULE OF THUMB
+
 -- Get List of all databases
 -- SELECT name FROM sys.databases;
 
