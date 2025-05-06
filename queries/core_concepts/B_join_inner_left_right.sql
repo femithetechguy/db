@@ -2,6 +2,13 @@
 USE fttg_db;
 GO
 
+-- Check current user and their default schema:
+SELECT 
+    USER_NAME() AS CurrentUser,
+    SCHEMA_NAME() AS DefaultSchema,
+    DB_NAME() AS CurrentDatabase;
+GO
+
 -- identify which database is currently in use
 SELECT DB_NAME() AS CurrentDatabase;
 GO
@@ -17,7 +24,9 @@ SELECT name AS SchemaName
 FROM sys.schemas;
 GO
 
---  See current schema
+--  See current schema, this is the schema that will be used if no schema is specified
+-- in the query
+-- This is the default schema for the current user
 SELECT SCHEMA_NAME() AS CurrentSchema;
 GO
 

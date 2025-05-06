@@ -84,7 +84,76 @@ FROM sys.schemas;
 GO
 
 -- See all tables in the current database
-SELECT TABLE_NAME
+SELECT TABLE_NAME, SCHEMA_NAME() AS SchemaName
 FROM INFORMATION_SCHEMA.TABLES
 WHERE TABLE_TYPE = 'BASE TABLE';
+GO
+
+
+-- 
+-- Switch to the database
+USE fttg_db;
+GO
+
+-- View all schemas in current database
+SELECT 
+    s.name AS SchemaName,
+    s.schema_id,
+    s.principal_id,
+    u.name AS SchemaOwner
+FROM sys.schemas s
+LEFT JOIN sys.sysusers u ON u.uid = s.principal_id
+ORDER BY s.name;
+GO
+
+-- View all tables and their schemas
+SELECT 
+    t.name AS TableName,
+    s.name AS SchemaName,
+    t.create_date,
+    t.modify_date
+FROM sys.tables t
+INNER JOIN sys.schemas s ON t.schema_id = s.schema_id
+ORDER BY s.name, t.name;
+GO
+
+-- View complete database object list
+SELECT 
+    o.name AS ObjectName,
+    s.name AS SchemaName,
+    o.type_desc AS ObjectType,
+    o.create_date,
+    o.modify_date
+FROM sys.objects o
+INNER JOIN sys.schemas s ON o.schema_id = s.schema_id
+WHERE o.type IN ('U', 'V', 'P', 'TR', 'FN')  -- Tables, Views, Stored Procedures, Triggers, Functions
+ORDER BY o.type_desc, s.name, o.name;
+GO
+
+-- 
+
+-- First verify the table exists and check its current schema
+SELECT 
+    s.name AS SchemaName,
+    t.name AS TableName
+FROM sys.tables t
+INNER JOIN sys.schemas s ON t.schema_id = s.schema_id
+WHERE t.name = 'Students';
+GO
+
+-- Move the table to select_schema
+ALTER SCHEMA select_schema TRANSFER dbo.Students;
+GO
+
+-- Verify the move
+SELECT 
+    s.name AS SchemaName,
+    t.name AS TableName
+FROM sys.tables t
+INNER JOIN sys.schemas s ON t.schema_id = s.schema_id
+WHERE t.name = 'Students';
+GO
+
+SELECT * FROM
+select_schema.Students;
 GO

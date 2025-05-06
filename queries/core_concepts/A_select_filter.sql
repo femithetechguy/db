@@ -8,6 +8,13 @@ GO
 USE fttg_db;
 GO
 
+-- Check current user and their default schema:
+SELECT 
+    USER_NAME() AS CurrentUser,
+    SCHEMA_NAME() AS DefaultSchema,
+    DB_NAME() AS CurrentDatabase;
+GO
+
 -- List all schemas in the current database
 SELECT SCHEMA_NAME AS SchemaName
 FROM INFORMATION_SCHEMA.SCHEMATA;
@@ -17,6 +24,12 @@ GO
 
 SELECT name AS SchemaName
 FROM sys.schemas;
+GO
+
+--  See current schema, this is the schema that will be used if no schema is specified
+-- in the query
+-- This is the default schema for the current user
+SELECT SCHEMA_NAME() AS CurrentSchema;
 GO
 
 -- See all tables in the current database
@@ -42,7 +55,7 @@ AND TABLE_NAME = 'Students';
 GO
 
 -- Insert data into the table
-INSERT INTO Students (name, age, grade)
+INSERT INTO select_schema.Students (name, age, grade)
 VALUES 
     ('Alice', 20, '88'),
     ('Bob', 22, '76'),
