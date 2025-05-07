@@ -150,3 +150,6 @@ run;
 - [FAQs](https://stats.oarc.ucla.edu/sas/faq/) - Frequently Asked Questions
 - [SAS On Demand](https://stats.oarc.ucla.edu/sas/seminars/notes/how-to-access-sas-ondemand/
 ) - SAS App on the internet
+- [SAS & VsCode ](https://blogs.sas.com/content/sasdummy/2024/02/13/vs-code-sas/) - SAS & VsCode -->
+- [SASOnDemand & VsCode](https://communities.sas.com/t5/SAS-Communities-Library/How-to-use-VS-Code-with-SAS-OnDemand-for-Academics/ta-p/914928
+) - SASOnDemand & VsCode
