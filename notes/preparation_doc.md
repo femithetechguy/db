@@ -10,7 +10,7 @@
 - **SQL-Tutorials** → [SQL-Tutorials](https://github.com/gowthamrajk/SQL-Tutorials/)
 - **The Best Medium-Hard Data Analyst SQL Interview Questions** → [The Best Medium-Hard Data Analyst SQL Interview Questions](https://gist.github.com/monbang/76151aa5f36d5c058f95ce396d992bdb)
 - **SQL & Data Interview Questions** → [SQL & Data Interview Questions](https://datalemur.com/questions)
-- ** ** → [](https://leetcode.com/problemset/database/) -->
+<!-- - ** ** → [](https://leetcode.com/problemset/database/) -->
 - **Glassdoor** → Search for “SQL interview questions” + company name.
 
 ✅ These sites offer real, company-tested questions from companies like Google, Amazon, Microsoft, and more.
