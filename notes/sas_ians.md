@@ -148,4 +148,5 @@ run;
 - [Modules](https://stats.oarc.ucla.edu/sas/modules/) - SAS Learning Modules
 - [Seminar](https://stats.oarc.ucla.edu/other/mult-pkg/seminars/#SAS) - SAS Seminar
 - [FAQs](https://stats.oarc.ucla.edu/sas/faq/) - Frequently Asked Questions
-- [SAS On Demand](https://www.sas.com/en_us/software/on-demand-for-academics.html) - SAS software in the cloud 
+- [SAS On Demand](https://stats.oarc.ucla.edu/sas/seminars/notes/how-to-access-sas-ondemand/
+) - SAS App on the internet
