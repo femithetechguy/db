@@ -96,6 +96,8 @@
   - [SAS Users YouTube Channel](https://www.youtube.com/@SASUsers)
   - [SAS Base Programming Reference Sheet](https://www.sas.com/content/dam/SAS/documents/technical/certification/exam-content/base-programming-ref-sheet.pdf)
   - [OARC YouTube Channel](https://www.youtube.com/@UCLAOARC)
+  - [SAS Explained Simply in 1 Hour](https://www.youtube.com/watch?v=ShInh1DpvEU&t=126s&ab_channel=GreatOnlineTraining)
+  - [Basics of SAS Programming in < 2 Hours](https://www.youtube.com/watch?v=vQZ0DSUTAzQ&ab_channel=LearningwithJelly)
 
 ## 16. Closing
 - **Thank you!**
