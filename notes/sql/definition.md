@@ -1,21 +1,21 @@
 # One-Day SQL Study Plan
 
-**Total Duration:** ~9.5 hours (excluding breaks) [cite: 3]
+**Total Duration:** ~9.5 hours (excluding breaks) 
 
-You can spread this over a weekend or do it in chunks. [cite: 3]
+You can spread this over a weekend or do it in chunks. 
 
-**Hour 1: SQL Basics & RDBMS Concepts (60 min)** [cite: 4]
+**Hour 1: SQL Basics & RDBMS Concepts (60 min)** 
 
-1.  **Topics:** [cite: 4]
-    * A. Introduction [cite: 4]
-    * B. What are Relational Databases? [cite: 13]
-    * C. RDBMS Benefits and Limitations [cite: 18]
-    * D. SQL vs NoSQL [cite: 33]
+1.  **Topics:** 
+    * A. Introduction 
+    * B. What are Relational Databases? 
+    * C. RDBMS Benefits and Limitations 
+    * D. SQL vs NoSQL 
     * E. Basic SQL Syntax
 
 ## Introduction
 
-SQL, which stands for Structured Query Language, is a programming language that is used to communicate with and manage databases. [cite: 5] SQL is a standard language for manipulating data held in relational database management systems (RDBMS), or for stream processing in a relational data stream management system (RDSMS). [cite: 6] It was first developed in the 1970s by IBM. [cite: 7]
+SQL, which stands for Structured Query Language, is a programming language that is used to communicate with and manage databases. SQL is a standard language for manipulating data held in relational database management systems (RDBMS), or for stream processing in a relational data stream management system (RDSMS). [cite: 6] It was first developed in the 1970s by IBM. [cite: 7]
 
 SQL consists of several components, each serving their own unique purpose in database communication: [cite: 7]
 
