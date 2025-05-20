@@ -70,10 +70,20 @@ FROM INFORMATION_SCHEMA.SCHEMATA
 WHERE SCHEMA_NAME = 'group_schema';
 GO 
 
--- Create group_schemas if not exists
+-- Create schemas for grouping and aggregation operations
 IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'group_schema')
     EXEC('CREATE SCHEMA group_schema')
 GO
+
+-- Confirm the schema creation
+SELECT SCHEMA_NAME AS SchemaName
+FROM INFORMATION_SCHEMA.SCHEMATA
+WHERE SCHEMA_NAME IN ('group_schema');
+GO
+-- -- Create group_schemas if not exists
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'group_schema')
+--     EXEC('CREATE SCHEMA group_schema')
+-- GO
 
 -- Double Verify group_schema exists
 SELECT SCHEMA_NAME AS SchemaName

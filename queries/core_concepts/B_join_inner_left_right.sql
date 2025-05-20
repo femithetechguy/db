@@ -64,48 +64,59 @@ GO
 
 -- BEGIN OTHER QUERIES HERE
 -- Create schemas with proper batch separation
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'select_schema')
-    EXEC('CREATE SCHEMA select_schema')
-GO
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'select_schema')
+--     EXEC('CREATE SCHEMA select_schema')
+-- GO
 
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'join_schema')
+--     EXEC('CREATE SCHEMA join_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'group_schema')
+--     EXEC('CREATE SCHEMA group_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'case_schema')
+--     EXEC('CREATE SCHEMA case_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'subquery_schema')
+--     EXEC('CREATE SCHEMA subquery_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'windowfunction_schema')
+--     EXEC('CREATE SCHEMA windowfunction_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'storedproc_schema')
+--     EXEC('CREATE SCHEMA storedproc_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'view_schema')
+--     EXEC('CREATE SCHEMA view_schema')
+-- GO
+
+-- IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'trigger_schema')
+--     EXEC('CREATE SCHEMA trigger_schema')
+-- GO
+
+-- -- Confirm the schema creation
+-- SELECT SCHEMA_NAME AS SchemaName
+-- FROM INFORMATION_SCHEMA.SCHEMATA
+-- WHERE SCHEMA_NAME IN ('select_schema', 'join_schema', 'group_schema', 'case_schema', 'subquery_schema', 'windowfunction_schema', 'storedproc_schema', 'view_schema', 'trigger_schema');
+-- GO
+
+
+-- Create schemas for join operations
 IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'join_schema')
     EXEC('CREATE SCHEMA join_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'group_schema')
-    EXEC('CREATE SCHEMA group_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'case_schema')
-    EXEC('CREATE SCHEMA case_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'subquery_schema')
-    EXEC('CREATE SCHEMA subquery_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'windowfunction_schema')
-    EXEC('CREATE SCHEMA windowfunction_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'storedproc_schema')
-    EXEC('CREATE SCHEMA storedproc_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'view_schema')
-    EXEC('CREATE SCHEMA view_schema')
-GO
-
-IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'trigger_schema')
-    EXEC('CREATE SCHEMA trigger_schema')
 GO
 
 -- Confirm the schema creation
 SELECT SCHEMA_NAME AS SchemaName
 FROM INFORMATION_SCHEMA.SCHEMATA
-WHERE SCHEMA_NAME IN ('select_schema', 'join_schema', 'group_schema', 'case_schema', 'subquery_schema', 'windowfunction_schema', 'storedproc_schema', 'view_schema', 'trigger_schema');
+WHERE SCHEMA_NAME IN ('join_schema');
 GO
-
 
 -- Create Student table in the join_schema
 CREATE TABLE join_schema.Students (
@@ -180,5 +191,18 @@ INNER JOIN join_schema.Scores sc ON s.student_id = sc.student_id
 ORDER BY s.student_id;
 GO
 
+--  FULL OUTER JOIN
+-- Show All rows from both tables, with NULLs where there are no matches
+SELECT s.student_id, s.name, sc.score
+FROM join_schema.Students s
+FULL OUTER JOIN join_schema.Scores sc ON s.student_id = sc.student_id
+ORDER BY s.student_id;
+GO
 
-
+-- CROSS JOIN
+-- Show All combinations of rows from both tables
+SELECT s.student_id, s.name, sc.score
+FROM join_schema.Students s
+CROSS JOIN join_schema.Scores sc
+ORDER BY s.student_id, sc.student_id;
+GO
