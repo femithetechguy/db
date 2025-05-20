@@ -38,8 +38,32 @@ FROM INFORMATION_SCHEMA.TABLES
 WHERE TABLE_TYPE = 'BASE TABLE';
 GO
 
+-- Create schemas with proper batch separation for select and filtering called select_schema
+IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'select_schema')
+    EXEC('CREATE SCHEMA select_schema')
+GO
+
+-- remove Student from dbo schema if it exists
+IF EXISTS (SELECT * FROM sys.tables WHERE name = 'Students' AND SCHEMA_NAME(schema_id) = 'dbo')
+    DROP TABLE dbo.Students;
+GO
+
+-- confirm student is removed from dbo schema
+SELECT TABLE_NAME, TABLE_SCHEMA
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_TYPE = 'BASE TABLE'
+AND TABLE_NAME = 'Students';
+GO
+
+-- Confirm the schema creation
+SELECT SCHEMA_NAME AS SchemaName
+FROM INFORMATION_SCHEMA.SCHEMATA
+WHERE SCHEMA_NAME IN ('select_schema');
+GO
+
+
 -- Create a new table   
-CREATE TABLE Students (
+CREATE TABLE select_schema.Students (
     id INT IDENTITY(1,1) PRIMARY KEY,
     name NVARCHAR(50),
     age INT,
@@ -64,13 +88,13 @@ VALUES
 GO
 
 -- Verify the insertion was scuccessful
-SELECT * FROM Students ORDER BY id;
+SELECT * FROM select_schema.Students ORDER BY id;
 GO
 
 -- Selection and filtering task
 -- Select name, and grade of all students with age greater than 20
 SELECT name, grade
-FROM Students
+FROM select_schema.Students
 WHERE age > 20;
 GO
 
