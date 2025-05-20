@@ -65,18 +65,18 @@ GO
 
 -- BEGIN OTHER QUERIES HERE
 
--- Verify group_schema exists
+-- Verify case_schema exists
 SELECT SCHEMA_NAME AS SchemaName
 FROM INFORMATION_SCHEMA.SCHEMATA
 WHERE SCHEMA_NAME = 'case_schema';
 GO 
 
--- Create group_schemas if not exists
+-- Create case_schemas if not exists
 IF NOT EXISTS (SELECT * FROM sys.schemas WHERE name = 'case_schema')
     EXEC('CREATE SCHEMA case_schema')
 GO
 
--- Double Verify group_schema exists
+-- Double Verify case_schema exists
 SELECT SCHEMA_NAME AS SchemaName
 FROM INFORMATION_SCHEMA.SCHEMATA
 WHERE SCHEMA_NAME = 'case_schema';
@@ -84,7 +84,7 @@ GO
 
 -- New Changes Begin Here
 
--- Create group_schema.Sales table if not exists
+-- Create case_schema.Sales table if not exists
 IF NOT EXISTS (SELECT * FROM sys.objects WHERE name = 'Orders' AND schema_id = SCHEMA_ID('case_schema'))
 BEGIN
     CREATE TABLE case_schema.Orders (
@@ -93,7 +93,7 @@ BEGIN
     );
 END
 GO
--- Verify group_schema.Sales table exists
+-- Verify case_schema.Sales table exists
 SELECT TABLE_NAME, TABLE_SCHEMA
 FROM INFORMATION_SCHEMA.TABLES
 WHERE TABLE_TYPE = 'BASE TABLE'
@@ -107,7 +107,7 @@ WHERE SCHEMA_NAME(schema_id) = 'case_schema'
 AND name = 'Orders';
 GO
 
--- Verify group_schema.Sales was created
+-- Verify case_schema.Sales was created
 SELECT TABLE_NAME, TABLE_SCHEMA
 FROM INFORMATION_SCHEMA.TABLES
 WHERE TABLE_TYPE = 'BASE TABLE'
