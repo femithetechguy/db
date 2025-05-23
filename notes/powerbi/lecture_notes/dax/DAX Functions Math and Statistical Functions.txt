@@ -1,0 +1,279 @@
+Math and Statistical Functions
+
+INT
+
+INT Rounds a number down to the nearest integer.
+
+
+INT Example = INT (Orders [Sales])
+12.34 =12		12.78 = 12		12.55=12
+--------------------------------------------------
+ROUND
+
+Round function will Rounds a number to the given number of digits.
+
+Round Example = ROUND (Orders [Sales], 0)
+
+12.34 =12		12.78 = 13		12.55=13
+
+Round Example = ROUND (Orders [Sales], 1)
+
+12.34 =12.3		12.78 = 12.8		12.55=12.6
+-------------------------------------------------------------
+ROUNDUP
+
+Roundup will Rounds a number to next integer value if num_digits = 0.
+
+
+ROUNDUP Example = ROUNDUP (Orders [Sales], 0)
+
+12.34 =13		12.78 = 13		12.55=13
+
+ROUNDUP Example = ROUNDUP (Orders [Sales], 1)
+
+12.34 =12.4		12.78 = 12.8		12.55=12.6
+
+--------------------------------------------------------------------------
+
+ROUNDDOWN
+
+ROUNDDOWN Rounds a number down, toward zero.
+
+ROUNDDOWN Example = ROUNDDOWN (Orders [Sales], 0)   =  INT(Orders [Sales])
+
+12.34 =12		12.78 = 12		12.55=12
+
+ROUNDDOWN Example = ROUNDDOWN (Orders [Sales], 1)
+
+12.34 =12.3		12.78 = 12.7		12.55=12.5
+------------------------------------------------
+DIVIDE
+
+Performs division and returns alternate result or BLANK () on division by 0.
+
+Divide Example = DIVIDE (Orders [Sales], Orders [Quantity])
+Divide Example = DIVIDE (Orders [Sales], Orders [Quantity], 0)
+Divide Example = DIVIDE (200,4,0) = 50
+Divide Example = DIVIDE (100,0, -1) = -1
+-----------------------------------------------------------
+
+EVEN
+
+Returns number rounded up to the nearest even integer.
+
+
+Even Example = EVEN (Orders [Sales])
+
+12.34 =14		12.78 = 14		12.55=14
+13.34 =14		13.78 = 14		13.55=14
+
+-----------------------------------------------------------------------
+
+ODD
+
+Returns number rounded up to the nearest odd integer.
+
+Example
+
+Odd Example = ODD (Orders [Sales])
+12.34 =13		12.78 = 13		12.55=13
+13.34 =15		13.78 = 15		13.55=15
+
+---------------------------------------------------------------------------------
+
+POWER (^)
+
+Returns the result of a number raised to a power.
+
+Example
+
+Power Example = POWER (Orders [Quantity], Orders [Quantity])
+Power Example = POWER (Orders [Quantity],2)
+Power Example = POWER (4,2) ->16
+Power Example = POWER (3,3) ->27
+
+------------------------------------
+
+SIGN
+
+SIGN determines the sign of a number, the result of a calculation, or a value in a column. 
+The function returns 1 if the number is positive, 0 (zero) if the number is zero, or -1 if the number is negative.
+
+Example
+
+Sign Example = SIGN (Orders [Profit])
+-----------------------------------------------
+SQRT
+
+SQRT returns the square root of a number. If the number is negative, the SQRT function returns an error.
+
+Example
+
+SQRT Example = SQRT (Orders [Quantity])
+SQRT Example = ROUND (SQRT (Orders [Quantity]), 2)
+----------------------------------------------------------
+FACT
+
+Returns the factorial of a number, equal to the series 1*2*3*..., ending in the given number.
+
+Example
+
+FACT Example = FACT (Orders [Quantity])
+-----------------------------------------------------
+Measures  - %, Ratios or Aggregate - Group of Rows when we need one value
+
+Types of Measures
+
+1. Implicit Mesures
+2. Explicit Measures
+
+Create Table Visualization which shows SumSal, MinSal, MaxSal, AvgSal, CountOfEmp from Emp Table
+Create Table Visualization which shows dept wise SumSal, MinSal, MaxSal, AvgSal, CountOfEmp from Emp Table
+
+TotSal= SAL+COMM
+
+SUM
+
+SUM Function Adds all the numbers in a column.
+SUM (<column>)  
+Sum of Sal = SUM (EMP [SAL])
+
+--------------------------------------------
+
+SUMX
+
+Returns the sum of an expression evaluated for each row in a table.
+SUMX (<table>, <expression>)  
+SUMX of Sal = SUMX (EMP, EMP [SAL] +EMP [COMM])
+
+----------------------------------------------------------
+
+MIN
+
+Returns the smallest numeric value in a column.
+MIN (<column>)
+Min of Sal = MIN(EMP[SAL])
+-----------------------------------------------------------
+MINX
+
+Returns the smallest numeric value that results from evaluating an expression for each row of a table.
+MINX (<table>, <expression>)
+MINX of Sal = MINX (EMP, EMP [SAL]+ EMP [COMM])
+
+--------------------------------------------------------------------
+MAX 
+
+Returns the largest numeric value in a column.
+MAX (<column>)
+MAX of Sal = MAX(EMP[SAL])
+-----------------------------------------------------------------------
+MAXX
+
+Evaluates an expression for each row of a table and returns the largest numeric value.
+MAXX (<table>, <expression>)
+MAXX of Sal = MAXX (EMP, EMP [SAL]+ EMP [COMM])
+
+--------------------------------------------------------------------------------
+COUNT
+
+Counts the number of cells in a column that contain numbers or values.
+COUNT (<column>)
+COUNT Example = COUNT(EMP[SAL])
+Count Example1 = COUNT (EMP [COMM])
+------------------------------------------------------------------------------------
+COUNTX
+
+Counts the number of rows that contain a number or an expression that evaluates to a number, when evaluating an expression over a table.
+COUNTX (<table>, <expression>)
+COUNTX Example = COUNTX (EMP, EMP[SAL]+EMP[COMM])
+
+All Statistical Functions they Don't Consider NULL Values
+
+Any arithmetic operation with NULL results you NULL
+-----------------------------------------------------------------------------------------
+
+AVERAGE
+
+AVERAGE Function Will Returns the average of all the numbers in a column.
+AVERAGE (<column>)  
+Average Example = AVERAGE(EMP[SAL])
+Average of COMM = AVERAGE(EMP[COMM])
+--------------------------------------------------------------
+AVERAGEX
+Calculates the average of a set of expressions evaluated over a table.
+AVERAGEX (<table>, <expression>)
+AVERAGEX Example = AVERAGEX (EMP, EMP[SAL]+EMP[COMM])
+-------------------------------------------------------------------------------
+
+COUNTROWS
+Counts the number of rows in the specified table, or in a table defined by an expression.
+COUNTROWS (<table>)
+COUNTROWS Example = COUNTROWS(EMP)
+------------------------------------------------------------------------------
+
+COUNTBLANK
+
+Counts the number of blank cells in a column.
+COUNTBLANK (<column>)
+COUNTBLANK Example = COUNTBLANK(EMP[COMM])
+
+-------------------------------------------------------------------
+
+RANKX
+
+The RANKX function is used in DAX to create rankings.
+
+Rank the Salaries for Each Employee
+RANKX (TABLE, EXPRESSION [, VALUE] [, ORDER] [, TIES]…)
+
+ORDER - ASC or DESC - Default Desc
+ASC - Least Values first Rank and Highest Values Last Rank
+DESC - Highest Values first Rank and Least Values Last Rank
+
+TIES - Dense or Skip - Default Skip
+Dense – will not Skip Between Rank Numbers
+Skip - Skip Between Rank Numbers
+
+Optional arguments might be skipped by placing an empty comma (,) in the argument list,
+ i.e. RANKX = RANKX (EMP, EMP[SAL],,,Dense)
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

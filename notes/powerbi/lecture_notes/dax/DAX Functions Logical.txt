@@ -1,0 +1,101 @@
+DAX Logical Functions
+
+IF 
+
+IF function is used to check the given expression is True or False. 
+If the expression results TRUE then second argument will return otherwise, third argument will return.
+IF (LogicalTest, ResultIfTrue, [ResultIfFalse])
+Syntax in Square Brackets is optional. If you are not providing third argument, then if the condition is not satisfied it will return NULL values. 
+If Example = IF(Orders[Quantity]>1,"Multiple Products", "Single Product")
+
+Nested IF Function
+
+In Power BI DAX, you can use the Nested If concept, One If statement inside another. 
+Nested If Example = IF(Orders[Sales]<100,"Low Sales", IF(Orders[Sales]>300, "High Sales", "Avg Sales"))
+--------------------------------------------
+TRUE, FALSE
+
+The DAX TRUE function will return a logical value True. The DAX FALSE function will return logical False.
+True and False Example = IF(Orders[Sales]>100, TRUE (), FALSE ()) 
+
+True/False = IF(Orders[Discount]>0,TRUE(),FALSE())
+
+True/False = IF(ISBLANK(Emp[COMM]),FALSE(),TRUE())
+------------------------------------------
+
+NOT
+
+The DAX NOT function will convert True to False, and False to True. I mean, it returns opposite result. 
+
+NOT example = NOT(IF(Orders[Sales]>100, TRUE (), FALSE ()))
+----------------------------------------------------
+
+OR   - ||
+
+The DAX OR function is like either or statement in English, which is used to check multiple expressions. 
+
+Weekday = WEEKDAY (Orders [Order Date])
+Weekend = IF(OR(Orders[Weekday]=1, Orders[Weekday]=7),"Weekend", "Weekday")
+Weekend = IF(Orders[Weekday]=1 || Orders[Weekday]=7,"Weekend", "Weekday")
+
+T	T	T
+T	F	T
+F	T	T
+F	F	F
+	    
+
+-----------------------------------------------------
+
+IN
+
+IN Example = IF(Orders[Weekday] IN {2,3,4,5,6}," Weekday ", Weekend"")
+-------------------------------------------------------
+AND    &&
+
+The DAX AND function is used to check multiple expressions.
+
+And Example = IF(AND(Orders[Category]="Office Supplies", Orders[Sub-Category] = "Storage"), TRUE (), FALSE ())
+And example = IF(Orders[Category]="Office Supplies" && Orders[Sub-Category] = "Storage", TRUE(), FALSE())
+
+RvsdSal = IF(AND(Emp[DEPTNO]=30,Emp[JOB]="SALESMAN"),Emp[SAL]+1000,Emp[SAL])
+RSal = IF(Emp[DEPTNO]=30 && Emp[JOB]="SALESMAN",Emp[SAL]+1000,Emp[SAL])
+
+T	T	T
+T	F	F
+F	T	F
+F	F	F
+
+----------------------------------------------------------
+
+IFERROR
+
+The DAX IFERROR function is very useful to handle the arithmetic overflow, or any other errors. It simply performs calculation and return the result, if there is an error then it will return the value inside the second argument.  
+
+Error Example = IFERROR(Orders[Sales]/Orders[Quantity], 100)
+Error Example = IFERROR(Orders[Sales]/0, 100)
+--------------------------------------------------------------
+
+SWITCH 
+
+The DAX SWITCH function helps you to return multiple options. 
+SWITCH () always test for equivalence. 
+
+Switch Example = SWITCH (MONTH (Orders [Order Date]), 1, "January", 2, "February", 3, "March", 4, "April", 5, "May", 12, "December", "Unknown")
+Switch Example = SWITCH (TRUE (), Orders [Sales]<100, "Low Sales”, Orders[Sales]>300,"High Sales”, “Medium Sales")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
