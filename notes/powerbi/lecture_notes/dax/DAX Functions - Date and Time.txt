@@ -1,0 +1,87 @@
+New Columns
+New Measures
+New Tables
+
+DAX Functions   			
+--------------------
+
+Date and Time Functions
+Logical Functions
+Text Functions
+Math & Statistical Functions
+Filter Functions
+Time Intelligence Functions
+
+==========================================
+
+Date and Time Functions
+----------------------------
+
+Year - Year Function will derive Year from given Date
+Month - Month Function will derive "Month Number" from given Date(1-12)
+Day - Day Function will derive Day from given date (1-31)
+Weekday - Weekday function will derive weekday number from given date(1-7)
+Weeknum - Weeknum function will derive week number of year from given date (1-52/53)
+Format - Use Format function to derive Month Name and Weekday Name 
+	Month Name = Format (Orders [Order Date],"MMMM")   --> Gives full Month Name
+	Month Name = Format (Orders [Order Date],"MMM")   --> Gives Month Name abbreviations
+	Weekday Name = FORMAT (Orders [Order Date],"DDDD")   --> Gives Full Weekday Name
+	Weekday Name = FORMAT (Orders [Order Date],"DDD")   --> Gives Weekday Name abbreviations
+DATE - Date function will accept Year,Month and Day and will return Date
+TODAY - Today function will return todays Date and day start time
+NOW - Now function will return todays Date and current Time
+HOUR - Hour funtion will return Hours from given Date and time
+MINUTE - Minute funtion will return Minutes from given Date and time
+SECOND - Second funtion will return Seconds from given Date and time
+TIME - Takes Hours, Minutes and Seconds and gives you the time
+DATEDIFF - Datediff function will give the difference between two dates.
+	No of Days = DATEDIFF (Orders [Order Date], Orders [Ship Date], DAY)
+	(Select don’t summarize for No of Days to get correct results)
+
+CALENDAR - The calendar function returns a table with a single column that contains a continuous set of dates. The start and end date range will be supplied as parameters.
+CALENDARAUTO - Least Date - 3Jan2014  & Highest Data 28Nov2018
+EOMONTH - Gives end of the Month for given Date. You can add even Months to the date "0" for current Month and 1 for Next month soon
+NoofDayInMonth = DAY(EOMONTH(Emp[HIREDATE],0))
+
+Date Dimension (Date_Dim)
+---------------------
+CALENDAR(Start_Date,End_Date)
+Day = DAY(Date_Dim[Date])
+WeekDay = WEEKDAY(Date_Dim[Date])
+WeekDayName = FORMAT(Date_Dim[Date],"DDDD")
+Month = MONTH(Date_Dim[Date])
+MonthName = FORMAT(Date_Dim[Date],"MMMM")
+Quarter = ROUNDUP((Date_Dim[Month]/3),0)
+Quarter = IF (Month Number<4,"Qtr 1”, IF (Month Number<7,"Qtr 2”, IF (Month Number<10,"Qtr 3","Qtr 4")))
+QuarterName = "Qtr" & Date_Dim[Quarter]
+QuarterName = CONCATENATE ("Qtr", Date_Dim[Quarter])
+Year = YEAR(Date_Dim[Date])
+WeekNumber = WEEKNUM(Date_Dim[Date])
+WeekNumMonth = 1 + WEEKNUM (Dim_Date[Date]) - WEEKNUM(STARTOFMONTH(Dim_Date[Date]))
+WeekNameMonth = "Week" & " " & Date_Dim[WeekNumMonth]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

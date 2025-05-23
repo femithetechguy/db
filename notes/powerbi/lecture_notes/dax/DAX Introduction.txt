@@ -1,0 +1,117 @@
+Enhancing the Data Model - Creating the New information from Existing Information
+
+DAX - Data Analysis eXpressions - Functional Language used in Power BI - Power Pivot, SSAS Tabular, Excel Power Pivot
+
+SSIS - ETL	- Power Query
+SSAS - OLAP	- Power Pivot  - Tabular OLAP
+SSRS - Reporting	- Power View
+
+MSBI SSAS
+SSAS Multidimensional - MDX - Multi – Dimensional eXpressions
+SSAS Tabular - DAX - Data Analysis eXpressions 
+
+What you are going to do with DAX?
+
+New Columns / Calculated Columns, New Measures & New Tables
+
+TotSal = Emp[SAL]+Emp[COMM]
+Unit Price=Orders[Sales]/'Orders Details'[Quantity]
+Sum Of Sales = SUM(Orders[Sales])
+
+ExpOfEmp = DATEDIFF(Emp[HIREDATE],TODAY(),YEAR)
+
+
+Calculated Columns / New Columns, New Measures & New Table are created using 
+DAX Functions, Operators, and Constants 
+
+Revised Sal = 'EMP Details'[SAL]+1000
+
+ExpOfEmp = DATEDIFF(Emp[HIREDATE],TODAY(),YEAR)
+
+RvsdSal = IF(Emp[DEPTNO]=10,Emp[SAL]+1000,Emp[SAL]+2000)
+
+==========================================
+DAX Table and Column Name syntax
+
+'Table Name'[ColumnName]
+TableName[Column Name]
+
+==========================================
+New Column / Calculated Column ->Calculated Column will be created when you want a calculation for every row in your table.
+
+Use a calculated column when you want to evaluate each row
+
+Creating New Column / Calculated Column 
+
+==========================================
+
+Measures - Use a calculated measure when you are calculating percentages or ratios, or you need complex aggregations. 
+
+Use a measure when you need an aggregate
+
+Creating Measure
+
+Types of Measures
+
+Implicit Vs Explicit Measures
+
+Implicit Measures are created when you drag raw numerical fields (like Sales, Profit, Quantity) into the values field well of a visual and 
+manually select the aggregation mode (Sum, Average, Min/Max, etc.).
+
+Explicit measures are created by actually entering DAX functions like below 
+	Sum Of Sales = SUM(Orders[Sales])
+
+Implicit measures are only accessible within the specific visualization in which it was created, and cannot be referenced elsewhere.
+
+Explicit measures can be used anywhere in the report and referenced with other DAX calculations.
+	Sum Of Sales = SUM (Orders[Sales])
+	% Sales = [Sum Of Sales]/CALCULATE([Sum Of Sales],ALL(Orders))
+
+===========================================
+
+Calculated Column Vs Measure
+
+===========================================
+
+Power Pivot - Enhancing Data Model - New Columns, New Measures & New Tables
+
+Formulas - DAX Functions, Operators & Constants, Existing Columns
+
+Types of Operators
+
+Arithmetic Operators
+
++ (Addition)
+- (Subtraction)
+* (Multiplication)
+/ (Division)
+ ^ (Exponentiation)
+
+=============================================
+
+Comparision Operator
+
+
+= (Equal to)
+<> (Not equal to)
+< (Less than)
+<= (Less than or equal to)
+> (Greater than)
+>= (Greater than or equal to)
+
+Rvsd Sal = IF(EMP[DEPTNO]=10,EMP[Sal]+1000,'EMP'[Sal]+2000)
+
+=================================================
+
+Text Concatenation Operator
+
+& (ampersand)
+
+==========================================
+
+Logical Operators
+
+&& (double ampersand) - AND
+|| (double pipe symbol) - OR -> Deptno =10 || Deptno = 20 || Deptno =30
+IN{} -> Deptno IN{10,20,30}
+

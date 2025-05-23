@@ -1,0 +1,120 @@
+Text Functions
+
+LEN
+
+LEN function will Returns the Number of characters in string.
+
+Example
+
+Length = LEN (Orders [Customer Name]) 
+
+-------------------------------------------------------
+
+CONCATENATE (&)
+
+CONCATENATE function joins two text strings into one text string.
+
+Concat = CONCATENATE (Orders [Category], CONCATENATE (" - ", Orders [Sub-Category]))
+Concatenate = Orders [Category] & " - " & Orders [Sub-Category]
+
+CLARK - MANAGER
+------------------------------------------------------------
+
+LEFT
+
+LEFT Function Returns the specified number of characters from the start of a text string.
+
+
+Left = LEFT (Orders [Country], 5)
+
+---------------------------------------------------------------------
+
+RIGHT
+
+RIGHT function returns the last character or characters in a text string, based on the number of characters you specify.
+
+Right = RIGHT (Orders [Country], 5)
+
+-------------------------------------------
+
+MID
+
+MID Function Returns a string of characters from the middle of a text string, given a starting position and length.
+
+Mid = MID (Orders [Country], 8, 5)
+
+-----------------------------------------------------
+
+UPPER
+
+UPPER Function Converts a text string to all uppercase letters.
+
+Upper = UPPER (Orders [Country])
+
+------------------------------------------------------------
+
+LOWER
+
+Lower Function Converts all letters in a text string to lowercase.
+
+Lower = LOWER (Orders [Country])
+
+------------------------------------------------------------------
+
+TRIM
+
+TRIM Function Removes all spaces from text except for single spaces between words.   
+
+Trim = TRIM (Orders [Customer Name])
+--------------------------------------------------------
+SUBSTITUTE
+
+SUBSTITUTE Function Replaces existing text with new text in a text string.
+
+Substitute = SUBSTITUTE (Orders [Country], "t", "T") – Replace existing text with new text for all occurrences 
+Substitute = SUBSTITUTE (Orders [Country], "t", "T", 2) - Replace existing text with new text for second occurrence only.
+
+------------------------------------------------------------------------
+REPLACE
+
+REPLACE(Emp[JOB],1,3,"@")
+
+Replace = REPLACE(Orders[Sub-Category],1,3,"@")
+
+------------------------------------------------------------------------
+BLANK
+
+Returns a blank.
+
+Usage
+
+Avoids ‘Divide by zero’ error.
+
+Blank = IF (Orders[Quantity] = 0, BLANK (), Orders[Sales]/ Orders[Quantity])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

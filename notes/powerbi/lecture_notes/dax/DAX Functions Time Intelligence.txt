@@ -1,0 +1,154 @@
+Time Intelligence
+
+Time Intelligence means doing calculations over periods of time or dates. 
+Time Intelligence Functions will need a DATE column to perform the calculations.
+This date column should contain unique, no null and contiguous date values to get the accurate results.
+To make DAX Time Intelligence functions work properly set date dimension table as “Mark as date table”.
+
+When you specify your own date table, Power BI Desktop performs the following validations of that column and its data, to ensure that the data
+	contains unique values
+	contains no null values
+	contains contiguous date values (from beginning to end)
+	if it is a Date/Time data type, it has the same timestamp across each value
+-----------------------------------------------------------------------------
+DAX Time Intelligence Functions
+-----------------------------------------------------------------------------
+TOTALMTD  - MonthToDate
+
+Evaluates the value of the expression for the month to date, in the current context. 
+TOTALMTD will give Running Totals or cumulative sum for each Month.
+
+Total MTD = TOTALMTD(SUM(Orders[Sales]), Dim_Date[Date])
+
+-----------------------------------------------------------------------------
+TOTALQTD
+
+Evaluates the value of the expression for the dates in the quarter to date, in the current context. 
+TOTALQTD will give Running Totals or cumulative sum for each Quarter.
+
+Total QTD = TOTALQTD(SUM(Orders[Sales]), Dim_Date[Date])
+-----------------------------------------------------------------------------
+TOTALYTD
+
+Evaluates the year-to-date value of the expression in the current context. 
+TOTALYTD will give Running Totals or cumulative sum for each year.
+
+Total YTD = TOTALYTD(SUM(Orders[Sales]), Dim_Date[Date])
+--------------------------------------------------------------------------------
+
+PREVIOUSDAY
+
+Returns a table that contains a column of all dates representing the day that is previous to the first date in the dates column, in the current context.
+
+Previous Day = CALCULATE(SUM(Orders[Sales]), PREVIOUSDAY(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+
+PREVIOUSMONTH
+
+Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.
+
+Previous Month = CALCULATE(SUM(Orders[Sales]), PREVIOUSMONTH(Dim_Date[Date]))
+
+Prev6MonthSales = CALCULATE(SUM(Orders[Sales]),PREVIOUSMONTH(DATEADD(Dim_Date[Date],-6,MONTH)))
+--------------------------------------------------------------------------------
+PREVIOUSQUARTER
+
+Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.
+
+Previous Quarter = CALCULATE(SUM(Orders[Sales]), PREVIOUSQUARTER(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+PREVIOUSYEAR
+
+Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.
+
+Previous Year = CALCULATE(SUM(Orders[Sales]), PREVIOUSYEAR(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+NEXTDAY
+
+Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context.
+
+Next Day = CALCULATE ([Sum of Sales], NEXTDAY(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+NEXTMONTH
+
+Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context.
+
+Next Month = CALCULATE ([Sum of Sales], NEXTMONTH(Dim_Date[Date]))
+
+
+
+
+--------------------------------------------------------------------------------
+NEXTQUARTER
+
+Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context.
+
+Next Quarter = CALCULATE ([Sum of Sales], NEXTQUARTER(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+
+NEXTYEAR
+
+Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context.
+
+Next Year = CALCULATE ([Sum of Sales], NEXTYEAR(Dim_Date[Date]))
+--------------------------------------------------------------------------------
+SAMEPERIODLASTYEAR
+
+Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.
+
+LastYearSales = CALCULATE(SUM(Orders[Sales]), SAMEPERIODLASTYEAR(Dim_Date[Date]))
+
+By using same period last year, you will be knowing
+	Last Year Same Month what is the value
+	Last Year Same Quarter what is the value
+	Last Year what is the Value
+--------------------------------------------------------------------------------
+
+Year Over Year (YOY Growth)
+
+Current Year Sales = SUM(Orders[Sales]) 
+
+Last Year Sales = CALCULATE (SUM(Orders[Sales]), SAMEPERIODLASTYEAR(Dim_Date[Date]))
+Last Year Sales = CALCULATE(SUM(Orders[Sales]), PREVIOUSYEAR(Dim_Date[Date]))
+
+% YOY = DIVIDE ([Current Year Sales], [Last Year Sales], "NO LY Data")
+--------------------------------------------------------------------------------
+MOM Growth
+
+Sum of Sales = SUM(Orders[Sales])
+Last Month Sales = CALCULATE(SUM(Orders[Sales]), PREVIOUSMONTH(Dim_Date[Date]))
+% MOM = DIVIDE ([Sum of Sales], [Last Month Sales])
+
+--------------------------------------------------------------------------------
+
+PrevYearSales = CALCULATE(SUM(Orders[Sales]),PREVIOUSYEAR(Dim_Date[Date]))
+
+
+%Sales = ([SumOfSales]-[SamePrdLastYear])/[SumOfSales]
+
+%Sales = ([SumOfSales]-[SamePrdLastYear])/[SumOfSales]
+
+%YoY = ([SumSales]-[PYSales])/[PYSales]
+
+
+Quick Measures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
