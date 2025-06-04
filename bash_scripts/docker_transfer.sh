@@ -1,27 +1,23 @@
 #!/bin/bash
 
-# === CONFIGURATION ===
-IMAGE_NAME="myapp:latest"
-CONTAINER_NAME="my_container"
-TARGET_USER="remote_user"
-TARGET_HOST="remote_host"
-TARGET_DIR="/tmp/docker_transfer"
+# IDs provided
+CONTAINER_ID="1ba6a5806e7537e30adf308a4d1358f328d1130b8d90cb0d72b5cfd45dcfadaf"
+IMAGE_ID="sha256:147ee765ff1db3b86ce6ec05908e51fd0dab2feda5dd85b2721f28c77ca305eb"
 
-# === DERIVED FILE NAMES ===
-IMAGE_FILE="image.tar"
-CONTAINER_FILE="container.tar"
+# Optional names for output files
+IMAGE_TAR="docker_image_backup.tar"
+CONTAINER_TAR="docker_container_backup.tar"
 
-echo "[+] Saving Docker image..."
-docker save -o "$IMAGE_FILE" "$IMAGE_NAME"
+echo "Saving Docker image..."
+docker save -o "$IMAGE_TAR" "$IMAGE_ID"
 
-echo "[+] Exporting container filesystem..."
-docker export -o "$CONTAINER_FILE" "$CONTAINER_NAME"
+echo "Exporting Docker container..."
+docker export "$CONTAINER_ID" -o "$CONTAINER_TAR"
 
-echo "[+] Copying files to $TARGET_USER@$TARGET_HOST:$TARGET_DIR ..."
-ssh "$TARGET_USER@$TARGET_HOST" "mkdir -p $TARGET_DIR"
-scp "$IMAGE_FILE" "$CONTAINER_FILE" "$TARGET_USER@$TARGET_HOST:$TARGET_DIR"
+echo "Done. Files created:"
+echo "- $IMAGE_TAR"
+echo "- $CONTAINER_TAR"
 
-echo "[+] Cleanup local tar files..."
-rm "$IMAGE_FILE" "$CONTAINER_FILE"
-
-echo "[✓] Done. Now run the import script on the target system."
+echo ""
+echo "To transfer to another machine, run this from your local terminal:"
+echo "scp $IMAGE_TAR $CONTAINER_TAR user@destination_ip:/path/to/destination/"
