@@ -2,6 +2,7 @@
 # 📘 DAX (Data Analysis Expressions) Reference Sheet
 
 ## 🔹 What is DAX?
+
 DAX stands for **Data Analysis Expressions**. It is a formula language used in:
 - Power BI
 - Excel Power Pivot
@@ -123,4 +124,9 @@ Sales Rank = RANKX(ALL(Sales[Product]), [Total Revenue])
 
 Watch this videos for a practical introduction to DAX formulas and tips for Power BI.
 
-**Happy DAX-ing!** 🚀
+## Documentation
+
+For more information, see the official documentation:  
+- [DAX Reference](https://learn.microsoft.com/en-us/dax/)  
+- [DAX Guide](https://dax.guide)
+

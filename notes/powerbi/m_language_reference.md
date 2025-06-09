@@ -112,3 +112,10 @@ in
 
 [![Power Query M Language Tutorial](http://img.youtube.com/vi/5s8Ky5r43uI/0.jpg)](http://youtu.be/5s8Ky5r43uI)
 
+
+## Documentation
+
+For more information, see the official documentation:  
+- [MQuery Reference](https://learn.microsoft.com/en-us/powerquery-m/)  
+
+
