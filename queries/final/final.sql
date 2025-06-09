@@ -1,5 +1,5 @@
 -- Select the desired database
-USE tempdb;
+USE fttg_db;
 GO
 
 -- Confirm current database, user and schemas

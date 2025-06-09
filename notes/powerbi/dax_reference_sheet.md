@@ -111,8 +111,16 @@ Sales Rank = RANKX(ALL(Sales[Product]), [Total Revenue])
 
 ## 📊 How to use Power BI DAX - Tutorial
 
+
+
+[![The Most Important DAX Functions You Must Know in Power BI](https://img.youtube.com/vi/VfeX33w0K9M/0.jpg)](https://www.youtube.com/watch?v=VfeX33w0K9M)
+
+**The Most Important DAX Functions You Must Know in Power BI**
+
+
+
 [![DAX Reference Video](https://img.youtube.com/vi/waG_JhBgUpM/0.jpg)](https://www.youtube.com/watch?v=waG_JhBgUpM)
 
-Watch this video for a practical introduction to DAX formulas and tips for Power BI.
+Watch this videos for a practical introduction to DAX formulas and tips for Power BI.
 
 **Happy DAX-ing!** 🚀
