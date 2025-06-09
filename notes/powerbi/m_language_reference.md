@@ -108,8 +108,8 @@ in
     AddedColumn
 ```
 
-## 🎥 Getting Started With M Language in Power Query | Basic to Advanced
-
+## Videos
+### 🎥 Getting Started With M Language in Power Query | Basic to Advanced
 [![Power Query M Language Tutorial](http://img.youtube.com/vi/5s8Ky5r43uI/0.jpg)](http://youtu.be/5s8Ky5r43uI)
 
 
