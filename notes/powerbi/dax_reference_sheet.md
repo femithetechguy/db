@@ -131,4 +131,3 @@ Watch this videos for a practical introduction to DAX formulas and tips for Powe
 For more information, see the official documentation:  
 - [DAX Reference](https://learn.microsoft.com/en-us/dax/)  
 - [DAX Guide](https://dax.guide)
-

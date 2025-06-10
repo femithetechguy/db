@@ -48,3 +48,72 @@ All this is consolidated into a **Data Warehouse** where managers can analyze tr
 | **Data Type**     | Historical, summarized           | Current, detailed                   |
 | **Structure**     | Denormalized (Star/Snowflake)    | Highly normalized                   |
 | **Performance**   | Optimized for read-heavy queries | Optimized for writes/inserts        |
+
+---
+
+
+# 📦 Data Warehouse in Power BI
+
+## 💡 What Is a Data Warehouse?
+
+A **data warehouse** is a centralized system used to **store, integrate, and manage large volumes of data** from different sources. It is designed for **querying and analysis**, not for handling transactional operations.
+
+---
+
+## 📊 Role of a Data Warehouse in Power BI
+
+### 1. Centralized Data Source
+Power BI pulls data from various sources. A data warehouse unifies this into one structure, ensuring **consistency** and **data integrity**.
+
+### 2. Data Transformation and Cleaning
+ETL (Extract, Transform, Load) processes clean and transform data before it reaches Power BI. This enhances performance and reduces load on Power BI itself.
+
+### 3. Dimensional Modeling (Star/Snowflake Schema)
+Data warehouses commonly use:
+- **Fact Tables**: Contain numeric/quantitative data (e.g., Sales).
+- **Dimension Tables**: Contain descriptive attributes (e.g., Customer, Product).
+
+This schema makes data analysis easier in Power BI.
+
+### 4. Performance Optimization
+Warehouses are optimized for **read-heavy operations**, which improves dashboard load times and efficiency.
+
+### 5. Historical Data Storage
+Unlike operational databases, data warehouses keep **historical records**. Power BI uses this to provide **trends and time-based insights**.
+
+---
+
+## 🧠 Common Data Warehouses with Power BI
+
+- Azure Synapse Analytics
+- SQL Server Data Warehouse
+- Snowflake
+- Amazon Redshift
+
+Power BI connects using:
+- Import Mode
+- DirectQuery
+- Hybrid Mode
+
+---
+
+## 🔄 Data Flow Example
+mermaid
+```
+flowchart LR
+    A[Operational Systems] --> B[ETL Process]
+    B --> C[Data Warehouse]
+    C --> D[Power BI Desktop]
+    D --> E[Power BI Service (Dashboard)]
+```
+
+---
+
+## ✅ Benefits in Power BI
+
+| Benefit             | Description                                           |
+|---------------------|-------------------------------------------------------|
+| Better Performance  | Data is preprocessed and aggregated for faster loads |
+| Data Consistency    | Single version of the truth across all reports       |
+| Scalability         | Handles large volumes of data efficiently            |
+| Security            | Row-level access and audit controls at source        |
