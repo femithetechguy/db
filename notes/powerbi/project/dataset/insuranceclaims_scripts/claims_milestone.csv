@@ -1,0 +1,5001 @@
+Claim ID,Milestone Name,Milestone Date,Duration in Stage
+CLM0001,Claim Assigned,2/22/24,0
+CLM0001,Initial Contact Made,2/23/24,1
+CLM0001,Investigation Complete,3/8/24,14
+CLM0001,Settlement Offer Made,3/18/24,10
+CLM0001,Claim Closed,3/23/24,5
+CLM0002,Claim Assigned,2/3/24,0
+CLM0002,Initial Contact Made,2/4/24,1
+CLM0002,Investigation Complete,3/9/24,34
+CLM0003,Claim Assigned,3/27/24,0
+CLM0003,Initial Contact Made,3/28/24,1
+CLM0003,Investigation Complete,4/12/24,15
+CLM0004,Claim Assigned,1/27/24,0
+CLM0004,Initial Contact Made,1/28/24,1
+CLM0004,Investigation Complete,3/8/24,40
+CLM0004,Settlement Offer Made,3/15/24,7
+CLM0005,Claim Assigned,3/8/24,0
+CLM0005,Initial Contact Made,3/9/24,1
+CLM0005,Investigation Complete,4/7/24,29
+CLM0005,Settlement Offer Made,4/10/24,3
+CLM0005,Claim Closed,4/17/24,7
+CLM0006,Claim Assigned,3/6/24,0
+CLM0006,Initial Contact Made,3/7/24,1
+CLM0006,Investigation Complete,3/29/24,22
+CLM0007,Claim Assigned,1/7/24,0
+CLM0007,Initial Contact Made,1/8/24,1
+CLM0007,Investigation Complete,1/21/24,13
+CLM0007,Settlement Offer Made,2/3/24,13
+CLM0008,Claim Assigned,1/23/24,0
+CLM0008,Initial Contact Made,1/24/24,1
+CLM0008,Investigation Complete,3/2/24,38
+CLM0008,Settlement Offer Made,3/13/24,11
+CLM0009,Claim Assigned,2/20/24,0
+CLM0009,Initial Contact Made,2/21/24,1
+CLM0009,Investigation Complete,3/10/24,18
+CLM0010,Claim Assigned,3/22/24,0
+CLM0010,Initial Contact Made,3/23/24,1
+CLM0010,Investigation Complete,4/24/24,32
+CLM0011,Claim Assigned,1/24/24,0
+CLM0011,Initial Contact Made,1/25/24,1
+CLM0011,Investigation Complete,2/14/24,20
+CLM0012,Claim Assigned,1/31/24,0
+CLM0012,Initial Contact Made,2/1/24,1
+CLM0012,Investigation Complete,3/11/24,39
+CLM0012,Settlement Offer Made,3/25/24,14
+CLM0012,Claim Closed,4/7/24,13
+CLM0013,Claim Assigned,3/28/24,0
+CLM0013,Initial Contact Made,3/29/24,1
+CLM0013,Investigation Complete,4/11/24,13
+CLM0013,Settlement Offer Made,4/19/24,8
+CLM0013,Claim Closed,5/2/24,13
+CLM0014,Claim Assigned,3/25/24,0
+CLM0014,Initial Contact Made,3/26/24,1
+CLM0014,Investigation Complete,5/2/24,37
+CLM0015,Claim Assigned,3/7/24,0
+CLM0015,Initial Contact Made,3/8/24,1
+CLM0016,Claim Assigned,1/16/24,0
+CLM0016,Initial Contact Made,1/17/24,1
+CLM0017,Claim Assigned,1/2/24,0
+CLM0017,Initial Contact Made,1/3/24,1
+CLM0017,Investigation Complete,2/3/24,31
+CLM0018,Claim Assigned,1/12/24,0
+CLM0018,Initial Contact Made,1/13/24,1
+CLM0018,Investigation Complete,2/8/24,26
+CLM0018,Settlement Offer Made,2/16/24,8
+CLM0018,Claim Closed,2/23/24,7
+CLM0019,Claim Assigned,2/28/24,0
+CLM0019,Initial Contact Made,2/29/24,1
+CLM0020,Claim Assigned,2/14/24,0
+CLM0020,Initial Contact Made,2/15/24,1
+CLM0021,Claim Assigned,1/21/24,0
+CLM0021,Initial Contact Made,1/22/24,1
+CLM0021,Investigation Complete,2/9/24,18
+CLM0022,Claim Assigned,2/27/24,0
+CLM0022,Initial Contact Made,2/28/24,1
+CLM0022,Investigation Complete,3/17/24,18
+CLM0023,Claim Assigned,3/10/24,0
+CLM0023,Initial Contact Made,3/11/24,1
+CLM0023,Investigation Complete,4/12/24,32
+CLM0023,Settlement Offer Made,4/25/24,13
+CLM0023,Claim Closed,4/29/24,4
+CLM0024,Claim Assigned,1/15/24,0
+CLM0024,Initial Contact Made,1/16/24,1
+CLM0025,Claim Assigned,2/3/24,0
+CLM0025,Initial Contact Made,2/4/24,1
+CLM0025,Investigation Complete,3/11/24,36
+CLM0026,Claim Assigned,1/12/24,0
+CLM0026,Initial Contact Made,1/13/24,1
+CLM0026,Investigation Complete,2/20/24,38
+CLM0026,Settlement Offer Made,2/26/24,6
+CLM0026,Claim Closed,3/6/24,9
+CLM0027,Claim Assigned,1/12/24,0
+CLM0027,Initial Contact Made,1/13/24,1
+CLM0028,Claim Assigned,3/23/24,0
+CLM0028,Initial Contact Made,3/24/24,1
+CLM0028,Investigation Complete,4/22/24,29
+CLM0028,Settlement Offer Made,5/5/24,13
+CLM0029,Claim Assigned,3/17/24,0
+CLM0029,Initial Contact Made,3/18/24,1
+CLM0030,Claim Assigned,2/17/24,0
+CLM0030,Initial Contact Made,2/18/24,1
+CLM0030,Investigation Complete,3/16/24,27
+CLM0030,Settlement Offer Made,3/19/24,3
+CLM0030,Claim Closed,3/29/24,10
+CLM0031,Claim Assigned,1/25/24,0
+CLM0031,Initial Contact Made,1/26/24,1
+CLM0031,Investigation Complete,2/19/24,24
+CLM0031,Settlement Offer Made,2/24/24,5
+CLM0031,Claim Closed,3/6/24,11
+CLM0032,Claim Assigned,1/8/24,0
+CLM0032,Initial Contact Made,1/9/24,1
+CLM0033,Claim Assigned,2/20/24,0
+CLM0033,Initial Contact Made,2/21/24,1
+CLM0034,Claim Assigned,2/25/24,0
+CLM0034,Initial Contact Made,2/26/24,1
+CLM0035,Claim Assigned,3/8/24,0
+CLM0035,Initial Contact Made,3/9/24,1
+CLM0036,Claim Assigned,1/10/24,0
+CLM0036,Initial Contact Made,1/11/24,1
+CLM0036,Investigation Complete,1/31/24,20
+CLM0036,Settlement Offer Made,2/13/24,13
+CLM0036,Claim Closed,2/23/24,10
+CLM0037,Claim Assigned,2/10/24,0
+CLM0037,Initial Contact Made,2/11/24,1
+CLM0038,Claim Assigned,1/15/24,0
+CLM0038,Initial Contact Made,1/16/24,1
+CLM0038,Investigation Complete,2/8/24,23
+CLM0038,Settlement Offer Made,2/18/24,10
+CLM0038,Claim Closed,2/28/24,10
+CLM0039,Claim Assigned,3/17/24,0
+CLM0039,Initial Contact Made,3/18/24,1
+CLM0039,Investigation Complete,4/22/24,35
+CLM0040,Claim Assigned,1/2/24,0
+CLM0040,Initial Contact Made,1/3/24,1
+CLM0040,Investigation Complete,2/6/24,34
+CLM0040,Settlement Offer Made,2/18/24,12
+CLM0041,Claim Assigned,1/17/24,0
+CLM0041,Initial Contact Made,1/18/24,1
+CLM0041,Investigation Complete,2/13/24,26
+CLM0042,Claim Assigned,2/23/24,0
+CLM0042,Initial Contact Made,2/24/24,1
+CLM0042,Investigation Complete,3/24/24,29
+CLM0042,Settlement Offer Made,4/8/24,15
+CLM0042,Claim Closed,4/11/24,3
+CLM0043,Claim Assigned,1/27/24,0
+CLM0043,Initial Contact Made,1/28/24,1
+CLM0043,Investigation Complete,2/29/24,32
+CLM0044,Claim Assigned,2/7/24,0
+CLM0044,Initial Contact Made,2/8/24,1
+CLM0044,Investigation Complete,2/26/24,18
+CLM0044,Settlement Offer Made,3/1/24,4
+CLM0044,Claim Closed,3/9/24,8
+CLM0045,Claim Assigned,1/1/24,0
+CLM0045,Initial Contact Made,1/2/24,1
+CLM0046,Claim Assigned,3/17/24,0
+CLM0046,Initial Contact Made,3/18/24,1
+CLM0046,Investigation Complete,4/2/24,15
+CLM0046,Settlement Offer Made,4/10/24,8
+CLM0047,Claim Assigned,3/30/24,0
+CLM0047,Initial Contact Made,3/31/24,1
+CLM0047,Investigation Complete,4/26/24,26
+CLM0047,Settlement Offer Made,4/30/24,4
+CLM0047,Claim Closed,5/13/24,13
+CLM0048,Claim Assigned,1/3/24,0
+CLM0048,Initial Contact Made,1/4/24,1
+CLM0048,Investigation Complete,1/29/24,25
+CLM0048,Settlement Offer Made,2/4/24,6
+CLM0049,Claim Assigned,1/28/24,0
+CLM0049,Initial Contact Made,1/29/24,1
+CLM0049,Investigation Complete,2/19/24,21
+CLM0049,Settlement Offer Made,3/5/24,15
+CLM0049,Claim Closed,3/8/24,3
+CLM0050,Claim Assigned,1/10/24,0
+CLM0050,Initial Contact Made,1/11/24,1
+CLM0050,Investigation Complete,2/7/24,27
+CLM0050,Settlement Offer Made,2/11/24,4
+CLM0051,Claim Assigned,3/15/24,0
+CLM0051,Initial Contact Made,3/16/24,1
+CLM0051,Investigation Complete,4/2/24,17
+CLM0051,Settlement Offer Made,4/7/24,5
+CLM0052,Claim Assigned,1/29/24,0
+CLM0052,Initial Contact Made,1/30/24,1
+CLM0053,Claim Assigned,1/8/24,0
+CLM0053,Initial Contact Made,1/9/24,1
+CLM0053,Investigation Complete,2/17/24,39
+CLM0053,Settlement Offer Made,2/26/24,9
+CLM0054,Claim Assigned,1/14/24,0
+CLM0054,Initial Contact Made,1/15/24,1
+CLM0054,Investigation Complete,1/25/24,10
+CLM0054,Settlement Offer Made,2/9/24,15
+CLM0055,Claim Assigned,1/9/24,0
+CLM0055,Initial Contact Made,1/10/24,1
+CLM0055,Investigation Complete,1/31/24,21
+CLM0055,Settlement Offer Made,2/15/24,15
+CLM0056,Claim Assigned,1/2/24,0
+CLM0056,Initial Contact Made,1/3/24,1
+CLM0056,Investigation Complete,2/2/24,30
+CLM0056,Settlement Offer Made,2/12/24,10
+CLM0056,Claim Closed,2/22/24,10
+CLM0057,Claim Assigned,1/10/24,0
+CLM0057,Initial Contact Made,1/11/24,1
+CLM0058,Claim Assigned,3/23/24,0
+CLM0058,Initial Contact Made,3/24/24,1
+CLM0058,Investigation Complete,4/13/24,20
+CLM0058,Settlement Offer Made,4/27/24,14
+CLM0059,Claim Assigned,3/24/24,0
+CLM0059,Initial Contact Made,3/25/24,1
+CLM0060,Claim Assigned,2/26/24,0
+CLM0060,Initial Contact Made,2/27/24,1
+CLM0061,Claim Assigned,1/4/24,0
+CLM0061,Initial Contact Made,1/5/24,1
+CLM0062,Claim Assigned,2/8/24,0
+CLM0062,Initial Contact Made,2/9/24,1
+CLM0062,Investigation Complete,2/28/24,19
+CLM0063,Claim Assigned,3/19/24,0
+CLM0063,Initial Contact Made,3/20/24,1
+CLM0063,Investigation Complete,4/16/24,27
+CLM0064,Claim Assigned,3/11/24,0
+CLM0064,Initial Contact Made,3/12/24,1
+CLM0065,Claim Assigned,3/16/24,0
+CLM0065,Initial Contact Made,3/17/24,1
+CLM0065,Investigation Complete,4/13/24,27
+CLM0066,Claim Assigned,2/18/24,0
+CLM0066,Initial Contact Made,2/19/24,1
+CLM0067,Claim Assigned,1/4/24,0
+CLM0067,Initial Contact Made,1/5/24,1
+CLM0067,Investigation Complete,2/7/24,33
+CLM0067,Settlement Offer Made,2/12/24,5
+CLM0068,Claim Assigned,2/24/24,0
+CLM0068,Initial Contact Made,2/25/24,1
+CLM0068,Investigation Complete,3/6/24,10
+CLM0068,Settlement Offer Made,3/21/24,15
+CLM0069,Claim Assigned,2/1/24,0
+CLM0069,Initial Contact Made,2/2/24,1
+CLM0069,Investigation Complete,3/6/24,33
+CLM0070,Claim Assigned,3/24/24,0
+CLM0070,Initial Contact Made,3/25/24,1
+CLM0070,Investigation Complete,4/14/24,20
+CLM0071,Claim Assigned,3/22/24,0
+CLM0071,Initial Contact Made,3/23/24,1
+CLM0072,Claim Assigned,3/18/24,0
+CLM0072,Initial Contact Made,3/19/24,1
+CLM0072,Investigation Complete,3/30/24,11
+CLM0073,Claim Assigned,2/6/24,0
+CLM0073,Initial Contact Made,2/7/24,1
+CLM0074,Claim Assigned,3/4/24,0
+CLM0074,Initial Contact Made,3/5/24,1
+CLM0074,Investigation Complete,4/14/24,40
+CLM0075,Claim Assigned,2/13/24,0
+CLM0075,Initial Contact Made,2/14/24,1
+CLM0076,Claim Assigned,3/11/24,0
+CLM0076,Initial Contact Made,3/12/24,1
+CLM0076,Investigation Complete,4/8/24,27
+CLM0076,Settlement Offer Made,4/17/24,9
+CLM0076,Claim Closed,4/30/24,13
+CLM0077,Claim Assigned,2/22/24,0
+CLM0077,Initial Contact Made,2/23/24,1
+CLM0077,Investigation Complete,3/6/24,12
+CLM0077,Settlement Offer Made,3/11/24,5
+CLM0077,Claim Closed,3/20/24,9
+CLM0078,Claim Assigned,2/19/24,0
+CLM0078,Initial Contact Made,2/20/24,1
+CLM0078,Investigation Complete,3/8/24,17
+CLM0078,Settlement Offer Made,3/15/24,7
+CLM0079,Claim Assigned,3/5/24,0
+CLM0079,Initial Contact Made,3/6/24,1
+CLM0079,Investigation Complete,4/7/24,32
+CLM0080,Claim Assigned,2/7/24,0
+CLM0080,Initial Contact Made,2/8/24,1
+CLM0080,Investigation Complete,3/12/24,33
+CLM0081,Claim Assigned,2/8/24,0
+CLM0081,Initial Contact Made,2/9/24,1
+CLM0081,Investigation Complete,3/9/24,29
+CLM0082,Claim Assigned,2/14/24,0
+CLM0082,Initial Contact Made,2/15/24,1
+CLM0082,Investigation Complete,3/22/24,36
+CLM0082,Settlement Offer Made,3/26/24,4
+CLM0082,Claim Closed,4/4/24,9
+CLM0083,Claim Assigned,1/29/24,0
+CLM0083,Initial Contact Made,1/30/24,1
+CLM0083,Investigation Complete,3/9/24,39
+CLM0083,Settlement Offer Made,3/14/24,5
+CLM0084,Claim Assigned,1/2/24,0
+CLM0084,Initial Contact Made,1/3/24,1
+CLM0084,Investigation Complete,2/8/24,36
+CLM0084,Settlement Offer Made,2/20/24,12
+CLM0084,Claim Closed,2/29/24,9
+CLM0085,Claim Assigned,3/7/24,0
+CLM0085,Initial Contact Made,3/8/24,1
+CLM0085,Investigation Complete,3/23/24,15
+CLM0085,Settlement Offer Made,3/30/24,7
+CLM0085,Claim Closed,4/3/24,4
+CLM0086,Claim Assigned,1/2/24,0
+CLM0086,Initial Contact Made,1/3/24,1
+CLM0087,Claim Assigned,3/6/24,0
+CLM0087,Initial Contact Made,3/7/24,1
+CLM0087,Investigation Complete,4/8/24,32
+CLM0087,Settlement Offer Made,4/15/24,7
+CLM0088,Claim Assigned,1/11/24,0
+CLM0088,Initial Contact Made,1/12/24,1
+CLM0089,Claim Assigned,3/2/24,0
+CLM0089,Initial Contact Made,3/3/24,1
+CLM0090,Claim Assigned,3/31/24,0
+CLM0090,Initial Contact Made,4/1/24,1
+CLM0091,Claim Assigned,2/11/24,0
+CLM0091,Initial Contact Made,2/12/24,1
+CLM0091,Investigation Complete,3/16/24,33
+CLM0092,Claim Assigned,3/1/24,0
+CLM0092,Initial Contact Made,3/2/24,1
+CLM0092,Investigation Complete,4/3/24,32
+CLM0092,Settlement Offer Made,4/15/24,12
+CLM0092,Claim Closed,4/30/24,15
+CLM0093,Claim Assigned,2/3/24,0
+CLM0093,Initial Contact Made,2/4/24,1
+CLM0094,Claim Assigned,3/18/24,0
+CLM0094,Initial Contact Made,3/19/24,1
+CLM0094,Investigation Complete,4/20/24,32
+CLM0094,Settlement Offer Made,5/3/24,13
+CLM0095,Claim Assigned,1/13/24,0
+CLM0095,Initial Contact Made,1/14/24,1
+CLM0095,Investigation Complete,2/12/24,29
+CLM0095,Settlement Offer Made,2/20/24,8
+CLM0095,Claim Closed,2/26/24,6
+CLM0096,Claim Assigned,3/28/24,0
+CLM0096,Initial Contact Made,3/29/24,1
+CLM0096,Investigation Complete,4/16/24,18
+CLM0097,Claim Assigned,2/24/24,0
+CLM0097,Initial Contact Made,2/25/24,1
+CLM0097,Investigation Complete,3/12/24,16
+CLM0097,Settlement Offer Made,3/17/24,5
+CLM0098,Claim Assigned,2/25/24,0
+CLM0098,Initial Contact Made,2/26/24,1
+CLM0098,Investigation Complete,3/24/24,27
+CLM0098,Settlement Offer Made,4/5/24,12
+CLM0098,Claim Closed,4/15/24,10
+CLM0099,Claim Assigned,1/13/24,0
+CLM0099,Initial Contact Made,1/14/24,1
+CLM0099,Investigation Complete,2/3/24,20
+CLM0099,Settlement Offer Made,2/12/24,9
+CLM0099,Claim Closed,2/23/24,11
+CLM0100,Claim Assigned,3/21/24,0
+CLM0100,Initial Contact Made,3/22/24,1
+CLM0100,Investigation Complete,4/17/24,26
+CLM0100,Settlement Offer Made,4/24/24,7
+CLM0100,Claim Closed,5/6/24,12
+CLM0101,Claim Assigned,2/25/24,0
+CLM0101,Initial Contact Made,2/26/24,1
+CLM0101,Investigation Complete,3/7/24,10
+CLM0102,Claim Assigned,1/14/24,0
+CLM0102,Initial Contact Made,1/15/24,1
+CLM0103,Claim Assigned,1/25/24,0
+CLM0103,Initial Contact Made,1/26/24,1
+CLM0104,Claim Assigned,1/10/24,0
+CLM0104,Initial Contact Made,1/11/24,1
+CLM0104,Investigation Complete,2/1/24,21
+CLM0105,Claim Assigned,1/22/24,0
+CLM0105,Initial Contact Made,1/23/24,1
+CLM0106,Claim Assigned,2/25/24,0
+CLM0106,Initial Contact Made,2/26/24,1
+CLM0107,Claim Assigned,3/2/24,0
+CLM0107,Initial Contact Made,3/3/24,1
+CLM0107,Investigation Complete,4/11/24,39
+CLM0107,Settlement Offer Made,4/22/24,11
+CLM0107,Claim Closed,4/28/24,6
+CLM0108,Claim Assigned,3/24/24,0
+CLM0108,Initial Contact Made,3/25/24,1
+CLM0108,Investigation Complete,4/14/24,20
+CLM0108,Settlement Offer Made,4/20/24,6
+CLM0108,Claim Closed,4/29/24,9
+CLM0109,Claim Assigned,3/5/24,0
+CLM0109,Initial Contact Made,3/6/24,1
+CLM0109,Investigation Complete,3/24/24,18
+CLM0109,Settlement Offer Made,4/3/24,10
+CLM0110,Claim Assigned,2/6/24,0
+CLM0110,Initial Contact Made,2/7/24,1
+CLM0111,Claim Assigned,2/1/24,0
+CLM0111,Initial Contact Made,2/2/24,1
+CLM0111,Investigation Complete,3/9/24,36
+CLM0111,Settlement Offer Made,3/12/24,3
+CLM0112,Claim Assigned,1/12/24,0
+CLM0112,Initial Contact Made,1/13/24,1
+CLM0112,Investigation Complete,1/26/24,13
+CLM0113,Claim Assigned,2/16/24,0
+CLM0113,Initial Contact Made,2/17/24,1
+CLM0113,Investigation Complete,3/17/24,29
+CLM0113,Settlement Offer Made,3/27/24,10
+CLM0113,Claim Closed,4/3/24,7
+CLM0114,Claim Assigned,3/13/24,0
+CLM0114,Initial Contact Made,3/14/24,1
+CLM0114,Investigation Complete,4/3/24,20
+CLM0114,Settlement Offer Made,4/14/24,11
+CLM0115,Claim Assigned,1/7/24,0
+CLM0115,Initial Contact Made,1/8/24,1
+CLM0115,Investigation Complete,2/7/24,30
+CLM0115,Settlement Offer Made,2/20/24,13
+CLM0116,Claim Assigned,1/10/24,0
+CLM0116,Initial Contact Made,1/11/24,1
+CLM0116,Investigation Complete,2/9/24,29
+CLM0117,Claim Assigned,1/24/24,0
+CLM0117,Initial Contact Made,1/25/24,1
+CLM0117,Investigation Complete,2/23/24,29
+CLM0117,Settlement Offer Made,3/7/24,13
+CLM0118,Claim Assigned,2/5/24,0
+CLM0118,Initial Contact Made,2/6/24,1
+CLM0118,Investigation Complete,3/1/24,24
+CLM0118,Settlement Offer Made,3/8/24,7
+CLM0118,Claim Closed,3/17/24,9
+CLM0119,Claim Assigned,2/12/24,0
+CLM0119,Initial Contact Made,2/13/24,1
+CLM0119,Investigation Complete,3/17/24,33
+CLM0119,Settlement Offer Made,4/1/24,15
+CLM0120,Claim Assigned,3/22/24,0
+CLM0120,Initial Contact Made,3/23/24,1
+CLM0120,Investigation Complete,4/7/24,15
+CLM0121,Claim Assigned,1/29/24,0
+CLM0121,Initial Contact Made,1/30/24,1
+CLM0122,Claim Assigned,3/28/24,0
+CLM0122,Initial Contact Made,3/29/24,1
+CLM0122,Investigation Complete,4/23/24,25
+CLM0122,Settlement Offer Made,5/4/24,11
+CLM0123,Claim Assigned,1/8/24,0
+CLM0123,Initial Contact Made,1/9/24,1
+CLM0123,Investigation Complete,1/27/24,18
+CLM0124,Claim Assigned,2/10/24,0
+CLM0124,Initial Contact Made,2/11/24,1
+CLM0124,Investigation Complete,2/23/24,12
+CLM0124,Settlement Offer Made,3/7/24,13
+CLM0125,Claim Assigned,1/6/24,0
+CLM0125,Initial Contact Made,1/7/24,1
+CLM0125,Investigation Complete,2/13/24,37
+CLM0126,Claim Assigned,1/15/24,0
+CLM0126,Initial Contact Made,1/16/24,1
+CLM0127,Claim Assigned,3/17/24,0
+CLM0127,Initial Contact Made,3/18/24,1
+CLM0127,Investigation Complete,3/30/24,12
+CLM0127,Settlement Offer Made,4/7/24,8
+CLM0127,Claim Closed,4/19/24,12
+CLM0128,Claim Assigned,1/22/24,0
+CLM0128,Initial Contact Made,1/23/24,1
+CLM0129,Claim Assigned,2/18/24,0
+CLM0129,Initial Contact Made,2/19/24,1
+CLM0130,Claim Assigned,3/9/24,0
+CLM0130,Initial Contact Made,3/10/24,1
+CLM0130,Investigation Complete,4/12/24,33
+CLM0130,Settlement Offer Made,4/20/24,8
+CLM0130,Claim Closed,5/4/24,14
+CLM0131,Claim Assigned,1/18/24,0
+CLM0131,Initial Contact Made,1/19/24,1
+CLM0131,Investigation Complete,1/31/24,12
+CLM0132,Claim Assigned,1/30/24,0
+CLM0132,Initial Contact Made,1/31/24,1
+CLM0133,Claim Assigned,1/14/24,0
+CLM0133,Initial Contact Made,1/15/24,1
+CLM0133,Investigation Complete,2/10/24,26
+CLM0134,Claim Assigned,2/12/24,0
+CLM0134,Initial Contact Made,2/13/24,1
+CLM0134,Investigation Complete,3/19/24,35
+CLM0134,Settlement Offer Made,3/24/24,5
+CLM0134,Claim Closed,4/3/24,10
+CLM0135,Claim Assigned,1/22/24,0
+CLM0135,Initial Contact Made,1/23/24,1
+CLM0135,Investigation Complete,2/16/24,24
+CLM0135,Settlement Offer Made,2/23/24,7
+CLM0136,Claim Assigned,1/19/24,0
+CLM0136,Initial Contact Made,1/20/24,1
+CLM0136,Investigation Complete,2/20/24,31
+CLM0136,Settlement Offer Made,3/2/24,11
+CLM0137,Claim Assigned,2/27/24,0
+CLM0137,Initial Contact Made,2/28/24,1
+CLM0137,Investigation Complete,3/9/24,10
+CLM0137,Settlement Offer Made,3/18/24,9
+CLM0137,Claim Closed,3/21/24,3
+CLM0138,Claim Assigned,1/16/24,0
+CLM0138,Initial Contact Made,1/17/24,1
+CLM0139,Claim Assigned,1/8/24,0
+CLM0139,Initial Contact Made,1/9/24,1
+CLM0140,Claim Assigned,2/7/24,0
+CLM0140,Initial Contact Made,2/8/24,1
+CLM0141,Claim Assigned,2/9/24,0
+CLM0141,Initial Contact Made,2/10/24,1
+CLM0141,Investigation Complete,3/2/24,21
+CLM0141,Settlement Offer Made,3/7/24,5
+CLM0141,Claim Closed,3/13/24,6
+CLM0142,Claim Assigned,2/23/24,0
+CLM0142,Initial Contact Made,2/24/24,1
+CLM0142,Investigation Complete,3/22/24,27
+CLM0142,Settlement Offer Made,4/4/24,13
+CLM0142,Claim Closed,4/16/24,12
+CLM0143,Claim Assigned,2/8/24,0
+CLM0143,Initial Contact Made,2/9/24,1
+CLM0143,Investigation Complete,2/20/24,11
+CLM0143,Settlement Offer Made,3/3/24,12
+CLM0144,Claim Assigned,3/2/24,0
+CLM0144,Initial Contact Made,3/3/24,1
+CLM0144,Investigation Complete,3/21/24,18
+CLM0144,Settlement Offer Made,3/30/24,9
+CLM0144,Claim Closed,4/7/24,8
+CLM0145,Claim Assigned,1/20/24,0
+CLM0145,Initial Contact Made,1/21/24,1
+CLM0146,Claim Assigned,1/3/24,0
+CLM0146,Initial Contact Made,1/4/24,1
+CLM0146,Investigation Complete,2/2/24,29
+CLM0146,Settlement Offer Made,2/14/24,12
+CLM0146,Claim Closed,2/19/24,5
+CLM0147,Claim Assigned,3/24/24,0
+CLM0147,Initial Contact Made,3/25/24,1
+CLM0147,Investigation Complete,4/20/24,26
+CLM0148,Claim Assigned,2/19/24,0
+CLM0148,Initial Contact Made,2/20/24,1
+CLM0148,Investigation Complete,3/3/24,12
+CLM0149,Claim Assigned,2/6/24,0
+CLM0149,Initial Contact Made,2/7/24,1
+CLM0149,Investigation Complete,3/12/24,34
+CLM0149,Settlement Offer Made,3/16/24,4
+CLM0149,Claim Closed,3/19/24,3
+CLM0150,Claim Assigned,2/28/24,0
+CLM0150,Initial Contact Made,2/29/24,1
+CLM0151,Claim Assigned,3/7/24,0
+CLM0151,Initial Contact Made,3/8/24,1
+CLM0151,Investigation Complete,3/18/24,10
+CLM0152,Claim Assigned,3/11/24,0
+CLM0152,Initial Contact Made,3/12/24,1
+CLM0152,Investigation Complete,4/19/24,38
+CLM0152,Settlement Offer Made,4/25/24,6
+CLM0153,Claim Assigned,1/26/24,0
+CLM0153,Initial Contact Made,1/27/24,1
+CLM0153,Investigation Complete,2/9/24,13
+CLM0154,Claim Assigned,1/22/24,0
+CLM0154,Initial Contact Made,1/23/24,1
+CLM0154,Investigation Complete,2/26/24,34
+CLM0154,Settlement Offer Made,3/4/24,7
+CLM0155,Claim Assigned,3/10/24,0
+CLM0155,Initial Contact Made,3/11/24,1
+CLM0155,Investigation Complete,3/27/24,16
+CLM0156,Claim Assigned,3/7/24,0
+CLM0156,Initial Contact Made,3/8/24,1
+CLM0156,Investigation Complete,4/17/24,40
+CLM0157,Claim Assigned,3/13/24,0
+CLM0157,Initial Contact Made,3/14/24,1
+CLM0157,Investigation Complete,4/20/24,37
+CLM0158,Claim Assigned,1/24/24,0
+CLM0158,Initial Contact Made,1/25/24,1
+CLM0159,Claim Assigned,1/6/24,0
+CLM0159,Initial Contact Made,1/7/24,1
+CLM0160,Claim Assigned,3/15/24,0
+CLM0160,Initial Contact Made,3/16/24,1
+CLM0161,Claim Assigned,1/25/24,0
+CLM0161,Initial Contact Made,1/26/24,1
+CLM0161,Investigation Complete,2/27/24,32
+CLM0162,Claim Assigned,3/19/24,0
+CLM0162,Initial Contact Made,3/20/24,1
+CLM0162,Investigation Complete,4/10/24,21
+CLM0162,Settlement Offer Made,4/21/24,11
+CLM0162,Claim Closed,5/5/24,14
+CLM0163,Claim Assigned,2/3/24,0
+CLM0163,Initial Contact Made,2/4/24,1
+CLM0163,Investigation Complete,2/22/24,18
+CLM0164,Claim Assigned,1/23/24,0
+CLM0164,Initial Contact Made,1/24/24,1
+CLM0164,Investigation Complete,2/6/24,13
+CLM0165,Claim Assigned,2/13/24,0
+CLM0165,Initial Contact Made,2/14/24,1
+CLM0165,Investigation Complete,3/2/24,17
+CLM0165,Settlement Offer Made,3/17/24,15
+CLM0165,Claim Closed,3/27/24,10
+CLM0166,Claim Assigned,2/10/24,0
+CLM0166,Initial Contact Made,2/11/24,1
+CLM0166,Investigation Complete,3/13/24,31
+CLM0166,Settlement Offer Made,3/18/24,5
+CLM0166,Claim Closed,3/22/24,4
+CLM0167,Claim Assigned,2/5/24,0
+CLM0167,Initial Contact Made,2/6/24,1
+CLM0168,Claim Assigned,3/22/24,0
+CLM0168,Initial Contact Made,3/23/24,1
+CLM0169,Claim Assigned,1/3/24,0
+CLM0169,Initial Contact Made,1/4/24,1
+CLM0169,Investigation Complete,1/16/24,12
+CLM0169,Settlement Offer Made,1/26/24,10
+CLM0169,Claim Closed,2/6/24,11
+CLM0170,Claim Assigned,2/19/24,0
+CLM0170,Initial Contact Made,2/20/24,1
+CLM0170,Investigation Complete,3/8/24,17
+CLM0170,Settlement Offer Made,3/14/24,6
+CLM0170,Claim Closed,3/22/24,8
+CLM0171,Claim Assigned,3/31/24,0
+CLM0171,Initial Contact Made,4/1/24,1
+CLM0171,Investigation Complete,5/9/24,38
+CLM0172,Claim Assigned,1/23/24,0
+CLM0172,Initial Contact Made,1/24/24,1
+CLM0172,Investigation Complete,2/7/24,14
+CLM0172,Settlement Offer Made,2/17/24,10
+CLM0172,Claim Closed,2/28/24,11
+CLM0173,Claim Assigned,2/4/24,0
+CLM0173,Initial Contact Made,2/5/24,1
+CLM0173,Investigation Complete,2/18/24,13
+CLM0174,Claim Assigned,3/17/24,0
+CLM0174,Initial Contact Made,3/18/24,1
+CLM0175,Claim Assigned,1/15/24,0
+CLM0175,Initial Contact Made,1/16/24,1
+CLM0175,Investigation Complete,2/19/24,34
+CLM0176,Claim Assigned,2/20/24,0
+CLM0176,Initial Contact Made,2/21/24,1
+CLM0176,Investigation Complete,3/25/24,33
+CLM0177,Claim Assigned,3/4/24,0
+CLM0177,Initial Contact Made,3/5/24,1
+CLM0177,Investigation Complete,3/27/24,22
+CLM0178,Claim Assigned,1/22/24,0
+CLM0178,Initial Contact Made,1/23/24,1
+CLM0178,Investigation Complete,2/18/24,26
+CLM0178,Settlement Offer Made,2/26/24,8
+CLM0178,Claim Closed,3/2/24,5
+CLM0179,Claim Assigned,2/29/24,0
+CLM0179,Initial Contact Made,3/1/24,1
+CLM0179,Investigation Complete,3/25/24,24
+CLM0179,Settlement Offer Made,4/2/24,8
+CLM0179,Claim Closed,4/16/24,14
+CLM0180,Claim Assigned,3/8/24,0
+CLM0180,Initial Contact Made,3/9/24,1
+CLM0180,Investigation Complete,3/27/24,18
+CLM0181,Claim Assigned,1/17/24,0
+CLM0181,Initial Contact Made,1/18/24,1
+CLM0181,Investigation Complete,2/15/24,28
+CLM0181,Settlement Offer Made,2/22/24,7
+CLM0182,Claim Assigned,3/1/24,0
+CLM0182,Initial Contact Made,3/2/24,1
+CLM0183,Claim Assigned,1/14/24,0
+CLM0183,Initial Contact Made,1/15/24,1
+CLM0183,Investigation Complete,2/4/24,20
+CLM0183,Settlement Offer Made,2/10/24,6
+CLM0183,Claim Closed,2/17/24,7
+CLM0184,Claim Assigned,1/1/24,0
+CLM0184,Initial Contact Made,1/2/24,1
+CLM0185,Claim Assigned,3/1/24,0
+CLM0185,Initial Contact Made,3/2/24,1
+CLM0186,Claim Assigned,1/3/24,0
+CLM0186,Initial Contact Made,1/4/24,1
+CLM0187,Claim Assigned,3/5/24,0
+CLM0187,Initial Contact Made,3/6/24,1
+CLM0187,Investigation Complete,4/12/24,37
+CLM0188,Claim Assigned,3/15/24,0
+CLM0188,Initial Contact Made,3/16/24,1
+CLM0188,Investigation Complete,3/27/24,11
+CLM0188,Settlement Offer Made,4/4/24,8
+CLM0189,Claim Assigned,3/25/24,0
+CLM0189,Initial Contact Made,3/26/24,1
+CLM0189,Investigation Complete,4/25/24,30
+CLM0190,Claim Assigned,1/6/24,0
+CLM0190,Initial Contact Made,1/7/24,1
+CLM0190,Investigation Complete,1/30/24,23
+CLM0191,Claim Assigned,2/15/24,0
+CLM0191,Initial Contact Made,2/16/24,1
+CLM0192,Claim Assigned,3/18/24,0
+CLM0192,Initial Contact Made,3/19/24,1
+CLM0193,Claim Assigned,2/2/24,0
+CLM0193,Initial Contact Made,2/3/24,1
+CLM0193,Investigation Complete,2/26/24,23
+CLM0194,Claim Assigned,1/29/24,0
+CLM0194,Initial Contact Made,1/30/24,1
+CLM0194,Investigation Complete,3/10/24,40
+CLM0194,Settlement Offer Made,3/22/24,12
+CLM0194,Claim Closed,3/30/24,8
+CLM0195,Claim Assigned,1/10/24,0
+CLM0195,Initial Contact Made,1/11/24,1
+CLM0195,Investigation Complete,2/13/24,33
+CLM0195,Settlement Offer Made,2/16/24,3
+CLM0195,Claim Closed,2/27/24,11
+CLM0196,Claim Assigned,2/4/24,0
+CLM0196,Initial Contact Made,2/5/24,1
+CLM0197,Claim Assigned,2/20/24,0
+CLM0197,Initial Contact Made,2/21/24,1
+CLM0198,Claim Assigned,2/22/24,0
+CLM0198,Initial Contact Made,2/23/24,1
+CLM0199,Claim Assigned,2/7/24,0
+CLM0199,Initial Contact Made,2/8/24,1
+CLM0199,Investigation Complete,3/8/24,29
+CLM0199,Settlement Offer Made,3/22/24,14
+CLM0199,Claim Closed,3/25/24,3
+CLM0200,Claim Assigned,3/10/24,0
+CLM0200,Initial Contact Made,3/11/24,1
+CLM0200,Investigation Complete,4/15/24,35
+CLM0200,Settlement Offer Made,4/22/24,7
+CLM0200,Claim Closed,4/25/24,3
+CLM0201,Claim Assigned,1/10/24,0
+CLM0201,Initial Contact Made,1/11/24,1
+CLM0201,Investigation Complete,1/29/24,18
+CLM0201,Settlement Offer Made,2/3/24,5
+CLM0201,Claim Closed,2/12/24,9
+CLM0202,Claim Assigned,1/19/24,0
+CLM0202,Initial Contact Made,1/20/24,1
+CLM0203,Claim Assigned,1/6/24,0
+CLM0203,Initial Contact Made,1/7/24,1
+CLM0203,Investigation Complete,2/14/24,38
+CLM0203,Settlement Offer Made,2/29/24,15
+CLM0203,Claim Closed,3/10/24,10
+CLM0204,Claim Assigned,3/16/24,0
+CLM0204,Initial Contact Made,3/17/24,1
+CLM0204,Investigation Complete,4/10/24,24
+CLM0204,Settlement Offer Made,4/22/24,12
+CLM0205,Claim Assigned,2/20/24,0
+CLM0205,Initial Contact Made,2/21/24,1
+CLM0205,Investigation Complete,3/7/24,15
+CLM0206,Claim Assigned,2/22/24,0
+CLM0206,Initial Contact Made,2/23/24,1
+CLM0206,Investigation Complete,3/11/24,17
+CLM0206,Settlement Offer Made,3/16/24,5
+CLM0207,Claim Assigned,2/21/24,0
+CLM0207,Initial Contact Made,2/22/24,1
+CLM0207,Investigation Complete,3/15/24,22
+CLM0207,Settlement Offer Made,3/18/24,3
+CLM0208,Claim Assigned,3/30/24,0
+CLM0208,Initial Contact Made,3/31/24,1
+CLM0208,Investigation Complete,5/10/24,40
+CLM0208,Settlement Offer Made,5/14/24,4
+CLM0209,Claim Assigned,1/20/24,0
+CLM0209,Initial Contact Made,1/21/24,1
+CLM0209,Investigation Complete,2/13/24,23
+CLM0209,Settlement Offer Made,2/24/24,11
+CLM0210,Claim Assigned,1/4/24,0
+CLM0210,Initial Contact Made,1/5/24,1
+CLM0210,Investigation Complete,1/27/24,22
+CLM0211,Claim Assigned,2/13/24,0
+CLM0211,Initial Contact Made,2/14/24,1
+CLM0211,Investigation Complete,3/13/24,28
+CLM0211,Settlement Offer Made,3/20/24,7
+CLM0211,Claim Closed,3/29/24,9
+CLM0212,Claim Assigned,1/25/24,0
+CLM0212,Initial Contact Made,1/26/24,1
+CLM0213,Claim Assigned,3/6/24,0
+CLM0213,Initial Contact Made,3/7/24,1
+CLM0213,Investigation Complete,3/24/24,17
+CLM0213,Settlement Offer Made,4/4/24,11
+CLM0214,Claim Assigned,3/10/24,0
+CLM0214,Initial Contact Made,3/11/24,1
+CLM0215,Claim Assigned,2/24/24,0
+CLM0215,Initial Contact Made,2/25/24,1
+CLM0215,Investigation Complete,3/19/24,23
+CLM0215,Settlement Offer Made,3/27/24,8
+CLM0216,Claim Assigned,3/21/24,0
+CLM0216,Initial Contact Made,3/22/24,1
+CLM0216,Investigation Complete,4/2/24,11
+CLM0217,Claim Assigned,2/5/24,0
+CLM0217,Initial Contact Made,2/6/24,1
+CLM0217,Investigation Complete,2/23/24,17
+CLM0218,Claim Assigned,1/31/24,0
+CLM0218,Initial Contact Made,2/1/24,1
+CLM0218,Investigation Complete,3/9/24,37
+CLM0218,Settlement Offer Made,3/13/24,4
+CLM0219,Claim Assigned,3/12/24,0
+CLM0219,Initial Contact Made,3/13/24,1
+CLM0219,Investigation Complete,4/14/24,32
+CLM0220,Claim Assigned,3/26/24,0
+CLM0220,Initial Contact Made,3/27/24,1
+CLM0221,Claim Assigned,1/14/24,0
+CLM0221,Initial Contact Made,1/15/24,1
+CLM0222,Claim Assigned,1/13/24,0
+CLM0222,Initial Contact Made,1/14/24,1
+CLM0222,Investigation Complete,2/17/24,34
+CLM0223,Claim Assigned,3/29/24,0
+CLM0223,Initial Contact Made,3/30/24,1
+CLM0223,Investigation Complete,4/16/24,17
+CLM0223,Settlement Offer Made,4/28/24,12
+CLM0223,Claim Closed,5/10/24,12
+CLM0224,Claim Assigned,2/17/24,0
+CLM0224,Initial Contact Made,2/18/24,1
+CLM0224,Investigation Complete,3/26/24,37
+CLM0225,Claim Assigned,2/21/24,0
+CLM0225,Initial Contact Made,2/22/24,1
+CLM0225,Investigation Complete,3/19/24,26
+CLM0225,Settlement Offer Made,3/27/24,8
+CLM0225,Claim Closed,4/5/24,9
+CLM0226,Claim Assigned,2/8/24,0
+CLM0226,Initial Contact Made,2/9/24,1
+CLM0226,Investigation Complete,3/6/24,26
+CLM0226,Settlement Offer Made,3/12/24,6
+CLM0227,Claim Assigned,3/4/24,0
+CLM0227,Initial Contact Made,3/5/24,1
+CLM0227,Investigation Complete,3/28/24,23
+CLM0228,Claim Assigned,3/8/24,0
+CLM0228,Initial Contact Made,3/9/24,1
+CLM0228,Investigation Complete,3/30/24,21
+CLM0229,Claim Assigned,2/4/24,0
+CLM0229,Initial Contact Made,2/5/24,1
+CLM0229,Investigation Complete,2/27/24,22
+CLM0229,Settlement Offer Made,3/1/24,3
+CLM0230,Claim Assigned,1/3/24,0
+CLM0230,Initial Contact Made,1/4/24,1
+CLM0230,Investigation Complete,1/15/24,11
+CLM0231,Claim Assigned,3/5/24,0
+CLM0231,Initial Contact Made,3/6/24,1
+CLM0231,Investigation Complete,3/17/24,11
+CLM0232,Claim Assigned,2/24/24,0
+CLM0232,Initial Contact Made,2/25/24,1
+CLM0232,Investigation Complete,4/2/24,37
+CLM0232,Settlement Offer Made,4/17/24,15
+CLM0232,Claim Closed,5/2/24,15
+CLM0233,Claim Assigned,2/14/24,0
+CLM0233,Initial Contact Made,2/15/24,1
+CLM0233,Investigation Complete,3/25/24,39
+CLM0234,Claim Assigned,1/23/24,0
+CLM0234,Initial Contact Made,1/24/24,1
+CLM0234,Investigation Complete,2/15/24,22
+CLM0235,Claim Assigned,1/13/24,0
+CLM0235,Initial Contact Made,1/14/24,1
+CLM0235,Investigation Complete,1/25/24,11
+CLM0235,Settlement Offer Made,2/1/24,7
+CLM0236,Claim Assigned,2/2/24,0
+CLM0236,Initial Contact Made,2/3/24,1
+CLM0237,Claim Assigned,3/11/24,0
+CLM0237,Initial Contact Made,3/12/24,1
+CLM0238,Claim Assigned,2/10/24,0
+CLM0238,Initial Contact Made,2/11/24,1
+CLM0238,Investigation Complete,2/27/24,16
+CLM0238,Settlement Offer Made,3/3/24,5
+CLM0238,Claim Closed,3/14/24,11
+CLM0239,Claim Assigned,1/4/24,0
+CLM0239,Initial Contact Made,1/5/24,1
+CLM0239,Investigation Complete,1/29/24,24
+CLM0240,Claim Assigned,3/30/24,0
+CLM0240,Initial Contact Made,3/31/24,1
+CLM0240,Investigation Complete,5/9/24,39
+CLM0240,Settlement Offer Made,5/16/24,7
+CLM0241,Claim Assigned,2/10/24,0
+CLM0241,Initial Contact Made,2/11/24,1
+CLM0241,Investigation Complete,2/24/24,13
+CLM0241,Settlement Offer Made,3/10/24,15
+CLM0241,Claim Closed,3/22/24,12
+CLM0242,Claim Assigned,2/2/24,0
+CLM0242,Initial Contact Made,2/3/24,1
+CLM0242,Investigation Complete,3/8/24,34
+CLM0242,Settlement Offer Made,3/21/24,13
+CLM0242,Claim Closed,4/2/24,12
+CLM0243,Claim Assigned,1/10/24,0
+CLM0243,Initial Contact Made,1/11/24,1
+CLM0243,Investigation Complete,2/15/24,35
+CLM0243,Settlement Offer Made,2/23/24,8
+CLM0244,Claim Assigned,3/18/24,0
+CLM0244,Initial Contact Made,3/19/24,1
+CLM0244,Investigation Complete,4/18/24,30
+CLM0244,Settlement Offer Made,5/2/24,14
+CLM0244,Claim Closed,5/16/24,14
+CLM0245,Claim Assigned,1/23/24,0
+CLM0245,Initial Contact Made,1/24/24,1
+CLM0245,Investigation Complete,2/12/24,19
+CLM0245,Settlement Offer Made,2/25/24,13
+CLM0245,Claim Closed,3/7/24,11
+CLM0246,Claim Assigned,3/30/24,0
+CLM0246,Initial Contact Made,3/31/24,1
+CLM0246,Investigation Complete,4/13/24,13
+CLM0246,Settlement Offer Made,4/16/24,3
+CLM0247,Claim Assigned,1/16/24,0
+CLM0247,Initial Contact Made,1/17/24,1
+CLM0247,Investigation Complete,1/30/24,13
+CLM0247,Settlement Offer Made,2/3/24,4
+CLM0247,Claim Closed,2/15/24,12
+CLM0248,Claim Assigned,2/8/24,0
+CLM0248,Initial Contact Made,2/9/24,1
+CLM0249,Claim Assigned,1/4/24,0
+CLM0249,Initial Contact Made,1/5/24,1
+CLM0250,Claim Assigned,3/2/24,0
+CLM0250,Initial Contact Made,3/3/24,1
+CLM0250,Investigation Complete,3/22/24,19
+CLM0250,Settlement Offer Made,4/1/24,10
+CLM0250,Claim Closed,4/7/24,6
+CLM0251,Claim Assigned,2/25/24,0
+CLM0251,Initial Contact Made,2/26/24,1
+CLM0251,Investigation Complete,4/6/24,40
+CLM0251,Settlement Offer Made,4/11/24,5
+CLM0252,Claim Assigned,2/14/24,0
+CLM0252,Initial Contact Made,2/15/24,1
+CLM0252,Investigation Complete,3/21/24,35
+CLM0252,Settlement Offer Made,3/26/24,5
+CLM0253,Claim Assigned,3/26/24,0
+CLM0253,Initial Contact Made,3/27/24,1
+CLM0253,Investigation Complete,4/29/24,33
+CLM0253,Settlement Offer Made,5/6/24,7
+CLM0253,Claim Closed,5/14/24,8
+CLM0254,Claim Assigned,1/12/24,0
+CLM0254,Initial Contact Made,1/13/24,1
+CLM0254,Investigation Complete,2/17/24,35
+CLM0254,Settlement Offer Made,2/26/24,9
+CLM0254,Claim Closed,3/8/24,11
+CLM0255,Claim Assigned,1/8/24,0
+CLM0255,Initial Contact Made,1/9/24,1
+CLM0255,Investigation Complete,2/17/24,39
+CLM0256,Claim Assigned,2/20/24,0
+CLM0256,Initial Contact Made,2/21/24,1
+CLM0256,Investigation Complete,3/12/24,20
+CLM0256,Settlement Offer Made,3/24/24,12
+CLM0257,Claim Assigned,2/11/24,0
+CLM0257,Initial Contact Made,2/12/24,1
+CLM0258,Claim Assigned,3/15/24,0
+CLM0258,Initial Contact Made,3/16/24,1
+CLM0258,Investigation Complete,4/12/24,27
+CLM0258,Settlement Offer Made,4/17/24,5
+CLM0258,Claim Closed,4/28/24,11
+CLM0259,Claim Assigned,1/19/24,0
+CLM0259,Initial Contact Made,1/20/24,1
+CLM0259,Investigation Complete,2/1/24,12
+CLM0259,Settlement Offer Made,2/5/24,4
+CLM0259,Claim Closed,2/9/24,4
+CLM0260,Claim Assigned,2/16/24,0
+CLM0260,Initial Contact Made,2/17/24,1
+CLM0261,Claim Assigned,3/1/24,0
+CLM0261,Initial Contact Made,3/2/24,1
+CLM0261,Investigation Complete,4/8/24,37
+CLM0261,Settlement Offer Made,4/16/24,8
+CLM0261,Claim Closed,4/24/24,8
+CLM0262,Claim Assigned,2/10/24,0
+CLM0262,Initial Contact Made,2/11/24,1
+CLM0263,Claim Assigned,1/1/24,0
+CLM0263,Initial Contact Made,1/2/24,1
+CLM0263,Investigation Complete,2/8/24,37
+CLM0263,Settlement Offer Made,2/20/24,12
+CLM0264,Claim Assigned,1/30/24,0
+CLM0264,Initial Contact Made,1/31/24,1
+CLM0264,Investigation Complete,3/2/24,31
+CLM0264,Settlement Offer Made,3/10/24,8
+CLM0264,Claim Closed,3/21/24,11
+CLM0265,Claim Assigned,3/3/24,0
+CLM0265,Initial Contact Made,3/4/24,1
+CLM0265,Investigation Complete,4/9/24,36
+CLM0265,Settlement Offer Made,4/23/24,14
+CLM0265,Claim Closed,5/7/24,14
+CLM0266,Claim Assigned,2/18/24,0
+CLM0266,Initial Contact Made,2/19/24,1
+CLM0266,Investigation Complete,3/3/24,13
+CLM0267,Claim Assigned,1/12/24,0
+CLM0267,Initial Contact Made,1/13/24,1
+CLM0267,Investigation Complete,2/21/24,39
+CLM0267,Settlement Offer Made,3/6/24,14
+CLM0267,Claim Closed,3/11/24,5
+CLM0268,Claim Assigned,1/17/24,0
+CLM0268,Initial Contact Made,1/18/24,1
+CLM0268,Investigation Complete,2/17/24,30
+CLM0269,Claim Assigned,1/20/24,0
+CLM0269,Initial Contact Made,1/21/24,1
+CLM0269,Investigation Complete,2/18/24,28
+CLM0269,Settlement Offer Made,2/27/24,9
+CLM0270,Claim Assigned,2/15/24,0
+CLM0270,Initial Contact Made,2/16/24,1
+CLM0270,Investigation Complete,3/25/24,38
+CLM0271,Claim Assigned,2/14/24,0
+CLM0271,Initial Contact Made,2/15/24,1
+CLM0272,Claim Assigned,1/29/24,0
+CLM0272,Initial Contact Made,1/30/24,1
+CLM0272,Investigation Complete,3/1/24,31
+CLM0272,Settlement Offer Made,3/15/24,14
+CLM0273,Claim Assigned,1/15/24,0
+CLM0273,Initial Contact Made,1/16/24,1
+CLM0273,Investigation Complete,2/8/24,23
+CLM0273,Settlement Offer Made,2/21/24,13
+CLM0274,Claim Assigned,2/12/24,0
+CLM0274,Initial Contact Made,2/13/24,1
+CLM0275,Claim Assigned,1/10/24,0
+CLM0275,Initial Contact Made,1/11/24,1
+CLM0275,Investigation Complete,1/25/24,14
+CLM0276,Claim Assigned,3/5/24,0
+CLM0276,Initial Contact Made,3/6/24,1
+CLM0276,Investigation Complete,3/20/24,14
+CLM0276,Settlement Offer Made,3/23/24,3
+CLM0276,Claim Closed,4/7/24,15
+CLM0277,Claim Assigned,2/10/24,0
+CLM0277,Initial Contact Made,2/11/24,1
+CLM0277,Investigation Complete,2/26/24,15
+CLM0278,Claim Assigned,1/25/24,0
+CLM0278,Initial Contact Made,1/26/24,1
+CLM0278,Investigation Complete,2/13/24,18
+CLM0279,Claim Assigned,2/2/24,0
+CLM0279,Initial Contact Made,2/3/24,1
+CLM0279,Investigation Complete,3/5/24,31
+CLM0279,Settlement Offer Made,3/14/24,9
+CLM0279,Claim Closed,3/27/24,13
+CLM0280,Claim Assigned,1/28/24,0
+CLM0280,Initial Contact Made,1/29/24,1
+CLM0281,Claim Assigned,1/14/24,0
+CLM0281,Initial Contact Made,1/15/24,1
+CLM0281,Investigation Complete,2/2/24,18
+CLM0281,Settlement Offer Made,2/12/24,10
+CLM0281,Claim Closed,2/22/24,10
+CLM0282,Claim Assigned,1/30/24,0
+CLM0282,Initial Contact Made,1/31/24,1
+CLM0282,Investigation Complete,2/22/24,22
+CLM0282,Settlement Offer Made,3/6/24,13
+CLM0283,Claim Assigned,3/4/24,0
+CLM0283,Initial Contact Made,3/5/24,1
+CLM0284,Claim Assigned,1/17/24,0
+CLM0284,Initial Contact Made,1/18/24,1
+CLM0285,Claim Assigned,3/9/24,0
+CLM0285,Initial Contact Made,3/10/24,1
+CLM0286,Claim Assigned,2/3/24,0
+CLM0286,Initial Contact Made,2/4/24,1
+CLM0287,Claim Assigned,2/17/24,0
+CLM0287,Initial Contact Made,2/18/24,1
+CLM0287,Investigation Complete,2/29/24,11
+CLM0288,Claim Assigned,3/14/24,0
+CLM0288,Initial Contact Made,3/15/24,1
+CLM0288,Investigation Complete,4/15/24,31
+CLM0288,Settlement Offer Made,4/22/24,7
+CLM0289,Claim Assigned,1/2/24,0
+CLM0289,Initial Contact Made,1/3/24,1
+CLM0289,Investigation Complete,2/2/24,30
+CLM0289,Settlement Offer Made,2/13/24,11
+CLM0290,Claim Assigned,2/17/24,0
+CLM0290,Initial Contact Made,2/18/24,1
+CLM0290,Investigation Complete,3/4/24,15
+CLM0291,Claim Assigned,2/1/24,0
+CLM0291,Initial Contact Made,2/2/24,1
+CLM0291,Investigation Complete,3/9/24,36
+CLM0292,Claim Assigned,1/28/24,0
+CLM0292,Initial Contact Made,1/29/24,1
+CLM0292,Investigation Complete,2/17/24,19
+CLM0292,Settlement Offer Made,2/24/24,7
+CLM0292,Claim Closed,3/8/24,13
+CLM0293,Claim Assigned,1/19/24,0
+CLM0293,Initial Contact Made,1/20/24,1
+CLM0293,Investigation Complete,2/21/24,32
+CLM0293,Settlement Offer Made,3/2/24,10
+CLM0293,Claim Closed,3/8/24,6
+CLM0294,Claim Assigned,2/21/24,0
+CLM0294,Initial Contact Made,2/22/24,1
+CLM0294,Investigation Complete,3/12/24,19
+CLM0294,Settlement Offer Made,3/27/24,15
+CLM0294,Claim Closed,3/30/24,3
+CLM0295,Claim Assigned,1/31/24,0
+CLM0295,Initial Contact Made,2/1/24,1
+CLM0295,Investigation Complete,2/29/24,28
+CLM0295,Settlement Offer Made,3/15/24,15
+CLM0295,Claim Closed,3/28/24,13
+CLM0296,Claim Assigned,3/6/24,0
+CLM0296,Initial Contact Made,3/7/24,1
+CLM0296,Investigation Complete,4/14/24,38
+CLM0296,Settlement Offer Made,4/24/24,10
+CLM0297,Claim Assigned,3/30/24,0
+CLM0297,Initial Contact Made,3/31/24,1
+CLM0298,Claim Assigned,1/15/24,0
+CLM0298,Initial Contact Made,1/16/24,1
+CLM0298,Investigation Complete,2/20/24,35
+CLM0298,Settlement Offer Made,3/1/24,10
+CLM0299,Claim Assigned,2/14/24,0
+CLM0299,Initial Contact Made,2/15/24,1
+CLM0300,Claim Assigned,3/28/24,0
+CLM0300,Initial Contact Made,3/29/24,1
+CLM0300,Investigation Complete,4/24/24,26
+CLM0300,Settlement Offer Made,5/2/24,8
+CLM0300,Claim Closed,5/15/24,13
+CLM0301,Claim Assigned,2/8/24,0
+CLM0301,Initial Contact Made,2/9/24,1
+CLM0301,Investigation Complete,2/21/24,12
+CLM0302,Claim Assigned,1/22/24,0
+CLM0302,Initial Contact Made,1/23/24,1
+CLM0302,Investigation Complete,2/17/24,25
+CLM0302,Settlement Offer Made,2/25/24,8
+CLM0303,Claim Assigned,3/24/24,0
+CLM0303,Initial Contact Made,3/25/24,1
+CLM0303,Investigation Complete,4/27/24,33
+CLM0303,Settlement Offer Made,5/6/24,9
+CLM0304,Claim Assigned,1/26/24,0
+CLM0304,Initial Contact Made,1/27/24,1
+CLM0304,Investigation Complete,2/19/24,23
+CLM0305,Claim Assigned,1/5/24,0
+CLM0305,Initial Contact Made,1/6/24,1
+CLM0306,Claim Assigned,2/11/24,0
+CLM0306,Initial Contact Made,2/12/24,1
+CLM0306,Investigation Complete,3/13/24,30
+CLM0307,Claim Assigned,3/26/24,0
+CLM0307,Initial Contact Made,3/27/24,1
+CLM0308,Claim Assigned,1/31/24,0
+CLM0308,Initial Contact Made,2/1/24,1
+CLM0308,Investigation Complete,2/24/24,23
+CLM0309,Claim Assigned,3/17/24,0
+CLM0309,Initial Contact Made,3/18/24,1
+CLM0310,Claim Assigned,2/25/24,0
+CLM0310,Initial Contact Made,2/26/24,1
+CLM0311,Claim Assigned,1/29/24,0
+CLM0311,Initial Contact Made,1/30/24,1
+CLM0311,Investigation Complete,2/10/24,11
+CLM0311,Settlement Offer Made,2/21/24,11
+CLM0311,Claim Closed,2/27/24,6
+CLM0312,Claim Assigned,1/12/24,0
+CLM0312,Initial Contact Made,1/13/24,1
+CLM0312,Investigation Complete,2/10/24,28
+CLM0313,Claim Assigned,1/12/24,0
+CLM0313,Initial Contact Made,1/13/24,1
+CLM0313,Investigation Complete,2/21/24,39
+CLM0313,Settlement Offer Made,2/28/24,7
+CLM0313,Claim Closed,3/11/24,12
+CLM0314,Claim Assigned,1/9/24,0
+CLM0314,Initial Contact Made,1/10/24,1
+CLM0314,Investigation Complete,1/30/24,20
+CLM0314,Settlement Offer Made,2/3/24,4
+CLM0315,Claim Assigned,3/10/24,0
+CLM0315,Initial Contact Made,3/11/24,1
+CLM0315,Investigation Complete,4/18/24,38
+CLM0315,Settlement Offer Made,4/27/24,9
+CLM0316,Claim Assigned,3/1/24,0
+CLM0316,Initial Contact Made,3/2/24,1
+CLM0317,Claim Assigned,1/30/24,0
+CLM0317,Initial Contact Made,1/31/24,1
+CLM0318,Claim Assigned,2/10/24,0
+CLM0318,Initial Contact Made,2/11/24,1
+CLM0319,Claim Assigned,3/25/24,0
+CLM0319,Initial Contact Made,3/26/24,1
+CLM0319,Investigation Complete,4/26/24,31
+CLM0320,Claim Assigned,2/3/24,0
+CLM0320,Initial Contact Made,2/4/24,1
+CLM0320,Investigation Complete,2/14/24,10
+CLM0320,Settlement Offer Made,2/27/24,13
+CLM0320,Claim Closed,3/1/24,3
+CLM0321,Claim Assigned,3/12/24,0
+CLM0321,Initial Contact Made,3/13/24,1
+CLM0321,Investigation Complete,4/4/24,22
+CLM0322,Claim Assigned,2/14/24,0
+CLM0322,Initial Contact Made,2/15/24,1
+CLM0323,Claim Assigned,3/7/24,0
+CLM0323,Initial Contact Made,3/8/24,1
+CLM0323,Investigation Complete,4/2/24,25
+CLM0324,Claim Assigned,2/8/24,0
+CLM0324,Initial Contact Made,2/9/24,1
+CLM0324,Investigation Complete,3/2/24,22
+CLM0324,Settlement Offer Made,3/5/24,3
+CLM0324,Claim Closed,3/16/24,11
+CLM0325,Claim Assigned,1/1/24,0
+CLM0325,Initial Contact Made,1/2/24,1
+CLM0325,Investigation Complete,1/30/24,28
+CLM0325,Settlement Offer Made,2/8/24,9
+CLM0326,Claim Assigned,1/26/24,0
+CLM0326,Initial Contact Made,1/27/24,1
+CLM0327,Claim Assigned,3/17/24,0
+CLM0327,Initial Contact Made,3/18/24,1
+CLM0327,Investigation Complete,4/17/24,30
+CLM0327,Settlement Offer Made,4/23/24,6
+CLM0327,Claim Closed,4/26/24,3
+CLM0328,Claim Assigned,1/6/24,0
+CLM0328,Initial Contact Made,1/7/24,1
+CLM0328,Investigation Complete,1/24/24,17
+CLM0328,Settlement Offer Made,2/7/24,14
+CLM0329,Claim Assigned,1/14/24,0
+CLM0329,Initial Contact Made,1/15/24,1
+CLM0329,Investigation Complete,2/19/24,35
+CLM0329,Settlement Offer Made,2/29/24,10
+CLM0329,Claim Closed,3/12/24,12
+CLM0330,Claim Assigned,3/19/24,0
+CLM0330,Initial Contact Made,3/20/24,1
+CLM0330,Investigation Complete,4/13/24,24
+CLM0330,Settlement Offer Made,4/27/24,14
+CLM0330,Claim Closed,5/12/24,15
+CLM0331,Claim Assigned,1/31/24,0
+CLM0331,Initial Contact Made,2/1/24,1
+CLM0331,Investigation Complete,2/26/24,25
+CLM0331,Settlement Offer Made,3/10/24,13
+CLM0331,Claim Closed,3/19/24,9
+CLM0332,Claim Assigned,1/26/24,0
+CLM0332,Initial Contact Made,1/27/24,1
+CLM0332,Investigation Complete,2/28/24,32
+CLM0332,Settlement Offer Made,3/9/24,10
+CLM0333,Claim Assigned,1/29/24,0
+CLM0333,Initial Contact Made,1/30/24,1
+CLM0334,Claim Assigned,3/24/24,0
+CLM0334,Initial Contact Made,3/25/24,1
+CLM0334,Investigation Complete,5/4/24,40
+CLM0334,Settlement Offer Made,5/17/24,13
+CLM0334,Claim Closed,6/1/24,15
+CLM0335,Claim Assigned,2/14/24,0
+CLM0335,Initial Contact Made,2/15/24,1
+CLM0336,Claim Assigned,2/9/24,0
+CLM0336,Initial Contact Made,2/10/24,1
+CLM0336,Investigation Complete,3/18/24,37
+CLM0336,Settlement Offer Made,3/21/24,3
+CLM0337,Claim Assigned,1/3/24,0
+CLM0337,Initial Contact Made,1/4/24,1
+CLM0337,Investigation Complete,1/24/24,20
+CLM0338,Claim Assigned,1/27/24,0
+CLM0338,Initial Contact Made,1/28/24,1
+CLM0338,Investigation Complete,2/24/24,27
+CLM0338,Settlement Offer Made,2/29/24,5
+CLM0339,Claim Assigned,1/4/24,0
+CLM0339,Initial Contact Made,1/5/24,1
+CLM0339,Investigation Complete,1/18/24,13
+CLM0339,Settlement Offer Made,1/22/24,4
+CLM0339,Claim Closed,2/4/24,13
+CLM0340,Claim Assigned,1/24/24,0
+CLM0340,Initial Contact Made,1/25/24,1
+CLM0340,Investigation Complete,2/4/24,10
+CLM0340,Settlement Offer Made,2/11/24,7
+CLM0340,Claim Closed,2/18/24,7
+CLM0341,Claim Assigned,2/14/24,0
+CLM0341,Initial Contact Made,2/15/24,1
+CLM0341,Investigation Complete,3/5/24,19
+CLM0342,Claim Assigned,1/19/24,0
+CLM0342,Initial Contact Made,1/20/24,1
+CLM0342,Investigation Complete,2/16/24,27
+CLM0342,Settlement Offer Made,2/26/24,10
+CLM0342,Claim Closed,3/8/24,11
+CLM0343,Claim Assigned,1/13/24,0
+CLM0343,Initial Contact Made,1/14/24,1
+CLM0343,Investigation Complete,1/29/24,15
+CLM0344,Claim Assigned,1/31/24,0
+CLM0344,Initial Contact Made,2/1/24,1
+CLM0344,Investigation Complete,2/29/24,28
+CLM0344,Settlement Offer Made,3/14/24,14
+CLM0345,Claim Assigned,2/23/24,0
+CLM0345,Initial Contact Made,2/24/24,1
+CLM0345,Investigation Complete,4/2/24,38
+CLM0345,Settlement Offer Made,4/16/24,14
+CLM0346,Claim Assigned,3/20/24,0
+CLM0346,Initial Contact Made,3/21/24,1
+CLM0347,Claim Assigned,2/3/24,0
+CLM0347,Initial Contact Made,2/4/24,1
+CLM0348,Claim Assigned,1/14/24,0
+CLM0348,Initial Contact Made,1/15/24,1
+CLM0348,Investigation Complete,2/12/24,28
+CLM0348,Settlement Offer Made,2/21/24,9
+CLM0348,Claim Closed,3/7/24,15
+CLM0349,Claim Assigned,3/29/24,0
+CLM0349,Initial Contact Made,3/30/24,1
+CLM0349,Investigation Complete,4/9/24,10
+CLM0349,Settlement Offer Made,4/15/24,6
+CLM0350,Claim Assigned,3/30/24,0
+CLM0350,Initial Contact Made,3/31/24,1
+CLM0350,Investigation Complete,5/9/24,39
+CLM0351,Claim Assigned,3/15/24,0
+CLM0351,Initial Contact Made,3/16/24,1
+CLM0351,Investigation Complete,4/13/24,28
+CLM0352,Claim Assigned,1/19/24,0
+CLM0352,Initial Contact Made,1/20/24,1
+CLM0352,Investigation Complete,2/23/24,34
+CLM0353,Claim Assigned,1/12/24,0
+CLM0353,Initial Contact Made,1/13/24,1
+CLM0353,Investigation Complete,2/20/24,38
+CLM0354,Claim Assigned,2/27/24,0
+CLM0354,Initial Contact Made,2/28/24,1
+CLM0354,Investigation Complete,4/4/24,36
+CLM0354,Settlement Offer Made,4/17/24,13
+CLM0355,Claim Assigned,2/19/24,0
+CLM0355,Initial Contact Made,2/20/24,1
+CLM0355,Investigation Complete,3/22/24,31
+CLM0355,Settlement Offer Made,4/3/24,12
+CLM0355,Claim Closed,4/17/24,14
+CLM0356,Claim Assigned,3/30/24,0
+CLM0356,Initial Contact Made,3/31/24,1
+CLM0356,Investigation Complete,4/15/24,15
+CLM0356,Settlement Offer Made,4/23/24,8
+CLM0357,Claim Assigned,3/18/24,0
+CLM0357,Initial Contact Made,3/19/24,1
+CLM0358,Claim Assigned,3/29/24,0
+CLM0358,Initial Contact Made,3/30/24,1
+CLM0358,Investigation Complete,4/19/24,20
+CLM0358,Settlement Offer Made,4/26/24,7
+CLM0358,Claim Closed,5/8/24,12
+CLM0359,Claim Assigned,3/7/24,0
+CLM0359,Initial Contact Made,3/8/24,1
+CLM0359,Investigation Complete,4/11/24,34
+CLM0360,Claim Assigned,3/1/24,0
+CLM0360,Initial Contact Made,3/2/24,1
+CLM0360,Investigation Complete,3/22/24,20
+CLM0361,Claim Assigned,2/17/24,0
+CLM0361,Initial Contact Made,2/18/24,1
+CLM0361,Investigation Complete,3/21/24,32
+CLM0362,Claim Assigned,2/24/24,0
+CLM0362,Initial Contact Made,2/25/24,1
+CLM0362,Investigation Complete,3/27/24,31
+CLM0362,Settlement Offer Made,3/30/24,3
+CLM0363,Claim Assigned,1/23/24,0
+CLM0363,Initial Contact Made,1/24/24,1
+CLM0364,Claim Assigned,2/8/24,0
+CLM0364,Initial Contact Made,2/9/24,1
+CLM0364,Investigation Complete,3/4/24,24
+CLM0365,Claim Assigned,3/23/24,0
+CLM0365,Initial Contact Made,3/24/24,1
+CLM0365,Investigation Complete,4/9/24,16
+CLM0365,Settlement Offer Made,4/13/24,4
+CLM0366,Claim Assigned,3/19/24,0
+CLM0366,Initial Contact Made,3/20/24,1
+CLM0367,Claim Assigned,2/7/24,0
+CLM0367,Initial Contact Made,2/8/24,1
+CLM0368,Claim Assigned,1/23/24,0
+CLM0368,Initial Contact Made,1/24/24,1
+CLM0368,Investigation Complete,2/7/24,14
+CLM0369,Claim Assigned,1/27/24,0
+CLM0369,Initial Contact Made,1/28/24,1
+CLM0370,Claim Assigned,2/12/24,0
+CLM0370,Initial Contact Made,2/13/24,1
+CLM0370,Investigation Complete,3/22/24,38
+CLM0370,Settlement Offer Made,4/4/24,13
+CLM0370,Claim Closed,4/9/24,5
+CLM0371,Claim Assigned,2/18/24,0
+CLM0371,Initial Contact Made,2/19/24,1
+CLM0371,Investigation Complete,3/26/24,36
+CLM0371,Settlement Offer Made,4/3/24,8
+CLM0371,Claim Closed,4/11/24,8
+CLM0372,Claim Assigned,2/10/24,0
+CLM0372,Initial Contact Made,2/11/24,1
+CLM0372,Investigation Complete,3/18/24,36
+CLM0372,Settlement Offer Made,3/27/24,9
+CLM0373,Claim Assigned,3/12/24,0
+CLM0373,Initial Contact Made,3/13/24,1
+CLM0373,Investigation Complete,3/23/24,10
+CLM0373,Settlement Offer Made,3/26/24,3
+CLM0374,Claim Assigned,3/16/24,0
+CLM0374,Initial Contact Made,3/17/24,1
+CLM0374,Investigation Complete,3/29/24,12
+CLM0374,Settlement Offer Made,4/9/24,11
+CLM0375,Claim Assigned,1/21/24,0
+CLM0375,Initial Contact Made,1/22/24,1
+CLM0375,Investigation Complete,2/6/24,15
+CLM0376,Claim Assigned,3/25/24,0
+CLM0376,Initial Contact Made,3/26/24,1
+CLM0376,Investigation Complete,4/14/24,19
+CLM0377,Claim Assigned,1/4/24,0
+CLM0377,Initial Contact Made,1/5/24,1
+CLM0377,Investigation Complete,2/1/24,27
+CLM0377,Settlement Offer Made,2/8/24,7
+CLM0377,Claim Closed,2/11/24,3
+CLM0378,Claim Assigned,3/23/24,0
+CLM0378,Initial Contact Made,3/24/24,1
+CLM0378,Investigation Complete,4/24/24,31
+CLM0378,Settlement Offer Made,5/4/24,10
+CLM0379,Claim Assigned,1/15/24,0
+CLM0379,Initial Contact Made,1/16/24,1
+CLM0379,Investigation Complete,2/11/24,26
+CLM0379,Settlement Offer Made,2/19/24,8
+CLM0380,Claim Assigned,1/22/24,0
+CLM0380,Initial Contact Made,1/23/24,1
+CLM0380,Investigation Complete,2/24/24,32
+CLM0380,Settlement Offer Made,3/1/24,6
+CLM0380,Claim Closed,3/16/24,15
+CLM0381,Claim Assigned,2/15/24,0
+CLM0381,Initial Contact Made,2/16/24,1
+CLM0381,Investigation Complete,3/14/24,27
+CLM0381,Settlement Offer Made,3/23/24,9
+CLM0381,Claim Closed,3/27/24,4
+CLM0382,Claim Assigned,1/27/24,0
+CLM0382,Initial Contact Made,1/28/24,1
+CLM0382,Investigation Complete,2/16/24,19
+CLM0383,Claim Assigned,2/27/24,0
+CLM0383,Initial Contact Made,2/28/24,1
+CLM0383,Investigation Complete,3/10/24,11
+CLM0384,Claim Assigned,3/4/24,0
+CLM0384,Initial Contact Made,3/5/24,1
+CLM0385,Claim Assigned,3/16/24,0
+CLM0385,Initial Contact Made,3/17/24,1
+CLM0386,Claim Assigned,1/6/24,0
+CLM0386,Initial Contact Made,1/7/24,1
+CLM0386,Investigation Complete,1/18/24,11
+CLM0386,Settlement Offer Made,1/21/24,3
+CLM0387,Claim Assigned,3/2/24,0
+CLM0387,Initial Contact Made,3/3/24,1
+CLM0387,Investigation Complete,4/5/24,33
+CLM0387,Settlement Offer Made,4/20/24,15
+CLM0388,Claim Assigned,2/5/24,0
+CLM0388,Initial Contact Made,2/6/24,1
+CLM0389,Claim Assigned,2/11/24,0
+CLM0389,Initial Contact Made,2/12/24,1
+CLM0390,Claim Assigned,1/6/24,0
+CLM0390,Initial Contact Made,1/7/24,1
+CLM0390,Investigation Complete,1/29/24,22
+CLM0390,Settlement Offer Made,2/10/24,12
+CLM0391,Claim Assigned,1/26/24,0
+CLM0391,Initial Contact Made,1/27/24,1
+CLM0391,Investigation Complete,2/8/24,12
+CLM0392,Claim Assigned,1/28/24,0
+CLM0392,Initial Contact Made,1/29/24,1
+CLM0392,Investigation Complete,3/7/24,38
+CLM0393,Claim Assigned,2/27/24,0
+CLM0393,Initial Contact Made,2/28/24,1
+CLM0393,Investigation Complete,3/18/24,19
+CLM0393,Settlement Offer Made,3/29/24,11
+CLM0394,Claim Assigned,1/8/24,0
+CLM0394,Initial Contact Made,1/9/24,1
+CLM0394,Investigation Complete,2/15/24,37
+CLM0394,Settlement Offer Made,2/22/24,7
+CLM0394,Claim Closed,2/25/24,3
+CLM0395,Claim Assigned,3/16/24,0
+CLM0395,Initial Contact Made,3/17/24,1
+CLM0396,Claim Assigned,1/26/24,0
+CLM0396,Initial Contact Made,1/27/24,1
+CLM0396,Investigation Complete,2/16/24,20
+CLM0397,Claim Assigned,1/1/24,0
+CLM0397,Initial Contact Made,1/2/24,1
+CLM0398,Claim Assigned,1/30/24,0
+CLM0398,Initial Contact Made,1/31/24,1
+CLM0398,Investigation Complete,3/6/24,35
+CLM0398,Settlement Offer Made,3/14/24,8
+CLM0398,Claim Closed,3/20/24,6
+CLM0399,Claim Assigned,2/22/24,0
+CLM0399,Initial Contact Made,2/23/24,1
+CLM0400,Claim Assigned,2/23/24,0
+CLM0400,Initial Contact Made,2/24/24,1
+CLM0401,Claim Assigned,2/16/24,0
+CLM0401,Initial Contact Made,2/17/24,1
+CLM0401,Investigation Complete,3/21/24,33
+CLM0402,Claim Assigned,1/17/24,0
+CLM0402,Initial Contact Made,1/18/24,1
+CLM0402,Investigation Complete,2/22/24,35
+CLM0402,Settlement Offer Made,3/5/24,12
+CLM0402,Claim Closed,3/11/24,6
+CLM0403,Claim Assigned,2/25/24,0
+CLM0403,Initial Contact Made,2/26/24,1
+CLM0403,Investigation Complete,4/3/24,37
+CLM0404,Claim Assigned,3/1/24,0
+CLM0404,Initial Contact Made,3/2/24,1
+CLM0404,Investigation Complete,3/24/24,22
+CLM0405,Claim Assigned,1/9/24,0
+CLM0405,Initial Contact Made,1/10/24,1
+CLM0405,Investigation Complete,2/19/24,40
+CLM0406,Claim Assigned,1/26/24,0
+CLM0406,Initial Contact Made,1/27/24,1
+CLM0406,Investigation Complete,2/24/24,28
+CLM0406,Settlement Offer Made,3/7/24,12
+CLM0407,Claim Assigned,3/12/24,0
+CLM0407,Initial Contact Made,3/13/24,1
+CLM0407,Investigation Complete,4/3/24,21
+CLM0407,Settlement Offer Made,4/6/24,3
+CLM0408,Claim Assigned,3/29/24,0
+CLM0408,Initial Contact Made,3/30/24,1
+CLM0408,Investigation Complete,5/6/24,37
+CLM0408,Settlement Offer Made,5/15/24,9
+CLM0408,Claim Closed,5/20/24,5
+CLM0409,Claim Assigned,3/4/24,0
+CLM0409,Initial Contact Made,3/5/24,1
+CLM0409,Investigation Complete,4/12/24,38
+CLM0409,Settlement Offer Made,4/17/24,5
+CLM0409,Claim Closed,4/29/24,12
+CLM0410,Claim Assigned,2/10/24,0
+CLM0410,Initial Contact Made,2/11/24,1
+CLM0410,Investigation Complete,3/17/24,35
+CLM0411,Claim Assigned,3/7/24,0
+CLM0411,Initial Contact Made,3/8/24,1
+CLM0411,Investigation Complete,3/23/24,15
+CLM0412,Claim Assigned,2/29/24,0
+CLM0412,Initial Contact Made,3/1/24,1
+CLM0412,Investigation Complete,3/14/24,13
+CLM0412,Settlement Offer Made,3/20/24,6
+CLM0413,Claim Assigned,3/6/24,0
+CLM0413,Initial Contact Made,3/7/24,1
+CLM0414,Claim Assigned,1/20/24,0
+CLM0414,Initial Contact Made,1/21/24,1
+CLM0414,Investigation Complete,2/8/24,18
+CLM0414,Settlement Offer Made,2/15/24,7
+CLM0415,Claim Assigned,2/29/24,0
+CLM0415,Initial Contact Made,3/1/24,1
+CLM0415,Investigation Complete,4/1/24,31
+CLM0415,Settlement Offer Made,4/15/24,14
+CLM0415,Claim Closed,4/18/24,3
+CLM0416,Claim Assigned,2/11/24,0
+CLM0416,Initial Contact Made,2/12/24,1
+CLM0416,Investigation Complete,3/4/24,21
+CLM0416,Settlement Offer Made,3/19/24,15
+CLM0416,Claim Closed,3/31/24,12
+CLM0417,Claim Assigned,1/19/24,0
+CLM0417,Initial Contact Made,1/20/24,1
+CLM0417,Investigation Complete,2/23/24,34
+CLM0418,Claim Assigned,1/27/24,0
+CLM0418,Initial Contact Made,1/28/24,1
+CLM0419,Claim Assigned,2/9/24,0
+CLM0419,Initial Contact Made,2/10/24,1
+CLM0419,Investigation Complete,3/16/24,35
+CLM0419,Settlement Offer Made,3/28/24,12
+CLM0420,Claim Assigned,2/26/24,0
+CLM0420,Initial Contact Made,2/27/24,1
+CLM0421,Claim Assigned,3/1/24,0
+CLM0421,Initial Contact Made,3/2/24,1
+CLM0421,Investigation Complete,3/29/24,27
+CLM0421,Settlement Offer Made,4/8/24,10
+CLM0421,Claim Closed,4/17/24,9
+CLM0422,Claim Assigned,1/8/24,0
+CLM0422,Initial Contact Made,1/9/24,1
+CLM0422,Investigation Complete,2/1/24,23
+CLM0423,Claim Assigned,3/29/24,0
+CLM0423,Initial Contact Made,3/30/24,1
+CLM0423,Investigation Complete,5/3/24,34
+CLM0423,Settlement Offer Made,5/11/24,8
+CLM0423,Claim Closed,5/17/24,6
+CLM0424,Claim Assigned,1/4/24,0
+CLM0424,Initial Contact Made,1/5/24,1
+CLM0424,Investigation Complete,2/1/24,27
+CLM0424,Settlement Offer Made,2/16/24,15
+CLM0425,Claim Assigned,1/14/24,0
+CLM0425,Initial Contact Made,1/15/24,1
+CLM0425,Investigation Complete,1/25/24,10
+CLM0426,Claim Assigned,3/31/24,0
+CLM0426,Initial Contact Made,4/1/24,1
+CLM0426,Investigation Complete,5/3/24,32
+CLM0426,Settlement Offer Made,5/14/24,11
+CLM0426,Claim Closed,5/28/24,14
+CLM0427,Claim Assigned,1/2/24,0
+CLM0427,Initial Contact Made,1/3/24,1
+CLM0427,Investigation Complete,1/23/24,20
+CLM0427,Settlement Offer Made,2/7/24,15
+CLM0427,Claim Closed,2/18/24,11
+CLM0428,Claim Assigned,1/25/24,0
+CLM0428,Initial Contact Made,1/26/24,1
+CLM0428,Investigation Complete,2/9/24,14
+CLM0428,Settlement Offer Made,2/15/24,6
+CLM0428,Claim Closed,2/29/24,14
+CLM0429,Claim Assigned,1/1/24,0
+CLM0429,Initial Contact Made,1/2/24,1
+CLM0429,Investigation Complete,1/18/24,16
+CLM0429,Settlement Offer Made,1/31/24,13
+CLM0430,Claim Assigned,1/8/24,0
+CLM0430,Initial Contact Made,1/9/24,1
+CLM0430,Investigation Complete,2/12/24,34
+CLM0431,Claim Assigned,3/25/24,0
+CLM0431,Initial Contact Made,3/26/24,1
+CLM0431,Investigation Complete,4/11/24,16
+CLM0431,Settlement Offer Made,4/25/24,14
+CLM0432,Claim Assigned,3/29/24,0
+CLM0432,Initial Contact Made,3/30/24,1
+CLM0432,Investigation Complete,5/2/24,33
+CLM0433,Claim Assigned,1/3/24,0
+CLM0433,Initial Contact Made,1/4/24,1
+CLM0433,Investigation Complete,2/4/24,31
+CLM0433,Settlement Offer Made,2/19/24,15
+CLM0433,Claim Closed,3/4/24,14
+CLM0434,Claim Assigned,3/26/24,0
+CLM0434,Initial Contact Made,3/27/24,1
+CLM0434,Investigation Complete,4/28/24,32
+CLM0434,Settlement Offer Made,5/13/24,15
+CLM0435,Claim Assigned,1/7/24,0
+CLM0435,Initial Contact Made,1/8/24,1
+CLM0435,Investigation Complete,2/11/24,34
+CLM0435,Settlement Offer Made,2/21/24,10
+CLM0436,Claim Assigned,2/3/24,0
+CLM0436,Initial Contact Made,2/4/24,1
+CLM0436,Investigation Complete,3/10/24,35
+CLM0436,Settlement Offer Made,3/20/24,10
+CLM0436,Claim Closed,4/2/24,13
+CLM0437,Claim Assigned,3/31/24,0
+CLM0437,Initial Contact Made,4/1/24,1
+CLM0437,Investigation Complete,5/5/24,34
+CLM0438,Claim Assigned,2/1/24,0
+CLM0438,Initial Contact Made,2/2/24,1
+CLM0438,Investigation Complete,2/19/24,17
+CLM0438,Settlement Offer Made,3/1/24,11
+CLM0438,Claim Closed,3/16/24,15
+CLM0439,Claim Assigned,2/8/24,0
+CLM0439,Initial Contact Made,2/9/24,1
+CLM0440,Claim Assigned,1/2/24,0
+CLM0440,Initial Contact Made,1/3/24,1
+CLM0441,Claim Assigned,2/14/24,0
+CLM0441,Initial Contact Made,2/15/24,1
+CLM0441,Investigation Complete,3/4/24,18
+CLM0441,Settlement Offer Made,3/13/24,9
+CLM0441,Claim Closed,3/20/24,7
+CLM0442,Claim Assigned,1/21/24,0
+CLM0442,Initial Contact Made,1/22/24,1
+CLM0442,Investigation Complete,2/6/24,15
+CLM0442,Settlement Offer Made,2/14/24,8
+CLM0442,Claim Closed,2/25/24,11
+CLM0443,Claim Assigned,3/15/24,0
+CLM0443,Initial Contact Made,3/16/24,1
+CLM0443,Investigation Complete,4/20/24,35
+CLM0443,Settlement Offer Made,4/25/24,5
+CLM0444,Claim Assigned,3/7/24,0
+CLM0444,Initial Contact Made,3/8/24,1
+CLM0444,Investigation Complete,3/23/24,15
+CLM0444,Settlement Offer Made,3/30/24,7
+CLM0444,Claim Closed,4/9/24,10
+CLM0445,Claim Assigned,3/15/24,0
+CLM0445,Initial Contact Made,3/16/24,1
+CLM0445,Investigation Complete,4/14/24,29
+CLM0445,Settlement Offer Made,4/24/24,10
+CLM0446,Claim Assigned,3/13/24,0
+CLM0446,Initial Contact Made,3/14/24,1
+CLM0446,Investigation Complete,4/12/24,29
+CLM0447,Claim Assigned,3/28/24,0
+CLM0447,Initial Contact Made,3/29/24,1
+CLM0447,Investigation Complete,4/20/24,22
+CLM0447,Settlement Offer Made,4/27/24,7
+CLM0447,Claim Closed,4/30/24,3
+CLM0448,Claim Assigned,1/4/24,0
+CLM0448,Initial Contact Made,1/5/24,1
+CLM0449,Claim Assigned,1/28/24,0
+CLM0449,Initial Contact Made,1/29/24,1
+CLM0449,Investigation Complete,3/8/24,39
+CLM0450,Claim Assigned,2/24/24,0
+CLM0450,Initial Contact Made,2/25/24,1
+CLM0451,Claim Assigned,1/5/24,0
+CLM0451,Initial Contact Made,1/6/24,1
+CLM0451,Investigation Complete,2/8/24,33
+CLM0451,Settlement Offer Made,2/14/24,6
+CLM0451,Claim Closed,2/21/24,7
+CLM0452,Claim Assigned,2/17/24,0
+CLM0452,Initial Contact Made,2/18/24,1
+CLM0452,Investigation Complete,3/17/24,28
+CLM0452,Settlement Offer Made,3/21/24,4
+CLM0453,Claim Assigned,2/24/24,0
+CLM0453,Initial Contact Made,2/25/24,1
+CLM0454,Claim Assigned,2/9/24,0
+CLM0454,Initial Contact Made,2/10/24,1
+CLM0454,Investigation Complete,3/9/24,28
+CLM0454,Settlement Offer Made,3/13/24,4
+CLM0455,Claim Assigned,2/1/24,0
+CLM0455,Initial Contact Made,2/2/24,1
+CLM0455,Investigation Complete,2/21/24,19
+CLM0455,Settlement Offer Made,2/24/24,3
+CLM0456,Claim Assigned,3/17/24,0
+CLM0456,Initial Contact Made,3/18/24,1
+CLM0457,Claim Assigned,2/2/24,0
+CLM0457,Initial Contact Made,2/3/24,1
+CLM0457,Investigation Complete,3/12/24,38
+CLM0457,Settlement Offer Made,3/15/24,3
+CLM0458,Claim Assigned,3/23/24,0
+CLM0458,Initial Contact Made,3/24/24,1
+CLM0459,Claim Assigned,1/28/24,0
+CLM0459,Initial Contact Made,1/29/24,1
+CLM0459,Investigation Complete,3/7/24,38
+CLM0459,Settlement Offer Made,3/16/24,9
+CLM0460,Claim Assigned,1/18/24,0
+CLM0460,Initial Contact Made,1/19/24,1
+CLM0460,Investigation Complete,2/10/24,22
+CLM0461,Claim Assigned,2/15/24,0
+CLM0461,Initial Contact Made,2/16/24,1
+CLM0461,Investigation Complete,3/27/24,40
+CLM0462,Claim Assigned,3/26/24,0
+CLM0462,Initial Contact Made,3/27/24,1
+CLM0462,Investigation Complete,4/8/24,12
+CLM0463,Claim Assigned,2/7/24,0
+CLM0463,Initial Contact Made,2/8/24,1
+CLM0463,Investigation Complete,3/7/24,28
+CLM0464,Claim Assigned,2/10/24,0
+CLM0464,Initial Contact Made,2/11/24,1
+CLM0464,Investigation Complete,3/15/24,33
+CLM0464,Settlement Offer Made,3/20/24,5
+CLM0464,Claim Closed,3/27/24,7
+CLM0465,Claim Assigned,3/10/24,0
+CLM0465,Initial Contact Made,3/11/24,1
+CLM0465,Investigation Complete,3/23/24,12
+CLM0466,Claim Assigned,3/11/24,0
+CLM0466,Initial Contact Made,3/12/24,1
+CLM0466,Investigation Complete,3/23/24,11
+CLM0466,Settlement Offer Made,4/1/24,9
+CLM0466,Claim Closed,4/5/24,4
+CLM0467,Claim Assigned,2/21/24,0
+CLM0467,Initial Contact Made,2/22/24,1
+CLM0467,Investigation Complete,4/2/24,40
+CLM0468,Claim Assigned,3/18/24,0
+CLM0468,Initial Contact Made,3/19/24,1
+CLM0468,Investigation Complete,4/1/24,13
+CLM0469,Claim Assigned,3/25/24,0
+CLM0469,Initial Contact Made,3/26/24,1
+CLM0469,Investigation Complete,4/12/24,17
+CLM0470,Claim Assigned,3/8/24,0
+CLM0470,Initial Contact Made,3/9/24,1
+CLM0470,Investigation Complete,3/28/24,19
+CLM0470,Settlement Offer Made,4/4/24,7
+CLM0471,Claim Assigned,3/4/24,0
+CLM0471,Initial Contact Made,3/5/24,1
+CLM0472,Claim Assigned,2/6/24,0
+CLM0472,Initial Contact Made,2/7/24,1
+CLM0472,Investigation Complete,3/8/24,30
+CLM0473,Claim Assigned,3/11/24,0
+CLM0473,Initial Contact Made,3/12/24,1
+CLM0473,Investigation Complete,4/21/24,40
+CLM0474,Claim Assigned,2/26/24,0
+CLM0474,Initial Contact Made,2/27/24,1
+CLM0474,Investigation Complete,3/28/24,30
+CLM0474,Settlement Offer Made,4/12/24,15
+CLM0475,Claim Assigned,2/23/24,0
+CLM0475,Initial Contact Made,2/24/24,1
+CLM0476,Claim Assigned,3/5/24,0
+CLM0476,Initial Contact Made,3/6/24,1
+CLM0476,Investigation Complete,3/29/24,23
+CLM0477,Claim Assigned,1/3/24,0
+CLM0477,Initial Contact Made,1/4/24,1
+CLM0478,Claim Assigned,3/12/24,0
+CLM0478,Initial Contact Made,3/13/24,1
+CLM0478,Investigation Complete,3/27/24,14
+CLM0478,Settlement Offer Made,4/3/24,7
+CLM0478,Claim Closed,4/18/24,15
+CLM0479,Claim Assigned,2/16/24,0
+CLM0479,Initial Contact Made,2/17/24,1
+CLM0479,Investigation Complete,3/1/24,13
+CLM0479,Settlement Offer Made,3/6/24,5
+CLM0479,Claim Closed,3/21/24,15
+CLM0480,Claim Assigned,1/14/24,0
+CLM0480,Initial Contact Made,1/15/24,1
+CLM0480,Investigation Complete,2/14/24,30
+CLM0480,Settlement Offer Made,2/24/24,10
+CLM0480,Claim Closed,3/2/24,7
+CLM0481,Claim Assigned,3/13/24,0
+CLM0481,Initial Contact Made,3/14/24,1
+CLM0482,Claim Assigned,2/15/24,0
+CLM0482,Initial Contact Made,2/16/24,1
+CLM0482,Investigation Complete,2/27/24,11
+CLM0482,Settlement Offer Made,3/5/24,7
+CLM0482,Claim Closed,3/14/24,9
+CLM0483,Claim Assigned,3/29/24,0
+CLM0483,Initial Contact Made,3/30/24,1
+CLM0483,Investigation Complete,4/21/24,22
+CLM0483,Settlement Offer Made,4/28/24,7
+CLM0484,Claim Assigned,3/8/24,0
+CLM0484,Initial Contact Made,3/9/24,1
+CLM0484,Investigation Complete,3/25/24,16
+CLM0484,Settlement Offer Made,3/28/24,3
+CLM0484,Claim Closed,4/3/24,6
+CLM0485,Claim Assigned,3/1/24,0
+CLM0485,Initial Contact Made,3/2/24,1
+CLM0485,Investigation Complete,4/2/24,31
+CLM0485,Settlement Offer Made,4/11/24,9
+CLM0485,Claim Closed,4/16/24,5
+CLM0486,Claim Assigned,1/17/24,0
+CLM0486,Initial Contact Made,1/18/24,1
+CLM0486,Investigation Complete,2/27/24,40
+CLM0486,Settlement Offer Made,3/11/24,13
+CLM0487,Claim Assigned,3/31/24,0
+CLM0487,Initial Contact Made,4/1/24,1
+CLM0487,Investigation Complete,4/11/24,10
+CLM0488,Claim Assigned,3/16/24,0
+CLM0488,Initial Contact Made,3/17/24,1
+CLM0488,Investigation Complete,4/8/24,22
+CLM0488,Settlement Offer Made,4/14/24,6
+CLM0488,Claim Closed,4/22/24,8
+CLM0489,Claim Assigned,2/8/24,0
+CLM0489,Initial Contact Made,2/9/24,1
+CLM0489,Investigation Complete,3/10/24,30
+CLM0489,Settlement Offer Made,3/20/24,10
+CLM0490,Claim Assigned,1/27/24,0
+CLM0490,Initial Contact Made,1/28/24,1
+CLM0491,Claim Assigned,2/9/24,0
+CLM0491,Initial Contact Made,2/10/24,1
+CLM0491,Investigation Complete,3/16/24,35
+CLM0491,Settlement Offer Made,3/31/24,15
+CLM0492,Claim Assigned,2/9/24,0
+CLM0492,Initial Contact Made,2/10/24,1
+CLM0493,Claim Assigned,2/14/24,0
+CLM0493,Initial Contact Made,2/15/24,1
+CLM0493,Investigation Complete,3/18/24,32
+CLM0493,Settlement Offer Made,3/26/24,8
+CLM0494,Claim Assigned,2/11/24,0
+CLM0494,Initial Contact Made,2/12/24,1
+CLM0494,Investigation Complete,2/26/24,14
+CLM0495,Claim Assigned,2/10/24,0
+CLM0495,Initial Contact Made,2/11/24,1
+CLM0495,Investigation Complete,3/8/24,26
+CLM0495,Settlement Offer Made,3/23/24,15
+CLM0495,Claim Closed,4/7/24,15
+CLM0496,Claim Assigned,1/22/24,0
+CLM0496,Initial Contact Made,1/23/24,1
+CLM0496,Investigation Complete,2/21/24,29
+CLM0497,Claim Assigned,2/12/24,0
+CLM0497,Initial Contact Made,2/13/24,1
+CLM0498,Claim Assigned,3/7/24,0
+CLM0498,Initial Contact Made,3/8/24,1
+CLM0498,Investigation Complete,3/23/24,15
+CLM0498,Settlement Offer Made,4/3/24,11
+CLM0499,Claim Assigned,3/29/24,0
+CLM0499,Initial Contact Made,3/30/24,1
+CLM0499,Investigation Complete,4/20/24,21
+CLM0499,Settlement Offer Made,4/25/24,5
+CLM0499,Claim Closed,4/28/24,3
+CLM0500,Claim Assigned,1/23/24,0
+CLM0500,Initial Contact Made,1/24/24,1
+CLM0500,Investigation Complete,2/4/24,11
+CLM0501,Claim Assigned,3/25/24,0
+CLM0501,Initial Contact Made,3/26/24,1
+CLM0501,Investigation Complete,4/25/24,30
+CLM0501,Settlement Offer Made,5/7/24,12
+CLM0501,Claim Closed,5/13/24,6
+CLM0502,Claim Assigned,1/9/24,0
+CLM0502,Initial Contact Made,1/10/24,1
+CLM0502,Investigation Complete,2/17/24,38
+CLM0502,Settlement Offer Made,3/1/24,13
+CLM0502,Claim Closed,3/6/24,5
+CLM0503,Claim Assigned,2/19/24,0
+CLM0503,Initial Contact Made,2/20/24,1
+CLM0503,Investigation Complete,3/7/24,16
+CLM0503,Settlement Offer Made,3/13/24,6
+CLM0503,Claim Closed,3/20/24,7
+CLM0504,Claim Assigned,1/14/24,0
+CLM0504,Initial Contact Made,1/15/24,1
+CLM0504,Investigation Complete,2/13/24,29
+CLM0505,Claim Assigned,2/6/24,0
+CLM0505,Initial Contact Made,2/7/24,1
+CLM0505,Investigation Complete,3/17/24,39
+CLM0505,Settlement Offer Made,3/31/24,14
+CLM0506,Claim Assigned,3/18/24,0
+CLM0506,Initial Contact Made,3/19/24,1
+CLM0506,Investigation Complete,4/27/24,39
+CLM0506,Settlement Offer Made,5/7/24,10
+CLM0506,Claim Closed,5/22/24,15
+CLM0507,Claim Assigned,1/16/24,0
+CLM0507,Initial Contact Made,1/17/24,1
+CLM0507,Investigation Complete,2/26/24,40
+CLM0508,Claim Assigned,3/29/24,0
+CLM0508,Initial Contact Made,3/30/24,1
+CLM0508,Investigation Complete,4/9/24,10
+CLM0509,Claim Assigned,2/29/24,0
+CLM0509,Initial Contact Made,3/1/24,1
+CLM0509,Investigation Complete,4/9/24,39
+CLM0509,Settlement Offer Made,4/15/24,6
+CLM0509,Claim Closed,4/25/24,10
+CLM0510,Claim Assigned,3/26/24,0
+CLM0510,Initial Contact Made,3/27/24,1
+CLM0510,Investigation Complete,4/6/24,10
+CLM0510,Settlement Offer Made,4/9/24,3
+CLM0511,Claim Assigned,2/15/24,0
+CLM0511,Initial Contact Made,2/16/24,1
+CLM0511,Investigation Complete,3/5/24,18
+CLM0512,Claim Assigned,1/30/24,0
+CLM0512,Initial Contact Made,1/31/24,1
+CLM0513,Claim Assigned,3/16/24,0
+CLM0513,Initial Contact Made,3/17/24,1
+CLM0513,Investigation Complete,4/4/24,18
+CLM0513,Settlement Offer Made,4/19/24,15
+CLM0514,Claim Assigned,3/27/24,0
+CLM0514,Initial Contact Made,3/28/24,1
+CLM0514,Investigation Complete,5/6/24,39
+CLM0514,Settlement Offer Made,5/10/24,4
+CLM0514,Claim Closed,5/24/24,14
+CLM0515,Claim Assigned,3/23/24,0
+CLM0515,Initial Contact Made,3/24/24,1
+CLM0515,Investigation Complete,4/7/24,14
+CLM0515,Settlement Offer Made,4/14/24,7
+CLM0515,Claim Closed,4/19/24,5
+CLM0516,Claim Assigned,3/21/24,0
+CLM0516,Initial Contact Made,3/22/24,1
+CLM0516,Investigation Complete,4/17/24,26
+CLM0517,Claim Assigned,2/26/24,0
+CLM0517,Initial Contact Made,2/27/24,1
+CLM0517,Investigation Complete,3/28/24,30
+CLM0517,Settlement Offer Made,4/2/24,5
+CLM0517,Claim Closed,4/7/24,5
+CLM0518,Claim Assigned,3/26/24,0
+CLM0518,Initial Contact Made,3/27/24,1
+CLM0518,Investigation Complete,4/6/24,10
+CLM0518,Settlement Offer Made,4/13/24,7
+CLM0519,Claim Assigned,3/17/24,0
+CLM0519,Initial Contact Made,3/18/24,1
+CLM0519,Investigation Complete,4/12/24,25
+CLM0519,Settlement Offer Made,4/20/24,8
+CLM0519,Claim Closed,5/5/24,15
+CLM0520,Claim Assigned,3/23/24,0
+CLM0520,Initial Contact Made,3/24/24,1
+CLM0520,Investigation Complete,4/3/24,10
+CLM0520,Settlement Offer Made,4/7/24,4
+CLM0520,Claim Closed,4/15/24,8
+CLM0521,Claim Assigned,2/26/24,0
+CLM0521,Initial Contact Made,2/27/24,1
+CLM0522,Claim Assigned,1/24/24,0
+CLM0522,Initial Contact Made,1/25/24,1
+CLM0522,Investigation Complete,2/25/24,31
+CLM0522,Settlement Offer Made,3/1/24,5
+CLM0523,Claim Assigned,2/7/24,0
+CLM0523,Initial Contact Made,2/8/24,1
+CLM0523,Investigation Complete,2/26/24,18
+CLM0523,Settlement Offer Made,3/1/24,4
+CLM0524,Claim Assigned,3/10/24,0
+CLM0524,Initial Contact Made,3/11/24,1
+CLM0524,Investigation Complete,4/20/24,40
+CLM0524,Settlement Offer Made,5/5/24,15
+CLM0524,Claim Closed,5/8/24,3
+CLM0525,Claim Assigned,3/6/24,0
+CLM0525,Initial Contact Made,3/7/24,1
+CLM0525,Investigation Complete,3/28/24,21
+CLM0526,Claim Assigned,2/2/24,0
+CLM0526,Initial Contact Made,2/3/24,1
+CLM0526,Investigation Complete,2/21/24,18
+CLM0526,Settlement Offer Made,3/5/24,13
+CLM0527,Claim Assigned,3/5/24,0
+CLM0527,Initial Contact Made,3/6/24,1
+CLM0527,Investigation Complete,4/8/24,33
+CLM0528,Claim Assigned,3/5/24,0
+CLM0528,Initial Contact Made,3/6/24,1
+CLM0529,Claim Assigned,1/7/24,0
+CLM0529,Initial Contact Made,1/8/24,1
+CLM0529,Investigation Complete,2/5/24,28
+CLM0529,Settlement Offer Made,2/15/24,10
+CLM0529,Claim Closed,2/22/24,7
+CLM0530,Claim Assigned,1/23/24,0
+CLM0530,Initial Contact Made,1/24/24,1
+CLM0530,Investigation Complete,2/21/24,28
+CLM0531,Claim Assigned,3/9/24,0
+CLM0531,Initial Contact Made,3/10/24,1
+CLM0531,Investigation Complete,4/18/24,39
+CLM0531,Settlement Offer Made,4/26/24,8
+CLM0532,Claim Assigned,1/2/24,0
+CLM0532,Initial Contact Made,1/3/24,1
+CLM0532,Investigation Complete,1/23/24,20
+CLM0533,Claim Assigned,3/15/24,0
+CLM0533,Initial Contact Made,3/16/24,1
+CLM0533,Investigation Complete,4/25/24,40
+CLM0533,Settlement Offer Made,5/4/24,9
+CLM0534,Claim Assigned,3/7/24,0
+CLM0534,Initial Contact Made,3/8/24,1
+CLM0534,Investigation Complete,3/24/24,16
+CLM0535,Claim Assigned,1/10/24,0
+CLM0535,Initial Contact Made,1/11/24,1
+CLM0535,Investigation Complete,1/27/24,16
+CLM0535,Settlement Offer Made,2/3/24,7
+CLM0536,Claim Assigned,1/21/24,0
+CLM0536,Initial Contact Made,1/22/24,1
+CLM0537,Claim Assigned,1/30/24,0
+CLM0537,Initial Contact Made,1/31/24,1
+CLM0538,Claim Assigned,3/15/24,0
+CLM0538,Initial Contact Made,3/16/24,1
+CLM0538,Investigation Complete,4/4/24,19
+CLM0538,Settlement Offer Made,4/8/24,4
+CLM0539,Claim Assigned,1/15/24,0
+CLM0539,Initial Contact Made,1/16/24,1
+CLM0539,Investigation Complete,2/22/24,37
+CLM0540,Claim Assigned,1/9/24,0
+CLM0540,Initial Contact Made,1/10/24,1
+CLM0540,Investigation Complete,1/31/24,21
+CLM0540,Settlement Offer Made,2/11/24,11
+CLM0541,Claim Assigned,1/27/24,0
+CLM0541,Initial Contact Made,1/28/24,1
+CLM0541,Investigation Complete,2/18/24,21
+CLM0541,Settlement Offer Made,3/4/24,15
+CLM0542,Claim Assigned,3/15/24,0
+CLM0542,Initial Contact Made,3/16/24,1
+CLM0542,Investigation Complete,4/2/24,17
+CLM0543,Claim Assigned,2/4/24,0
+CLM0543,Initial Contact Made,2/5/24,1
+CLM0543,Investigation Complete,2/27/24,22
+CLM0543,Settlement Offer Made,3/4/24,6
+CLM0543,Claim Closed,3/17/24,13
+CLM0544,Claim Assigned,1/23/24,0
+CLM0544,Initial Contact Made,1/24/24,1
+CLM0545,Claim Assigned,3/26/24,0
+CLM0545,Initial Contact Made,3/27/24,1
+CLM0545,Investigation Complete,4/21/24,25
+CLM0546,Claim Assigned,1/22/24,0
+CLM0546,Initial Contact Made,1/23/24,1
+CLM0547,Claim Assigned,1/13/24,0
+CLM0547,Initial Contact Made,1/14/24,1
+CLM0547,Investigation Complete,2/9/24,26
+CLM0548,Claim Assigned,2/1/24,0
+CLM0548,Initial Contact Made,2/2/24,1
+CLM0549,Claim Assigned,1/22/24,0
+CLM0549,Initial Contact Made,1/23/24,1
+CLM0549,Investigation Complete,2/9/24,17
+CLM0549,Settlement Offer Made,2/19/24,10
+CLM0549,Claim Closed,2/24/24,5
+CLM0550,Claim Assigned,1/31/24,0
+CLM0550,Initial Contact Made,2/1/24,1
+CLM0550,Investigation Complete,2/15/24,14
+CLM0550,Settlement Offer Made,2/24/24,9
+CLM0551,Claim Assigned,3/5/24,0
+CLM0551,Initial Contact Made,3/6/24,1
+CLM0551,Investigation Complete,4/11/24,36
+CLM0551,Settlement Offer Made,4/24/24,13
+CLM0551,Claim Closed,5/8/24,14
+CLM0552,Claim Assigned,3/10/24,0
+CLM0552,Initial Contact Made,3/11/24,1
+CLM0552,Investigation Complete,3/29/24,18
+CLM0553,Claim Assigned,3/6/24,0
+CLM0553,Initial Contact Made,3/7/24,1
+CLM0553,Investigation Complete,3/31/24,24
+CLM0554,Claim Assigned,3/18/24,0
+CLM0554,Initial Contact Made,3/19/24,1
+CLM0555,Claim Assigned,3/13/24,0
+CLM0555,Initial Contact Made,3/14/24,1
+CLM0555,Investigation Complete,4/7/24,24
+CLM0555,Settlement Offer Made,4/10/24,3
+CLM0555,Claim Closed,4/23/24,13
+CLM0556,Claim Assigned,1/2/24,0
+CLM0556,Initial Contact Made,1/3/24,1
+CLM0557,Claim Assigned,2/16/24,0
+CLM0557,Initial Contact Made,2/17/24,1
+CLM0557,Investigation Complete,3/26/24,38
+CLM0557,Settlement Offer Made,3/31/24,5
+CLM0558,Claim Assigned,3/2/24,0
+CLM0558,Initial Contact Made,3/3/24,1
+CLM0559,Claim Assigned,2/3/24,0
+CLM0559,Initial Contact Made,2/4/24,1
+CLM0559,Investigation Complete,2/23/24,19
+CLM0559,Settlement Offer Made,2/27/24,4
+CLM0560,Claim Assigned,3/5/24,0
+CLM0560,Initial Contact Made,3/6/24,1
+CLM0561,Claim Assigned,3/17/24,0
+CLM0561,Initial Contact Made,3/18/24,1
+CLM0562,Claim Assigned,1/10/24,0
+CLM0562,Initial Contact Made,1/11/24,1
+CLM0562,Investigation Complete,2/3/24,23
+CLM0562,Settlement Offer Made,2/11/24,8
+CLM0562,Claim Closed,2/18/24,7
+CLM0563,Claim Assigned,1/7/24,0
+CLM0563,Initial Contact Made,1/8/24,1
+CLM0563,Investigation Complete,2/10/24,33
+CLM0563,Settlement Offer Made,2/13/24,3
+CLM0563,Claim Closed,2/24/24,11
+CLM0564,Claim Assigned,2/26/24,0
+CLM0564,Initial Contact Made,2/27/24,1
+CLM0565,Claim Assigned,1/6/24,0
+CLM0565,Initial Contact Made,1/7/24,1
+CLM0565,Investigation Complete,1/22/24,15
+CLM0565,Settlement Offer Made,2/6/24,15
+CLM0565,Claim Closed,2/15/24,9
+CLM0566,Claim Assigned,2/15/24,0
+CLM0566,Initial Contact Made,2/16/24,1
+CLM0566,Investigation Complete,3/12/24,25
+CLM0567,Claim Assigned,2/24/24,0
+CLM0567,Initial Contact Made,2/25/24,1
+CLM0568,Claim Assigned,3/11/24,0
+CLM0568,Initial Contact Made,3/12/24,1
+CLM0568,Investigation Complete,3/28/24,16
+CLM0568,Settlement Offer Made,4/7/24,10
+CLM0568,Claim Closed,4/18/24,11
+CLM0569,Claim Assigned,3/7/24,0
+CLM0569,Initial Contact Made,3/8/24,1
+CLM0569,Investigation Complete,4/13/24,36
+CLM0570,Claim Assigned,3/14/24,0
+CLM0570,Initial Contact Made,3/15/24,1
+CLM0570,Investigation Complete,4/20/24,36
+CLM0571,Claim Assigned,3/6/24,0
+CLM0571,Initial Contact Made,3/7/24,1
+CLM0571,Investigation Complete,4/10/24,34
+CLM0571,Settlement Offer Made,4/21/24,11
+CLM0571,Claim Closed,4/26/24,5
+CLM0572,Claim Assigned,3/29/24,0
+CLM0572,Initial Contact Made,3/30/24,1
+CLM0572,Investigation Complete,5/1/24,32
+CLM0572,Settlement Offer Made,5/16/24,15
+CLM0573,Claim Assigned,3/21/24,0
+CLM0573,Initial Contact Made,3/22/24,1
+CLM0574,Claim Assigned,3/9/24,0
+CLM0574,Initial Contact Made,3/10/24,1
+CLM0574,Investigation Complete,4/13/24,34
+CLM0574,Settlement Offer Made,4/20/24,7
+CLM0575,Claim Assigned,1/3/24,0
+CLM0575,Initial Contact Made,1/4/24,1
+CLM0576,Claim Assigned,1/29/24,0
+CLM0576,Initial Contact Made,1/30/24,1
+CLM0576,Investigation Complete,2/11/24,12
+CLM0576,Settlement Offer Made,2/19/24,8
+CLM0577,Claim Assigned,1/22/24,0
+CLM0577,Initial Contact Made,1/23/24,1
+CLM0577,Investigation Complete,2/12/24,20
+CLM0577,Settlement Offer Made,2/27/24,15
+CLM0577,Claim Closed,3/2/24,4
+CLM0578,Claim Assigned,2/24/24,0
+CLM0578,Initial Contact Made,2/25/24,1
+CLM0578,Investigation Complete,3/30/24,34
+CLM0578,Settlement Offer Made,4/13/24,14
+CLM0578,Claim Closed,4/22/24,9
+CLM0579,Claim Assigned,1/2/24,0
+CLM0579,Initial Contact Made,1/3/24,1
+CLM0579,Investigation Complete,2/7/24,35
+CLM0579,Settlement Offer Made,2/10/24,3
+CLM0580,Claim Assigned,1/15/24,0
+CLM0580,Initial Contact Made,1/16/24,1
+CLM0580,Investigation Complete,2/10/24,25
+CLM0580,Settlement Offer Made,2/18/24,8
+CLM0581,Claim Assigned,3/31/24,0
+CLM0581,Initial Contact Made,4/1/24,1
+CLM0581,Investigation Complete,5/1/24,30
+CLM0581,Settlement Offer Made,5/5/24,4
+CLM0582,Claim Assigned,2/29/24,0
+CLM0582,Initial Contact Made,3/1/24,1
+CLM0583,Claim Assigned,1/29/24,0
+CLM0583,Initial Contact Made,1/30/24,1
+CLM0584,Claim Assigned,2/10/24,0
+CLM0584,Initial Contact Made,2/11/24,1
+CLM0584,Investigation Complete,3/21/24,39
+CLM0585,Claim Assigned,2/11/24,0
+CLM0585,Initial Contact Made,2/12/24,1
+CLM0586,Claim Assigned,2/28/24,0
+CLM0586,Initial Contact Made,2/29/24,1
+CLM0586,Investigation Complete,3/24/24,24
+CLM0586,Settlement Offer Made,3/30/24,6
+CLM0587,Claim Assigned,3/14/24,0
+CLM0587,Initial Contact Made,3/15/24,1
+CLM0587,Investigation Complete,4/23/24,39
+CLM0587,Settlement Offer Made,4/26/24,3
+CLM0588,Claim Assigned,3/31/24,0
+CLM0588,Initial Contact Made,4/1/24,1
+CLM0588,Investigation Complete,4/30/24,29
+CLM0588,Settlement Offer Made,5/6/24,6
+CLM0589,Claim Assigned,3/5/24,0
+CLM0589,Initial Contact Made,3/6/24,1
+CLM0590,Claim Assigned,3/11/24,0
+CLM0590,Initial Contact Made,3/12/24,1
+CLM0590,Investigation Complete,4/16/24,35
+CLM0591,Claim Assigned,2/21/24,0
+CLM0591,Initial Contact Made,2/22/24,1
+CLM0591,Investigation Complete,3/10/24,17
+CLM0591,Settlement Offer Made,3/16/24,6
+CLM0591,Claim Closed,3/19/24,3
+CLM0592,Claim Assigned,2/26/24,0
+CLM0592,Initial Contact Made,2/27/24,1
+CLM0592,Investigation Complete,3/14/24,16
+CLM0592,Settlement Offer Made,3/27/24,13
+CLM0593,Claim Assigned,1/4/24,0
+CLM0593,Initial Contact Made,1/5/24,1
+CLM0594,Claim Assigned,2/3/24,0
+CLM0594,Initial Contact Made,2/4/24,1
+CLM0594,Investigation Complete,3/13/24,38
+CLM0595,Claim Assigned,2/29/24,0
+CLM0595,Initial Contact Made,3/1/24,1
+CLM0595,Investigation Complete,3/26/24,25
+CLM0596,Claim Assigned,3/29/24,0
+CLM0596,Initial Contact Made,3/30/24,1
+CLM0596,Investigation Complete,4/21/24,22
+CLM0596,Settlement Offer Made,5/4/24,13
+CLM0596,Claim Closed,5/9/24,5
+CLM0597,Claim Assigned,3/14/24,0
+CLM0597,Initial Contact Made,3/15/24,1
+CLM0598,Claim Assigned,3/27/24,0
+CLM0598,Initial Contact Made,3/28/24,1
+CLM0599,Claim Assigned,3/12/24,0
+CLM0599,Initial Contact Made,3/13/24,1
+CLM0600,Claim Assigned,3/18/24,0
+CLM0600,Initial Contact Made,3/19/24,1
+CLM0600,Investigation Complete,4/7/24,19
+CLM0600,Settlement Offer Made,4/17/24,10
+CLM0601,Claim Assigned,1/22/24,0
+CLM0601,Initial Contact Made,1/23/24,1
+CLM0601,Investigation Complete,2/16/24,24
+CLM0601,Settlement Offer Made,2/22/24,6
+CLM0601,Claim Closed,2/29/24,7
+CLM0602,Claim Assigned,3/11/24,0
+CLM0602,Initial Contact Made,3/12/24,1
+CLM0602,Investigation Complete,4/8/24,27
+CLM0602,Settlement Offer Made,4/16/24,8
+CLM0602,Claim Closed,4/30/24,14
+CLM0603,Claim Assigned,1/5/24,0
+CLM0603,Initial Contact Made,1/6/24,1
+CLM0604,Claim Assigned,2/17/24,0
+CLM0604,Initial Contact Made,2/18/24,1
+CLM0604,Investigation Complete,3/21/24,32
+CLM0605,Claim Assigned,3/30/24,0
+CLM0605,Initial Contact Made,3/31/24,1
+CLM0606,Claim Assigned,2/27/24,0
+CLM0606,Initial Contact Made,2/28/24,1
+CLM0607,Claim Assigned,2/11/24,0
+CLM0607,Initial Contact Made,2/12/24,1
+CLM0607,Investigation Complete,3/15/24,32
+CLM0608,Claim Assigned,3/8/24,0
+CLM0608,Initial Contact Made,3/9/24,1
+CLM0608,Investigation Complete,4/16/24,38
+CLM0609,Claim Assigned,3/6/24,0
+CLM0609,Initial Contact Made,3/7/24,1
+CLM0609,Investigation Complete,3/28/24,21
+CLM0609,Settlement Offer Made,4/6/24,9
+CLM0609,Claim Closed,4/12/24,6
+CLM0610,Claim Assigned,3/18/24,0
+CLM0610,Initial Contact Made,3/19/24,1
+CLM0610,Investigation Complete,3/31/24,12
+CLM0611,Claim Assigned,2/29/24,0
+CLM0611,Initial Contact Made,3/1/24,1
+CLM0611,Investigation Complete,3/15/24,14
+CLM0611,Settlement Offer Made,3/19/24,4
+CLM0612,Claim Assigned,1/21/24,0
+CLM0612,Initial Contact Made,1/22/24,1
+CLM0613,Claim Assigned,3/1/24,0
+CLM0613,Initial Contact Made,3/2/24,1
+CLM0613,Investigation Complete,3/17/24,15
+CLM0614,Claim Assigned,3/31/24,0
+CLM0614,Initial Contact Made,4/1/24,1
+CLM0614,Investigation Complete,4/30/24,29
+CLM0614,Settlement Offer Made,5/12/24,12
+CLM0615,Claim Assigned,2/1/24,0
+CLM0615,Initial Contact Made,2/2/24,1
+CLM0615,Investigation Complete,2/18/24,16
+CLM0615,Settlement Offer Made,3/1/24,12
+CLM0616,Claim Assigned,3/6/24,0
+CLM0616,Initial Contact Made,3/7/24,1
+CLM0617,Claim Assigned,1/16/24,0
+CLM0617,Initial Contact Made,1/17/24,1
+CLM0617,Investigation Complete,2/24/24,38
+CLM0617,Settlement Offer Made,2/27/24,3
+CLM0617,Claim Closed,3/6/24,8
+CLM0618,Claim Assigned,1/11/24,0
+CLM0618,Initial Contact Made,1/12/24,1
+CLM0618,Investigation Complete,1/30/24,18
+CLM0619,Claim Assigned,2/6/24,0
+CLM0619,Initial Contact Made,2/7/24,1
+CLM0619,Investigation Complete,2/19/24,12
+CLM0620,Claim Assigned,3/8/24,0
+CLM0620,Initial Contact Made,3/9/24,1
+CLM0620,Investigation Complete,3/22/24,13
+CLM0621,Claim Assigned,3/9/24,0
+CLM0621,Initial Contact Made,3/10/24,1
+CLM0621,Investigation Complete,4/12/24,33
+CLM0621,Settlement Offer Made,4/26/24,14
+CLM0621,Claim Closed,5/9/24,13
+CLM0622,Claim Assigned,1/27/24,0
+CLM0622,Initial Contact Made,1/28/24,1
+CLM0623,Claim Assigned,2/25/24,0
+CLM0623,Initial Contact Made,2/26/24,1
+CLM0623,Investigation Complete,3/19/24,22
+CLM0623,Settlement Offer Made,3/30/24,11
+CLM0623,Claim Closed,4/13/24,14
+CLM0624,Claim Assigned,1/22/24,0
+CLM0624,Initial Contact Made,1/23/24,1
+CLM0624,Investigation Complete,2/7/24,15
+CLM0624,Settlement Offer Made,2/10/24,3
+CLM0625,Claim Assigned,2/23/24,0
+CLM0625,Initial Contact Made,2/24/24,1
+CLM0625,Investigation Complete,3/14/24,19
+CLM0625,Settlement Offer Made,3/23/24,9
+CLM0625,Claim Closed,4/3/24,11
+CLM0626,Claim Assigned,2/4/24,0
+CLM0626,Initial Contact Made,2/5/24,1
+CLM0626,Investigation Complete,2/20/24,15
+CLM0626,Settlement Offer Made,2/28/24,8
+CLM0627,Claim Assigned,2/22/24,0
+CLM0627,Initial Contact Made,2/23/24,1
+CLM0628,Claim Assigned,3/18/24,0
+CLM0628,Initial Contact Made,3/19/24,1
+CLM0628,Investigation Complete,4/7/24,19
+CLM0628,Settlement Offer Made,4/10/24,3
+CLM0629,Claim Assigned,3/17/24,0
+CLM0629,Initial Contact Made,3/18/24,1
+CLM0629,Investigation Complete,4/15/24,28
+CLM0629,Settlement Offer Made,4/18/24,3
+CLM0629,Claim Closed,4/27/24,9
+CLM0630,Claim Assigned,3/4/24,0
+CLM0630,Initial Contact Made,3/5/24,1
+CLM0630,Investigation Complete,4/5/24,31
+CLM0630,Settlement Offer Made,4/20/24,15
+CLM0630,Claim Closed,4/28/24,8
+CLM0631,Claim Assigned,1/27/24,0
+CLM0631,Initial Contact Made,1/28/24,1
+CLM0631,Investigation Complete,2/11/24,14
+CLM0631,Settlement Offer Made,2/20/24,9
+CLM0631,Claim Closed,3/1/24,10
+CLM0632,Claim Assigned,1/14/24,0
+CLM0632,Initial Contact Made,1/15/24,1
+CLM0632,Investigation Complete,1/31/24,16
+CLM0633,Claim Assigned,2/20/24,0
+CLM0633,Initial Contact Made,2/21/24,1
+CLM0633,Investigation Complete,3/23/24,31
+CLM0634,Claim Assigned,1/24/24,0
+CLM0634,Initial Contact Made,1/25/24,1
+CLM0635,Claim Assigned,3/2/24,0
+CLM0635,Initial Contact Made,3/3/24,1
+CLM0635,Investigation Complete,4/5/24,33
+CLM0635,Settlement Offer Made,4/14/24,9
+CLM0635,Claim Closed,4/29/24,15
+CLM0636,Claim Assigned,2/13/24,0
+CLM0636,Initial Contact Made,2/14/24,1
+CLM0636,Investigation Complete,3/11/24,26
+CLM0636,Settlement Offer Made,3/17/24,6
+CLM0636,Claim Closed,4/1/24,15
+CLM0637,Claim Assigned,3/21/24,0
+CLM0637,Initial Contact Made,3/22/24,1
+CLM0637,Investigation Complete,4/24/24,33
+CLM0637,Settlement Offer Made,4/28/24,4
+CLM0637,Claim Closed,5/3/24,5
+CLM0638,Claim Assigned,1/22/24,0
+CLM0638,Initial Contact Made,1/23/24,1
+CLM0638,Investigation Complete,2/14/24,22
+CLM0639,Claim Assigned,1/12/24,0
+CLM0639,Initial Contact Made,1/13/24,1
+CLM0639,Investigation Complete,2/12/24,30
+CLM0639,Settlement Offer Made,2/21/24,9
+CLM0640,Claim Assigned,1/20/24,0
+CLM0640,Initial Contact Made,1/21/24,1
+CLM0640,Investigation Complete,2/28/24,38
+CLM0640,Settlement Offer Made,3/5/24,6
+CLM0640,Claim Closed,3/10/24,5
+CLM0641,Claim Assigned,1/17/24,0
+CLM0641,Initial Contact Made,1/18/24,1
+CLM0641,Investigation Complete,1/31/24,13
+CLM0642,Claim Assigned,1/30/24,0
+CLM0642,Initial Contact Made,1/31/24,1
+CLM0642,Investigation Complete,2/21/24,21
+CLM0643,Claim Assigned,1/3/24,0
+CLM0643,Initial Contact Made,1/4/24,1
+CLM0643,Investigation Complete,1/30/24,26
+CLM0643,Settlement Offer Made,2/2/24,3
+CLM0643,Claim Closed,2/11/24,9
+CLM0644,Claim Assigned,3/18/24,0
+CLM0644,Initial Contact Made,3/19/24,1
+CLM0644,Investigation Complete,4/10/24,22
+CLM0644,Settlement Offer Made,4/17/24,7
+CLM0644,Claim Closed,4/25/24,8
+CLM0645,Claim Assigned,3/22/24,0
+CLM0645,Initial Contact Made,3/23/24,1
+CLM0645,Investigation Complete,4/26/24,34
+CLM0645,Settlement Offer Made,5/4/24,8
+CLM0645,Claim Closed,5/9/24,5
+CLM0646,Claim Assigned,3/31/24,0
+CLM0646,Initial Contact Made,4/1/24,1
+CLM0646,Investigation Complete,4/14/24,13
+CLM0647,Claim Assigned,1/21/24,0
+CLM0647,Initial Contact Made,1/22/24,1
+CLM0647,Investigation Complete,2/19/24,28
+CLM0647,Settlement Offer Made,2/28/24,9
+CLM0647,Claim Closed,3/14/24,15
+CLM0648,Claim Assigned,1/30/24,0
+CLM0648,Initial Contact Made,1/31/24,1
+CLM0649,Claim Assigned,1/15/24,0
+CLM0649,Initial Contact Made,1/16/24,1
+CLM0649,Investigation Complete,2/10/24,25
+CLM0649,Settlement Offer Made,2/19/24,9
+CLM0649,Claim Closed,3/4/24,14
+CLM0650,Claim Assigned,2/29/24,0
+CLM0650,Initial Contact Made,3/1/24,1
+CLM0650,Investigation Complete,4/1/24,31
+CLM0650,Settlement Offer Made,4/11/24,10
+CLM0651,Claim Assigned,3/13/24,0
+CLM0651,Initial Contact Made,3/14/24,1
+CLM0651,Investigation Complete,4/7/24,24
+CLM0651,Settlement Offer Made,4/12/24,5
+CLM0652,Claim Assigned,3/30/24,0
+CLM0652,Initial Contact Made,3/31/24,1
+CLM0652,Investigation Complete,4/11/24,11
+CLM0652,Settlement Offer Made,4/19/24,8
+CLM0652,Claim Closed,4/22/24,3
+CLM0653,Claim Assigned,3/3/24,0
+CLM0653,Initial Contact Made,3/4/24,1
+CLM0653,Investigation Complete,3/23/24,19
+CLM0653,Settlement Offer Made,4/4/24,12
+CLM0653,Claim Closed,4/10/24,6
+CLM0654,Claim Assigned,1/18/24,0
+CLM0654,Initial Contact Made,1/19/24,1
+CLM0654,Investigation Complete,2/13/24,25
+CLM0655,Claim Assigned,2/11/24,0
+CLM0655,Initial Contact Made,2/12/24,1
+CLM0655,Investigation Complete,2/27/24,15
+CLM0655,Settlement Offer Made,3/8/24,10
+CLM0656,Claim Assigned,3/26/24,0
+CLM0656,Initial Contact Made,3/27/24,1
+CLM0657,Claim Assigned,1/13/24,0
+CLM0657,Initial Contact Made,1/14/24,1
+CLM0657,Investigation Complete,2/7/24,24
+CLM0657,Settlement Offer Made,2/16/24,9
+CLM0657,Claim Closed,2/26/24,10
+CLM0658,Claim Assigned,1/29/24,0
+CLM0658,Initial Contact Made,1/30/24,1
+CLM0658,Investigation Complete,3/3/24,33
+CLM0658,Settlement Offer Made,3/18/24,15
+CLM0658,Claim Closed,3/23/24,5
+CLM0659,Claim Assigned,3/11/24,0
+CLM0659,Initial Contact Made,3/12/24,1
+CLM0659,Investigation Complete,4/6/24,25
+CLM0660,Claim Assigned,1/17/24,0
+CLM0660,Initial Contact Made,1/18/24,1
+CLM0660,Investigation Complete,1/28/24,10
+CLM0660,Settlement Offer Made,2/4/24,7
+CLM0661,Claim Assigned,2/8/24,0
+CLM0661,Initial Contact Made,2/9/24,1
+CLM0661,Investigation Complete,3/4/24,24
+CLM0661,Settlement Offer Made,3/15/24,11
+CLM0662,Claim Assigned,1/4/24,0
+CLM0662,Initial Contact Made,1/5/24,1
+CLM0662,Investigation Complete,1/25/24,20
+CLM0662,Settlement Offer Made,1/28/24,3
+CLM0663,Claim Assigned,3/30/24,0
+CLM0663,Initial Contact Made,3/31/24,1
+CLM0664,Claim Assigned,1/30/24,0
+CLM0664,Initial Contact Made,1/31/24,1
+CLM0664,Investigation Complete,2/10/24,10
+CLM0664,Settlement Offer Made,2/15/24,5
+CLM0665,Claim Assigned,1/19/24,0
+CLM0665,Initial Contact Made,1/20/24,1
+CLM0665,Investigation Complete,2/26/24,37
+CLM0665,Settlement Offer Made,3/3/24,6
+CLM0665,Claim Closed,3/11/24,8
+CLM0666,Claim Assigned,3/24/24,0
+CLM0666,Initial Contact Made,3/25/24,1
+CLM0666,Investigation Complete,4/27/24,33
+CLM0666,Settlement Offer Made,5/9/24,12
+CLM0666,Claim Closed,5/19/24,10
+CLM0667,Claim Assigned,2/17/24,0
+CLM0667,Initial Contact Made,2/18/24,1
+CLM0667,Investigation Complete,3/9/24,20
+CLM0668,Claim Assigned,1/25/24,0
+CLM0668,Initial Contact Made,1/26/24,1
+CLM0668,Investigation Complete,3/5/24,39
+CLM0668,Settlement Offer Made,3/14/24,9
+CLM0668,Claim Closed,3/26/24,12
+CLM0669,Claim Assigned,3/2/24,0
+CLM0669,Initial Contact Made,3/3/24,1
+CLM0669,Investigation Complete,3/23/24,20
+CLM0670,Claim Assigned,3/1/24,0
+CLM0670,Initial Contact Made,3/2/24,1
+CLM0670,Investigation Complete,3/21/24,19
+CLM0671,Claim Assigned,1/7/24,0
+CLM0671,Initial Contact Made,1/8/24,1
+CLM0672,Claim Assigned,1/2/24,0
+CLM0672,Initial Contact Made,1/3/24,1
+CLM0672,Investigation Complete,1/17/24,14
+CLM0672,Settlement Offer Made,1/23/24,6
+CLM0673,Claim Assigned,3/11/24,0
+CLM0673,Initial Contact Made,3/12/24,1
+CLM0674,Claim Assigned,1/20/24,0
+CLM0674,Initial Contact Made,1/21/24,1
+CLM0674,Investigation Complete,2/23/24,33
+CLM0674,Settlement Offer Made,2/28/24,5
+CLM0674,Claim Closed,3/10/24,11
+CLM0675,Claim Assigned,1/7/24,0
+CLM0675,Initial Contact Made,1/8/24,1
+CLM0675,Investigation Complete,2/17/24,40
+CLM0675,Settlement Offer Made,3/2/24,14
+CLM0676,Claim Assigned,3/26/24,0
+CLM0676,Initial Contact Made,3/27/24,1
+CLM0676,Investigation Complete,4/18/24,22
+CLM0676,Settlement Offer Made,4/27/24,9
+CLM0676,Claim Closed,5/4/24,7
+CLM0677,Claim Assigned,1/24/24,0
+CLM0677,Initial Contact Made,1/25/24,1
+CLM0677,Investigation Complete,2/20/24,26
+CLM0677,Settlement Offer Made,2/29/24,9
+CLM0677,Claim Closed,3/7/24,7
+CLM0678,Claim Assigned,3/29/24,0
+CLM0678,Initial Contact Made,3/30/24,1
+CLM0678,Investigation Complete,5/2/24,33
+CLM0678,Settlement Offer Made,5/17/24,15
+CLM0679,Claim Assigned,2/26/24,0
+CLM0679,Initial Contact Made,2/27/24,1
+CLM0679,Investigation Complete,3/12/24,14
+CLM0679,Settlement Offer Made,3/24/24,12
+CLM0679,Claim Closed,4/6/24,13
+CLM0680,Claim Assigned,1/2/24,0
+CLM0680,Initial Contact Made,1/3/24,1
+CLM0680,Investigation Complete,1/15/24,12
+CLM0681,Claim Assigned,1/28/24,0
+CLM0681,Initial Contact Made,1/29/24,1
+CLM0682,Claim Assigned,2/4/24,0
+CLM0682,Initial Contact Made,2/5/24,1
+CLM0682,Investigation Complete,3/4/24,28
+CLM0682,Settlement Offer Made,3/19/24,15
+CLM0683,Claim Assigned,1/18/24,0
+CLM0683,Initial Contact Made,1/19/24,1
+CLM0684,Claim Assigned,2/9/24,0
+CLM0684,Initial Contact Made,2/10/24,1
+CLM0684,Investigation Complete,3/12/24,31
+CLM0684,Settlement Offer Made,3/22/24,10
+CLM0684,Claim Closed,4/5/24,14
+CLM0685,Claim Assigned,1/2/24,0
+CLM0685,Initial Contact Made,1/3/24,1
+CLM0685,Investigation Complete,1/17/24,14
+CLM0686,Claim Assigned,1/21/24,0
+CLM0686,Initial Contact Made,1/22/24,1
+CLM0686,Investigation Complete,2/17/24,26
+CLM0686,Settlement Offer Made,3/2/24,14
+CLM0686,Claim Closed,3/7/24,5
+CLM0687,Claim Assigned,3/23/24,0
+CLM0687,Initial Contact Made,3/24/24,1
+CLM0687,Investigation Complete,4/3/24,10
+CLM0687,Settlement Offer Made,4/14/24,11
+CLM0688,Claim Assigned,2/20/24,0
+CLM0688,Initial Contact Made,2/21/24,1
+CLM0688,Investigation Complete,3/24/24,32
+CLM0688,Settlement Offer Made,4/2/24,9
+CLM0689,Claim Assigned,1/7/24,0
+CLM0689,Initial Contact Made,1/8/24,1
+CLM0689,Investigation Complete,2/16/24,39
+CLM0689,Settlement Offer Made,2/22/24,6
+CLM0690,Claim Assigned,3/21/24,0
+CLM0690,Initial Contact Made,3/22/24,1
+CLM0691,Claim Assigned,2/5/24,0
+CLM0691,Initial Contact Made,2/6/24,1
+CLM0691,Investigation Complete,2/19/24,13
+CLM0692,Claim Assigned,3/1/24,0
+CLM0692,Initial Contact Made,3/2/24,1
+CLM0693,Claim Assigned,2/5/24,0
+CLM0693,Initial Contact Made,2/6/24,1
+CLM0693,Investigation Complete,3/13/24,36
+CLM0694,Claim Assigned,2/5/24,0
+CLM0694,Initial Contact Made,2/6/24,1
+CLM0694,Investigation Complete,3/9/24,32
+CLM0695,Claim Assigned,1/29/24,0
+CLM0695,Initial Contact Made,1/30/24,1
+CLM0696,Claim Assigned,1/9/24,0
+CLM0696,Initial Contact Made,1/10/24,1
+CLM0696,Investigation Complete,1/28/24,18
+CLM0696,Settlement Offer Made,2/10/24,13
+CLM0697,Claim Assigned,3/21/24,0
+CLM0697,Initial Contact Made,3/22/24,1
+CLM0697,Investigation Complete,4/1/24,10
+CLM0697,Settlement Offer Made,4/16/24,15
+CLM0697,Claim Closed,4/27/24,11
+CLM0698,Claim Assigned,3/12/24,0
+CLM0698,Initial Contact Made,3/13/24,1
+CLM0698,Investigation Complete,4/14/24,32
+CLM0698,Settlement Offer Made,4/28/24,14
+CLM0698,Claim Closed,5/2/24,4
+CLM0699,Claim Assigned,2/29/24,0
+CLM0699,Initial Contact Made,3/1/24,1
+CLM0699,Investigation Complete,4/4/24,34
+CLM0699,Settlement Offer Made,4/9/24,5
+CLM0699,Claim Closed,4/12/24,3
+CLM0700,Claim Assigned,1/5/24,0
+CLM0700,Initial Contact Made,1/6/24,1
+CLM0700,Investigation Complete,1/24/24,18
+CLM0701,Claim Assigned,1/23/24,0
+CLM0701,Initial Contact Made,1/24/24,1
+CLM0702,Claim Assigned,3/4/24,0
+CLM0702,Initial Contact Made,3/5/24,1
+CLM0702,Investigation Complete,3/29/24,24
+CLM0702,Settlement Offer Made,4/7/24,9
+CLM0703,Claim Assigned,1/1/24,0
+CLM0703,Initial Contact Made,1/2/24,1
+CLM0704,Claim Assigned,3/21/24,0
+CLM0704,Initial Contact Made,3/22/24,1
+CLM0704,Investigation Complete,4/14/24,23
+CLM0704,Settlement Offer Made,4/19/24,5
+CLM0705,Claim Assigned,3/17/24,0
+CLM0705,Initial Contact Made,3/18/24,1
+CLM0705,Investigation Complete,4/4/24,17
+CLM0705,Settlement Offer Made,4/16/24,12
+CLM0705,Claim Closed,4/21/24,5
+CLM0706,Claim Assigned,1/15/24,0
+CLM0706,Initial Contact Made,1/16/24,1
+CLM0706,Investigation Complete,1/26/24,10
+CLM0706,Settlement Offer Made,2/10/24,15
+CLM0707,Claim Assigned,2/1/24,0
+CLM0707,Initial Contact Made,2/2/24,1
+CLM0707,Investigation Complete,2/15/24,13
+CLM0707,Settlement Offer Made,2/24/24,9
+CLM0708,Claim Assigned,1/5/24,0
+CLM0708,Initial Contact Made,1/6/24,1
+CLM0708,Investigation Complete,2/12/24,37
+CLM0708,Settlement Offer Made,2/15/24,3
+CLM0709,Claim Assigned,3/10/24,0
+CLM0709,Initial Contact Made,3/11/24,1
+CLM0709,Investigation Complete,3/29/24,18
+CLM0710,Claim Assigned,3/25/24,0
+CLM0710,Initial Contact Made,3/26/24,1
+CLM0710,Investigation Complete,5/5/24,40
+CLM0710,Settlement Offer Made,5/18/24,13
+CLM0710,Claim Closed,5/22/24,4
+CLM0711,Claim Assigned,1/19/24,0
+CLM0711,Initial Contact Made,1/20/24,1
+CLM0711,Investigation Complete,2/2/24,13
+CLM0712,Claim Assigned,1/10/24,0
+CLM0712,Initial Contact Made,1/11/24,1
+CLM0713,Claim Assigned,2/18/24,0
+CLM0713,Initial Contact Made,2/19/24,1
+CLM0713,Investigation Complete,3/14/24,24
+CLM0713,Settlement Offer Made,3/21/24,7
+CLM0713,Claim Closed,3/30/24,9
+CLM0714,Claim Assigned,3/2/24,0
+CLM0714,Initial Contact Made,3/3/24,1
+CLM0715,Claim Assigned,2/12/24,0
+CLM0715,Initial Contact Made,2/13/24,1
+CLM0715,Investigation Complete,3/12/24,28
+CLM0715,Settlement Offer Made,3/16/24,4
+CLM0716,Claim Assigned,1/11/24,0
+CLM0716,Initial Contact Made,1/12/24,1
+CLM0716,Investigation Complete,1/22/24,10
+CLM0716,Settlement Offer Made,2/5/24,14
+CLM0716,Claim Closed,2/9/24,4
+CLM0717,Claim Assigned,3/25/24,0
+CLM0717,Initial Contact Made,3/26/24,1
+CLM0717,Investigation Complete,4/16/24,21
+CLM0717,Settlement Offer Made,4/20/24,4
+CLM0717,Claim Closed,4/28/24,8
+CLM0718,Claim Assigned,2/21/24,0
+CLM0718,Initial Contact Made,2/22/24,1
+CLM0718,Investigation Complete,3/17/24,24
+CLM0719,Claim Assigned,2/21/24,0
+CLM0719,Initial Contact Made,2/22/24,1
+CLM0719,Investigation Complete,3/31/24,38
+CLM0720,Claim Assigned,3/31/24,0
+CLM0720,Initial Contact Made,4/1/24,1
+CLM0720,Investigation Complete,5/5/24,34
+CLM0720,Settlement Offer Made,5/17/24,12
+CLM0721,Claim Assigned,3/30/24,0
+CLM0721,Initial Contact Made,3/31/24,1
+CLM0721,Investigation Complete,4/10/24,10
+CLM0721,Settlement Offer Made,4/18/24,8
+CLM0721,Claim Closed,4/29/24,11
+CLM0722,Claim Assigned,1/18/24,0
+CLM0722,Initial Contact Made,1/19/24,1
+CLM0722,Investigation Complete,2/6/24,18
+CLM0722,Settlement Offer Made,2/19/24,13
+CLM0723,Claim Assigned,1/25/24,0
+CLM0723,Initial Contact Made,1/26/24,1
+CLM0724,Claim Assigned,3/18/24,0
+CLM0724,Initial Contact Made,3/19/24,1
+CLM0725,Claim Assigned,1/18/24,0
+CLM0725,Initial Contact Made,1/19/24,1
+CLM0726,Claim Assigned,2/9/24,0
+CLM0726,Initial Contact Made,2/10/24,1
+CLM0727,Claim Assigned,2/24/24,0
+CLM0727,Initial Contact Made,2/25/24,1
+CLM0727,Investigation Complete,3/26/24,30
+CLM0728,Claim Assigned,2/29/24,0
+CLM0728,Initial Contact Made,3/1/24,1
+CLM0729,Claim Assigned,2/10/24,0
+CLM0729,Initial Contact Made,2/11/24,1
+CLM0729,Investigation Complete,2/21/24,10
+CLM0730,Claim Assigned,3/16/24,0
+CLM0730,Initial Contact Made,3/17/24,1
+CLM0730,Investigation Complete,4/18/24,32
+CLM0731,Claim Assigned,1/12/24,0
+CLM0731,Initial Contact Made,1/13/24,1
+CLM0731,Investigation Complete,2/14/24,32
+CLM0732,Claim Assigned,3/27/24,0
+CLM0732,Initial Contact Made,3/28/24,1
+CLM0733,Claim Assigned,2/15/24,0
+CLM0733,Initial Contact Made,2/16/24,1
+CLM0733,Investigation Complete,3/7/24,20
+CLM0733,Settlement Offer Made,3/20/24,13
+CLM0734,Claim Assigned,1/1/24,0
+CLM0734,Initial Contact Made,1/2/24,1
+CLM0734,Investigation Complete,1/27/24,25
+CLM0734,Settlement Offer Made,2/11/24,15
+CLM0735,Claim Assigned,3/24/24,0
+CLM0735,Initial Contact Made,3/25/24,1
+CLM0735,Investigation Complete,4/6/24,12
+CLM0735,Settlement Offer Made,4/14/24,8
+CLM0735,Claim Closed,4/20/24,6
+CLM0736,Claim Assigned,1/21/24,0
+CLM0736,Initial Contact Made,1/22/24,1
+CLM0736,Investigation Complete,2/17/24,26
+CLM0737,Claim Assigned,1/16/24,0
+CLM0737,Initial Contact Made,1/17/24,1
+CLM0737,Investigation Complete,2/15/24,29
+CLM0737,Settlement Offer Made,3/1/24,15
+CLM0737,Claim Closed,3/4/24,3
+CLM0738,Claim Assigned,3/3/24,0
+CLM0738,Initial Contact Made,3/4/24,1
+CLM0738,Investigation Complete,3/25/24,21
+CLM0738,Settlement Offer Made,3/30/24,5
+CLM0738,Claim Closed,4/12/24,13
+CLM0739,Claim Assigned,3/12/24,0
+CLM0739,Initial Contact Made,3/13/24,1
+CLM0739,Investigation Complete,4/9/24,27
+CLM0740,Claim Assigned,3/14/24,0
+CLM0740,Initial Contact Made,3/15/24,1
+CLM0740,Investigation Complete,4/4/24,20
+CLM0740,Settlement Offer Made,4/18/24,14
+CLM0741,Claim Assigned,1/10/24,0
+CLM0741,Initial Contact Made,1/11/24,1
+CLM0741,Investigation Complete,2/16/24,36
+CLM0742,Claim Assigned,1/12/24,0
+CLM0742,Initial Contact Made,1/13/24,1
+CLM0742,Investigation Complete,1/31/24,18
+CLM0742,Settlement Offer Made,2/5/24,5
+CLM0743,Claim Assigned,3/19/24,0
+CLM0743,Initial Contact Made,3/20/24,1
+CLM0743,Investigation Complete,4/16/24,27
+CLM0744,Claim Assigned,1/12/24,0
+CLM0744,Initial Contact Made,1/13/24,1
+CLM0744,Investigation Complete,2/7/24,25
+CLM0745,Claim Assigned,3/27/24,0
+CLM0745,Initial Contact Made,3/28/24,1
+CLM0746,Claim Assigned,3/15/24,0
+CLM0746,Initial Contact Made,3/16/24,1
+CLM0746,Investigation Complete,4/13/24,28
+CLM0746,Settlement Offer Made,4/18/24,5
+CLM0747,Claim Assigned,3/20/24,0
+CLM0747,Initial Contact Made,3/21/24,1
+CLM0748,Claim Assigned,3/19/24,0
+CLM0748,Initial Contact Made,3/20/24,1
+CLM0749,Claim Assigned,1/7/24,0
+CLM0749,Initial Contact Made,1/8/24,1
+CLM0749,Investigation Complete,2/3/24,26
+CLM0750,Claim Assigned,1/5/24,0
+CLM0750,Initial Contact Made,1/6/24,1
+CLM0750,Investigation Complete,2/10/24,35
+CLM0750,Settlement Offer Made,2/18/24,8
+CLM0751,Claim Assigned,1/14/24,0
+CLM0751,Initial Contact Made,1/15/24,1
+CLM0752,Claim Assigned,2/13/24,0
+CLM0752,Initial Contact Made,2/14/24,1
+CLM0752,Investigation Complete,3/19/24,34
+CLM0752,Settlement Offer Made,4/1/24,13
+CLM0752,Claim Closed,4/14/24,13
+CLM0753,Claim Assigned,3/23/24,0
+CLM0753,Initial Contact Made,3/24/24,1
+CLM0753,Investigation Complete,4/27/24,34
+CLM0753,Settlement Offer Made,5/11/24,14
+CLM0754,Claim Assigned,1/28/24,0
+CLM0754,Initial Contact Made,1/29/24,1
+CLM0755,Claim Assigned,2/19/24,0
+CLM0755,Initial Contact Made,2/20/24,1
+CLM0755,Investigation Complete,3/7/24,16
+CLM0755,Settlement Offer Made,3/10/24,3
+CLM0755,Claim Closed,3/18/24,8
+CLM0756,Claim Assigned,3/20/24,0
+CLM0756,Initial Contact Made,3/21/24,1
+CLM0756,Investigation Complete,4/18/24,28
+CLM0756,Settlement Offer Made,4/27/24,9
+CLM0757,Claim Assigned,1/22/24,0
+CLM0757,Initial Contact Made,1/23/24,1
+CLM0757,Investigation Complete,2/5/24,13
+CLM0758,Claim Assigned,3/25/24,0
+CLM0758,Initial Contact Made,3/26/24,1
+CLM0758,Investigation Complete,4/26/24,31
+CLM0758,Settlement Offer Made,5/10/24,14
+CLM0759,Claim Assigned,3/10/24,0
+CLM0759,Initial Contact Made,3/11/24,1
+CLM0759,Investigation Complete,4/17/24,37
+CLM0760,Claim Assigned,1/10/24,0
+CLM0760,Initial Contact Made,1/11/24,1
+CLM0760,Investigation Complete,2/20/24,40
+CLM0761,Claim Assigned,1/30/24,0
+CLM0761,Initial Contact Made,1/31/24,1
+CLM0762,Claim Assigned,2/26/24,0
+CLM0762,Initial Contact Made,2/27/24,1
+CLM0762,Investigation Complete,3/28/24,30
+CLM0762,Settlement Offer Made,4/5/24,8
+CLM0763,Claim Assigned,3/25/24,0
+CLM0763,Initial Contact Made,3/26/24,1
+CLM0764,Claim Assigned,1/21/24,0
+CLM0764,Initial Contact Made,1/22/24,1
+CLM0764,Investigation Complete,2/5/24,14
+CLM0765,Claim Assigned,2/8/24,0
+CLM0765,Initial Contact Made,2/9/24,1
+CLM0765,Investigation Complete,2/25/24,16
+CLM0766,Claim Assigned,3/26/24,0
+CLM0766,Initial Contact Made,3/27/24,1
+CLM0766,Investigation Complete,5/1/24,35
+CLM0766,Settlement Offer Made,5/16/24,15
+CLM0767,Claim Assigned,3/9/24,0
+CLM0767,Initial Contact Made,3/10/24,1
+CLM0767,Investigation Complete,4/19/24,40
+CLM0767,Settlement Offer Made,4/30/24,11
+CLM0767,Claim Closed,5/8/24,8
+CLM0768,Claim Assigned,3/8/24,0
+CLM0768,Initial Contact Made,3/9/24,1
+CLM0768,Investigation Complete,4/12/24,34
+CLM0769,Claim Assigned,3/30/24,0
+CLM0769,Initial Contact Made,3/31/24,1
+CLM0769,Investigation Complete,4/24/24,24
+CLM0769,Settlement Offer Made,5/7/24,13
+CLM0770,Claim Assigned,1/16/24,0
+CLM0770,Initial Contact Made,1/17/24,1
+CLM0770,Investigation Complete,2/9/24,23
+CLM0770,Settlement Offer Made,2/15/24,6
+CLM0770,Claim Closed,2/25/24,10
+CLM0771,Claim Assigned,2/8/24,0
+CLM0771,Initial Contact Made,2/9/24,1
+CLM0771,Investigation Complete,3/19/24,39
+CLM0772,Claim Assigned,2/1/24,0
+CLM0772,Initial Contact Made,2/2/24,1
+CLM0773,Claim Assigned,2/5/24,0
+CLM0773,Initial Contact Made,2/6/24,1
+CLM0773,Investigation Complete,3/16/24,39
+CLM0774,Claim Assigned,3/29/24,0
+CLM0774,Initial Contact Made,3/30/24,1
+CLM0774,Investigation Complete,4/16/24,17
+CLM0774,Settlement Offer Made,5/1/24,15
+CLM0774,Claim Closed,5/5/24,4
+CLM0775,Claim Assigned,1/14/24,0
+CLM0775,Initial Contact Made,1/15/24,1
+CLM0776,Claim Assigned,3/4/24,0
+CLM0776,Initial Contact Made,3/5/24,1
+CLM0777,Claim Assigned,3/12/24,0
+CLM0777,Initial Contact Made,3/13/24,1
+CLM0777,Investigation Complete,4/20/24,38
+CLM0777,Settlement Offer Made,4/30/24,10
+CLM0778,Claim Assigned,2/23/24,0
+CLM0778,Initial Contact Made,2/24/24,1
+CLM0779,Claim Assigned,1/26/24,0
+CLM0779,Initial Contact Made,1/27/24,1
+CLM0780,Claim Assigned,2/10/24,0
+CLM0780,Initial Contact Made,2/11/24,1
+CLM0780,Investigation Complete,3/15/24,33
+CLM0780,Settlement Offer Made,3/22/24,7
+CLM0781,Claim Assigned,2/22/24,0
+CLM0781,Initial Contact Made,2/23/24,1
+CLM0781,Investigation Complete,3/9/24,15
+CLM0781,Settlement Offer Made,3/24/24,15
+CLM0781,Claim Closed,4/5/24,12
+CLM0782,Claim Assigned,1/24/24,0
+CLM0782,Initial Contact Made,1/25/24,1
+CLM0783,Claim Assigned,3/25/24,0
+CLM0783,Initial Contact Made,3/26/24,1
+CLM0784,Claim Assigned,1/26/24,0
+CLM0784,Initial Contact Made,1/27/24,1
+CLM0785,Claim Assigned,2/21/24,0
+CLM0785,Initial Contact Made,2/22/24,1
+CLM0785,Investigation Complete,3/17/24,24
+CLM0786,Claim Assigned,1/7/24,0
+CLM0786,Initial Contact Made,1/8/24,1
+CLM0786,Investigation Complete,2/17/24,40
+CLM0786,Settlement Offer Made,3/2/24,14
+CLM0787,Claim Assigned,2/10/24,0
+CLM0787,Initial Contact Made,2/11/24,1
+CLM0788,Claim Assigned,3/21/24,0
+CLM0788,Initial Contact Made,3/22/24,1
+CLM0788,Investigation Complete,4/2/24,11
+CLM0788,Settlement Offer Made,4/16/24,14
+CLM0788,Claim Closed,4/27/24,11
+CLM0789,Claim Assigned,3/26/24,0
+CLM0789,Initial Contact Made,3/27/24,1
+CLM0790,Claim Assigned,1/15/24,0
+CLM0790,Initial Contact Made,1/16/24,1
+CLM0791,Claim Assigned,2/28/24,0
+CLM0791,Initial Contact Made,2/29/24,1
+CLM0791,Investigation Complete,3/12/24,12
+CLM0791,Settlement Offer Made,3/21/24,9
+CLM0791,Claim Closed,4/3/24,13
+CLM0792,Claim Assigned,3/20/24,0
+CLM0792,Initial Contact Made,3/21/24,1
+CLM0793,Claim Assigned,1/17/24,0
+CLM0793,Initial Contact Made,1/18/24,1
+CLM0793,Investigation Complete,2/16/24,29
+CLM0794,Claim Assigned,3/1/24,0
+CLM0794,Initial Contact Made,3/2/24,1
+CLM0794,Investigation Complete,3/14/24,12
+CLM0794,Settlement Offer Made,3/25/24,11
+CLM0794,Claim Closed,3/28/24,3
+CLM0795,Claim Assigned,2/16/24,0
+CLM0795,Initial Contact Made,2/17/24,1
+CLM0795,Investigation Complete,3/12/24,24
+CLM0795,Settlement Offer Made,3/26/24,14
+CLM0796,Claim Assigned,3/18/24,0
+CLM0796,Initial Contact Made,3/19/24,1
+CLM0796,Investigation Complete,4/18/24,30
+CLM0797,Claim Assigned,3/21/24,0
+CLM0797,Initial Contact Made,3/22/24,1
+CLM0797,Investigation Complete,4/22/24,31
+CLM0798,Claim Assigned,1/18/24,0
+CLM0798,Initial Contact Made,1/19/24,1
+CLM0798,Investigation Complete,2/6/24,18
+CLM0798,Settlement Offer Made,2/9/24,3
+CLM0798,Claim Closed,2/20/24,11
+CLM0799,Claim Assigned,3/17/24,0
+CLM0799,Initial Contact Made,3/18/24,1
+CLM0799,Investigation Complete,4/4/24,17
+CLM0799,Settlement Offer Made,4/18/24,14
+CLM0800,Claim Assigned,1/23/24,0
+CLM0800,Initial Contact Made,1/24/24,1
+CLM0801,Claim Assigned,1/24/24,0
+CLM0801,Initial Contact Made,1/25/24,1
+CLM0801,Investigation Complete,2/19/24,25
+CLM0801,Settlement Offer Made,2/29/24,10
+CLM0802,Claim Assigned,1/25/24,0
+CLM0802,Initial Contact Made,1/26/24,1
+CLM0802,Investigation Complete,2/20/24,25
+CLM0802,Settlement Offer Made,2/27/24,7
+CLM0802,Claim Closed,3/1/24,3
+CLM0803,Claim Assigned,2/27/24,0
+CLM0803,Initial Contact Made,2/28/24,1
+CLM0803,Investigation Complete,3/25/24,26
+CLM0804,Claim Assigned,2/26/24,0
+CLM0804,Initial Contact Made,2/27/24,1
+CLM0804,Investigation Complete,3/20/24,22
+CLM0804,Settlement Offer Made,4/2/24,13
+CLM0804,Claim Closed,4/7/24,5
+CLM0805,Claim Assigned,1/19/24,0
+CLM0805,Initial Contact Made,1/20/24,1
+CLM0806,Claim Assigned,2/3/24,0
+CLM0806,Initial Contact Made,2/4/24,1
+CLM0806,Investigation Complete,3/13/24,38
+CLM0806,Settlement Offer Made,3/21/24,8
+CLM0807,Claim Assigned,2/4/24,0
+CLM0807,Initial Contact Made,2/5/24,1
+CLM0807,Investigation Complete,3/2/24,26
+CLM0807,Settlement Offer Made,3/16/24,14
+CLM0807,Claim Closed,3/31/24,15
+CLM0808,Claim Assigned,2/15/24,0
+CLM0808,Initial Contact Made,2/16/24,1
+CLM0808,Investigation Complete,3/15/24,28
+CLM0808,Settlement Offer Made,3/25/24,10
+CLM0808,Claim Closed,4/2/24,8
+CLM0809,Claim Assigned,1/1/24,0
+CLM0809,Initial Contact Made,1/2/24,1
+CLM0809,Investigation Complete,1/21/24,19
+CLM0810,Claim Assigned,2/7/24,0
+CLM0810,Initial Contact Made,2/8/24,1
+CLM0811,Claim Assigned,1/26/24,0
+CLM0811,Initial Contact Made,1/27/24,1
+CLM0811,Investigation Complete,2/11/24,15
+CLM0811,Settlement Offer Made,2/17/24,6
+CLM0811,Claim Closed,3/3/24,15
+CLM0812,Claim Assigned,2/7/24,0
+CLM0812,Initial Contact Made,2/8/24,1
+CLM0812,Investigation Complete,3/2/24,23
+CLM0812,Settlement Offer Made,3/7/24,5
+CLM0813,Claim Assigned,3/11/24,0
+CLM0813,Initial Contact Made,3/12/24,1
+CLM0813,Investigation Complete,3/26/24,14
+CLM0813,Settlement Offer Made,4/10/24,15
+CLM0814,Claim Assigned,3/10/24,0
+CLM0814,Initial Contact Made,3/11/24,1
+CLM0814,Investigation Complete,3/23/24,12
+CLM0815,Claim Assigned,1/8/24,0
+CLM0815,Initial Contact Made,1/9/24,1
+CLM0816,Claim Assigned,3/29/24,0
+CLM0816,Initial Contact Made,3/30/24,1
+CLM0816,Investigation Complete,4/26/24,27
+CLM0816,Settlement Offer Made,5/1/24,5
+CLM0817,Claim Assigned,3/10/24,0
+CLM0817,Initial Contact Made,3/11/24,1
+CLM0817,Investigation Complete,4/5/24,25
+CLM0817,Settlement Offer Made,4/12/24,7
+CLM0818,Claim Assigned,3/8/24,0
+CLM0818,Initial Contact Made,3/9/24,1
+CLM0818,Investigation Complete,4/2/24,24
+CLM0819,Claim Assigned,2/14/24,0
+CLM0819,Initial Contact Made,2/15/24,1
+CLM0819,Investigation Complete,3/2/24,16
+CLM0819,Settlement Offer Made,3/16/24,14
+CLM0820,Claim Assigned,2/20/24,0
+CLM0820,Initial Contact Made,2/21/24,1
+CLM0820,Investigation Complete,3/24/24,32
+CLM0821,Claim Assigned,3/8/24,0
+CLM0821,Initial Contact Made,3/9/24,1
+CLM0821,Investigation Complete,3/20/24,11
+CLM0822,Claim Assigned,3/20/24,0
+CLM0822,Initial Contact Made,3/21/24,1
+CLM0822,Investigation Complete,4/11/24,21
+CLM0823,Claim Assigned,2/20/24,0
+CLM0823,Initial Contact Made,2/21/24,1
+CLM0823,Investigation Complete,3/14/24,22
+CLM0824,Claim Assigned,1/18/24,0
+CLM0824,Initial Contact Made,1/19/24,1
+CLM0824,Investigation Complete,2/25/24,37
+CLM0824,Settlement Offer Made,3/6/24,10
+CLM0825,Claim Assigned,2/27/24,0
+CLM0825,Initial Contact Made,2/28/24,1
+CLM0825,Investigation Complete,3/26/24,27
+CLM0826,Claim Assigned,1/29/24,0
+CLM0826,Initial Contact Made,1/30/24,1
+CLM0827,Claim Assigned,3/11/24,0
+CLM0827,Initial Contact Made,3/12/24,1
+CLM0827,Investigation Complete,4/19/24,38
+CLM0827,Settlement Offer Made,4/27/24,8
+CLM0828,Claim Assigned,3/9/24,0
+CLM0828,Initial Contact Made,3/10/24,1
+CLM0828,Investigation Complete,4/17/24,38
+CLM0829,Claim Assigned,3/9/24,0
+CLM0829,Initial Contact Made,3/10/24,1
+CLM0829,Investigation Complete,4/15/24,36
+CLM0830,Claim Assigned,2/29/24,0
+CLM0830,Initial Contact Made,3/1/24,1
+CLM0830,Investigation Complete,3/13/24,12
+CLM0830,Settlement Offer Made,3/21/24,8
+CLM0831,Claim Assigned,2/14/24,0
+CLM0831,Initial Contact Made,2/15/24,1
+CLM0832,Claim Assigned,2/28/24,0
+CLM0832,Initial Contact Made,2/29/24,1
+CLM0833,Claim Assigned,2/16/24,0
+CLM0833,Initial Contact Made,2/17/24,1
+CLM0833,Investigation Complete,3/12/24,24
+CLM0834,Claim Assigned,3/25/24,0
+CLM0834,Initial Contact Made,3/26/24,1
+CLM0834,Investigation Complete,4/7/24,12
+CLM0834,Settlement Offer Made,4/22/24,15
+CLM0834,Claim Closed,5/6/24,14
+CLM0835,Claim Assigned,2/6/24,0
+CLM0835,Initial Contact Made,2/7/24,1
+CLM0835,Investigation Complete,2/18/24,11
+CLM0835,Settlement Offer Made,2/22/24,4
+CLM0835,Claim Closed,2/27/24,5
+CLM0836,Claim Assigned,3/5/24,0
+CLM0836,Initial Contact Made,3/6/24,1
+CLM0837,Claim Assigned,2/12/24,0
+CLM0837,Initial Contact Made,2/13/24,1
+CLM0838,Claim Assigned,3/14/24,0
+CLM0838,Initial Contact Made,3/15/24,1
+CLM0838,Investigation Complete,4/11/24,27
+CLM0838,Settlement Offer Made,4/26/24,15
+CLM0838,Claim Closed,5/1/24,5
+CLM0839,Claim Assigned,1/18/24,0
+CLM0839,Initial Contact Made,1/19/24,1
+CLM0839,Investigation Complete,2/22/24,34
+CLM0840,Claim Assigned,2/15/24,0
+CLM0840,Initial Contact Made,2/16/24,1
+CLM0841,Claim Assigned,1/17/24,0
+CLM0841,Initial Contact Made,1/18/24,1
+CLM0841,Investigation Complete,2/19/24,32
+CLM0841,Settlement Offer Made,2/23/24,4
+CLM0841,Claim Closed,3/1/24,7
+CLM0842,Claim Assigned,1/29/24,0
+CLM0842,Initial Contact Made,1/30/24,1
+CLM0843,Claim Assigned,3/27/24,0
+CLM0843,Initial Contact Made,3/28/24,1
+CLM0844,Claim Assigned,1/9/24,0
+CLM0844,Initial Contact Made,1/10/24,1
+CLM0844,Investigation Complete,2/13/24,34
+CLM0844,Settlement Offer Made,2/19/24,6
+CLM0844,Claim Closed,2/26/24,7
+CLM0845,Claim Assigned,2/20/24,0
+CLM0845,Initial Contact Made,2/21/24,1
+CLM0845,Investigation Complete,3/8/24,16
+CLM0846,Claim Assigned,3/25/24,0
+CLM0846,Initial Contact Made,3/26/24,1
+CLM0846,Investigation Complete,4/15/24,20
+CLM0846,Settlement Offer Made,4/26/24,11
+CLM0846,Claim Closed,5/5/24,9
+CLM0847,Claim Assigned,3/9/24,0
+CLM0847,Initial Contact Made,3/10/24,1
+CLM0847,Investigation Complete,4/2/24,23
+CLM0848,Claim Assigned,2/23/24,0
+CLM0848,Initial Contact Made,2/24/24,1
+CLM0849,Claim Assigned,2/28/24,0
+CLM0849,Initial Contact Made,2/29/24,1
+CLM0849,Investigation Complete,3/19/24,19
+CLM0849,Settlement Offer Made,3/28/24,9
+CLM0850,Claim Assigned,3/26/24,0
+CLM0850,Initial Contact Made,3/27/24,1
+CLM0851,Claim Assigned,1/4/24,0
+CLM0851,Initial Contact Made,1/5/24,1
+CLM0851,Investigation Complete,1/15/24,10
+CLM0851,Settlement Offer Made,1/20/24,5
+CLM0852,Claim Assigned,1/10/24,0
+CLM0852,Initial Contact Made,1/11/24,1
+CLM0853,Claim Assigned,2/18/24,0
+CLM0853,Initial Contact Made,2/19/24,1
+CLM0853,Investigation Complete,3/15/24,25
+CLM0854,Claim Assigned,3/12/24,0
+CLM0854,Initial Contact Made,3/13/24,1
+CLM0854,Investigation Complete,4/5/24,23
+CLM0855,Claim Assigned,1/13/24,0
+CLM0855,Initial Contact Made,1/14/24,1
+CLM0855,Investigation Complete,1/28/24,14
+CLM0855,Settlement Offer Made,2/8/24,11
+CLM0855,Claim Closed,2/16/24,8
+CLM0856,Claim Assigned,3/17/24,0
+CLM0856,Initial Contact Made,3/18/24,1
+CLM0856,Investigation Complete,4/19/24,32
+CLM0856,Settlement Offer Made,4/28/24,9
+CLM0857,Claim Assigned,2/9/24,0
+CLM0857,Initial Contact Made,2/10/24,1
+CLM0858,Claim Assigned,1/9/24,0
+CLM0858,Initial Contact Made,1/10/24,1
+CLM0858,Investigation Complete,2/11/24,32
+CLM0858,Settlement Offer Made,2/21/24,10
+CLM0859,Claim Assigned,1/25/24,0
+CLM0859,Initial Contact Made,1/26/24,1
+CLM0859,Investigation Complete,2/26/24,31
+CLM0859,Settlement Offer Made,3/4/24,7
+CLM0859,Claim Closed,3/16/24,12
+CLM0860,Claim Assigned,1/14/24,0
+CLM0860,Initial Contact Made,1/15/24,1
+CLM0860,Investigation Complete,2/18/24,34
+CLM0860,Settlement Offer Made,2/28/24,10
+CLM0861,Claim Assigned,2/20/24,0
+CLM0861,Initial Contact Made,2/21/24,1
+CLM0861,Investigation Complete,3/16/24,24
+CLM0861,Settlement Offer Made,3/23/24,7
+CLM0861,Claim Closed,3/27/24,4
+CLM0862,Claim Assigned,2/29/24,0
+CLM0862,Initial Contact Made,3/1/24,1
+CLM0862,Investigation Complete,3/17/24,16
+CLM0863,Claim Assigned,2/18/24,0
+CLM0863,Initial Contact Made,2/19/24,1
+CLM0863,Investigation Complete,3/16/24,26
+CLM0864,Claim Assigned,1/7/24,0
+CLM0864,Initial Contact Made,1/8/24,1
+CLM0864,Investigation Complete,2/11/24,34
+CLM0864,Settlement Offer Made,2/25/24,14
+CLM0864,Claim Closed,3/5/24,9
+CLM0865,Claim Assigned,1/13/24,0
+CLM0865,Initial Contact Made,1/14/24,1
+CLM0865,Investigation Complete,1/26/24,12
+CLM0865,Settlement Offer Made,1/31/24,5
+CLM0866,Claim Assigned,1/23/24,0
+CLM0866,Initial Contact Made,1/24/24,1
+CLM0866,Investigation Complete,2/15/24,22
+CLM0866,Settlement Offer Made,2/26/24,11
+CLM0866,Claim Closed,3/1/24,4
+CLM0867,Claim Assigned,2/29/24,0
+CLM0867,Initial Contact Made,3/1/24,1
+CLM0867,Investigation Complete,3/16/24,15
+CLM0867,Settlement Offer Made,3/23/24,7
+CLM0868,Claim Assigned,3/6/24,0
+CLM0868,Initial Contact Made,3/7/24,1
+CLM0868,Investigation Complete,3/30/24,23
+CLM0869,Claim Assigned,2/27/24,0
+CLM0869,Initial Contact Made,2/28/24,1
+CLM0869,Investigation Complete,3/16/24,17
+CLM0869,Settlement Offer Made,3/30/24,14
+CLM0869,Claim Closed,4/11/24,12
+CLM0870,Claim Assigned,3/10/24,0
+CLM0870,Initial Contact Made,3/11/24,1
+CLM0870,Investigation Complete,4/6/24,26
+CLM0871,Claim Assigned,1/14/24,0
+CLM0871,Initial Contact Made,1/15/24,1
+CLM0871,Investigation Complete,1/25/24,10
+CLM0872,Claim Assigned,2/9/24,0
+CLM0872,Initial Contact Made,2/10/24,1
+CLM0872,Investigation Complete,3/3/24,22
+CLM0872,Settlement Offer Made,3/18/24,15
+CLM0872,Claim Closed,4/2/24,15
+CLM0873,Claim Assigned,2/19/24,0
+CLM0873,Initial Contact Made,2/20/24,1
+CLM0874,Claim Assigned,1/23/24,0
+CLM0874,Initial Contact Made,1/24/24,1
+CLM0874,Investigation Complete,2/16/24,23
+CLM0874,Settlement Offer Made,2/29/24,13
+CLM0874,Claim Closed,3/15/24,15
+CLM0875,Claim Assigned,2/2/24,0
+CLM0875,Initial Contact Made,2/3/24,1
+CLM0875,Investigation Complete,2/19/24,16
+CLM0875,Settlement Offer Made,2/28/24,9
+CLM0876,Claim Assigned,2/16/24,0
+CLM0876,Initial Contact Made,2/17/24,1
+CLM0876,Investigation Complete,3/22/24,34
+CLM0876,Settlement Offer Made,4/5/24,14
+CLM0877,Claim Assigned,1/20/24,0
+CLM0877,Initial Contact Made,1/21/24,1
+CLM0878,Claim Assigned,1/29/24,0
+CLM0878,Initial Contact Made,1/30/24,1
+CLM0878,Investigation Complete,2/19/24,20
+CLM0878,Settlement Offer Made,3/5/24,15
+CLM0878,Claim Closed,3/9/24,4
+CLM0879,Claim Assigned,3/24/24,0
+CLM0879,Initial Contact Made,3/25/24,1
+CLM0879,Investigation Complete,4/6/24,12
+CLM0879,Settlement Offer Made,4/9/24,3
+CLM0880,Claim Assigned,3/3/24,0
+CLM0880,Initial Contact Made,3/4/24,1
+CLM0881,Claim Assigned,1/25/24,0
+CLM0881,Initial Contact Made,1/26/24,1
+CLM0881,Investigation Complete,2/26/24,31
+CLM0881,Settlement Offer Made,3/11/24,14
+CLM0881,Claim Closed,3/26/24,15
+CLM0882,Claim Assigned,3/15/24,0
+CLM0882,Initial Contact Made,3/16/24,1
+CLM0882,Investigation Complete,3/27/24,11
+CLM0882,Settlement Offer Made,4/11/24,15
+CLM0882,Claim Closed,4/15/24,4
+CLM0883,Claim Assigned,1/20/24,0
+CLM0883,Initial Contact Made,1/21/24,1
+CLM0883,Investigation Complete,2/22/24,32
+CLM0883,Settlement Offer Made,3/4/24,11
+CLM0884,Claim Assigned,3/16/24,0
+CLM0884,Initial Contact Made,3/17/24,1
+CLM0884,Investigation Complete,4/26/24,40
+CLM0884,Settlement Offer Made,5/10/24,14
+CLM0885,Claim Assigned,1/3/24,0
+CLM0885,Initial Contact Made,1/4/24,1
+CLM0885,Investigation Complete,2/3/24,30
+CLM0886,Claim Assigned,1/16/24,0
+CLM0886,Initial Contact Made,1/17/24,1
+CLM0886,Investigation Complete,2/24/24,38
+CLM0886,Settlement Offer Made,3/7/24,12
+CLM0886,Claim Closed,3/18/24,11
+CLM0887,Claim Assigned,1/5/24,0
+CLM0887,Initial Contact Made,1/6/24,1
+CLM0887,Investigation Complete,2/5/24,30
+CLM0888,Claim Assigned,3/10/24,0
+CLM0888,Initial Contact Made,3/11/24,1
+CLM0888,Investigation Complete,4/2/24,22
+CLM0889,Claim Assigned,1/16/24,0
+CLM0889,Initial Contact Made,1/17/24,1
+CLM0889,Investigation Complete,2/18/24,32
+CLM0889,Settlement Offer Made,2/28/24,10
+CLM0889,Claim Closed,3/14/24,15
+CLM0890,Claim Assigned,2/9/24,0
+CLM0890,Initial Contact Made,2/10/24,1
+CLM0891,Claim Assigned,1/2/24,0
+CLM0891,Initial Contact Made,1/3/24,1
+CLM0891,Investigation Complete,1/17/24,14
+CLM0891,Settlement Offer Made,2/1/24,15
+CLM0892,Claim Assigned,1/18/24,0
+CLM0892,Initial Contact Made,1/19/24,1
+CLM0892,Investigation Complete,2/23/24,35
+CLM0892,Settlement Offer Made,3/1/24,7
+CLM0892,Claim Closed,3/11/24,10
+CLM0893,Claim Assigned,3/2/24,0
+CLM0893,Initial Contact Made,3/3/24,1
+CLM0893,Investigation Complete,4/1/24,29
+CLM0893,Settlement Offer Made,4/16/24,15
+CLM0894,Claim Assigned,1/16/24,0
+CLM0894,Initial Contact Made,1/17/24,1
+CLM0894,Investigation Complete,2/15/24,29
+CLM0895,Claim Assigned,1/4/24,0
+CLM0895,Initial Contact Made,1/5/24,1
+CLM0895,Investigation Complete,1/22/24,17
+CLM0896,Claim Assigned,3/24/24,0
+CLM0896,Initial Contact Made,3/25/24,1
+CLM0896,Investigation Complete,4/23/24,29
+CLM0897,Claim Assigned,1/18/24,0
+CLM0897,Initial Contact Made,1/19/24,1
+CLM0897,Investigation Complete,2/18/24,30
+CLM0897,Settlement Offer Made,2/21/24,3
+CLM0897,Claim Closed,3/4/24,12
+CLM0898,Claim Assigned,3/2/24,0
+CLM0898,Initial Contact Made,3/3/24,1
+CLM0898,Investigation Complete,3/20/24,17
+CLM0898,Settlement Offer Made,3/31/24,11
+CLM0898,Claim Closed,4/6/24,6
+CLM0899,Claim Assigned,1/11/24,0
+CLM0899,Initial Contact Made,1/12/24,1
+CLM0899,Investigation Complete,1/30/24,18
+CLM0900,Claim Assigned,1/20/24,0
+CLM0900,Initial Contact Made,1/21/24,1
+CLM0900,Investigation Complete,2/18/24,28
+CLM0900,Settlement Offer Made,3/2/24,13
+CLM0901,Claim Assigned,2/27/24,0
+CLM0901,Initial Contact Made,2/28/24,1
+CLM0901,Investigation Complete,4/7/24,39
+CLM0901,Settlement Offer Made,4/21/24,14
+CLM0901,Claim Closed,4/29/24,8
+CLM0902,Claim Assigned,3/3/24,0
+CLM0902,Initial Contact Made,3/4/24,1
+CLM0902,Investigation Complete,3/28/24,24
+CLM0902,Settlement Offer Made,4/1/24,4
+CLM0903,Claim Assigned,1/11/24,0
+CLM0903,Initial Contact Made,1/12/24,1
+CLM0903,Investigation Complete,2/11/24,30
+CLM0904,Claim Assigned,1/14/24,0
+CLM0904,Initial Contact Made,1/15/24,1
+CLM0904,Investigation Complete,1/26/24,11
+CLM0904,Settlement Offer Made,2/5/24,10
+CLM0904,Claim Closed,2/19/24,14
+CLM0905,Claim Assigned,1/2/24,0
+CLM0905,Initial Contact Made,1/3/24,1
+CLM0905,Investigation Complete,2/9/24,37
+CLM0906,Claim Assigned,3/13/24,0
+CLM0906,Initial Contact Made,3/14/24,1
+CLM0907,Claim Assigned,3/13/24,0
+CLM0907,Initial Contact Made,3/14/24,1
+CLM0907,Investigation Complete,3/25/24,11
+CLM0907,Settlement Offer Made,4/8/24,14
+CLM0908,Claim Assigned,3/16/24,0
+CLM0908,Initial Contact Made,3/17/24,1
+CLM0908,Investigation Complete,4/26/24,40
+CLM0909,Claim Assigned,3/19/24,0
+CLM0909,Initial Contact Made,3/20/24,1
+CLM0910,Claim Assigned,3/11/24,0
+CLM0910,Initial Contact Made,3/12/24,1
+CLM0910,Investigation Complete,3/25/24,13
+CLM0910,Settlement Offer Made,4/4/24,10
+CLM0910,Claim Closed,4/12/24,8
+CLM0911,Claim Assigned,2/1/24,0
+CLM0911,Initial Contact Made,2/2/24,1
+CLM0912,Claim Assigned,2/9/24,0
+CLM0912,Initial Contact Made,2/10/24,1
+CLM0913,Claim Assigned,3/25/24,0
+CLM0913,Initial Contact Made,3/26/24,1
+CLM0914,Claim Assigned,3/11/24,0
+CLM0914,Initial Contact Made,3/12/24,1
+CLM0914,Investigation Complete,4/6/24,25
+CLM0914,Settlement Offer Made,4/16/24,10
+CLM0914,Claim Closed,4/25/24,9
+CLM0915,Claim Assigned,1/24/24,0
+CLM0915,Initial Contact Made,1/25/24,1
+CLM0915,Investigation Complete,2/12/24,18
+CLM0916,Claim Assigned,3/29/24,0
+CLM0916,Initial Contact Made,3/30/24,1
+CLM0916,Investigation Complete,4/22/24,23
+CLM0916,Settlement Offer Made,5/1/24,9
+CLM0917,Claim Assigned,2/11/24,0
+CLM0917,Initial Contact Made,2/12/24,1
+CLM0917,Investigation Complete,3/3/24,20
+CLM0918,Claim Assigned,3/27/24,0
+CLM0918,Initial Contact Made,3/28/24,1
+CLM0918,Investigation Complete,4/18/24,21
+CLM0918,Settlement Offer Made,4/25/24,7
+CLM0918,Claim Closed,5/9/24,14
+CLM0919,Claim Assigned,1/1/24,0
+CLM0919,Initial Contact Made,1/2/24,1
+CLM0919,Investigation Complete,2/9/24,38
+CLM0920,Claim Assigned,1/21/24,0
+CLM0920,Initial Contact Made,1/22/24,1
+CLM0921,Claim Assigned,1/29/24,0
+CLM0921,Initial Contact Made,1/30/24,1
+CLM0921,Investigation Complete,2/27/24,28
+CLM0921,Settlement Offer Made,3/3/24,5
+CLM0922,Claim Assigned,2/2/24,0
+CLM0922,Initial Contact Made,2/3/24,1
+CLM0922,Investigation Complete,2/26/24,23
+CLM0923,Claim Assigned,3/16/24,0
+CLM0923,Initial Contact Made,3/17/24,1
+CLM0923,Investigation Complete,4/26/24,40
+CLM0924,Claim Assigned,3/5/24,0
+CLM0924,Initial Contact Made,3/6/24,1
+CLM0924,Investigation Complete,3/30/24,24
+CLM0924,Settlement Offer Made,4/9/24,10
+CLM0925,Claim Assigned,3/3/24,0
+CLM0925,Initial Contact Made,3/4/24,1
+CLM0925,Investigation Complete,4/8/24,35
+CLM0925,Settlement Offer Made,4/18/24,10
+CLM0925,Claim Closed,4/26/24,8
+CLM0926,Claim Assigned,2/16/24,0
+CLM0926,Initial Contact Made,2/17/24,1
+CLM0926,Investigation Complete,3/1/24,13
+CLM0926,Settlement Offer Made,3/9/24,8
+CLM0926,Claim Closed,3/13/24,4
+CLM0927,Claim Assigned,2/3/24,0
+CLM0927,Initial Contact Made,2/4/24,1
+CLM0927,Investigation Complete,2/18/24,14
+CLM0928,Claim Assigned,2/20/24,0
+CLM0928,Initial Contact Made,2/21/24,1
+CLM0929,Claim Assigned,3/4/24,0
+CLM0929,Initial Contact Made,3/5/24,1
+CLM0929,Investigation Complete,4/11/24,37
+CLM0929,Settlement Offer Made,4/25/24,14
+CLM0929,Claim Closed,5/5/24,10
+CLM0930,Claim Assigned,2/19/24,0
+CLM0930,Initial Contact Made,2/20/24,1
+CLM0931,Claim Assigned,3/9/24,0
+CLM0931,Initial Contact Made,3/10/24,1
+CLM0931,Investigation Complete,3/21/24,11
+CLM0931,Settlement Offer Made,3/27/24,6
+CLM0931,Claim Closed,4/2/24,6
+CLM0932,Claim Assigned,2/2/24,0
+CLM0932,Initial Contact Made,2/3/24,1
+CLM0932,Investigation Complete,2/13/24,10
+CLM0933,Claim Assigned,1/19/24,0
+CLM0933,Initial Contact Made,1/20/24,1
+CLM0933,Investigation Complete,2/5/24,16
+CLM0933,Settlement Offer Made,2/20/24,15
+CLM0934,Claim Assigned,1/6/24,0
+CLM0934,Initial Contact Made,1/7/24,1
+CLM0934,Investigation Complete,1/19/24,12
+CLM0935,Claim Assigned,1/1/24,0
+CLM0935,Initial Contact Made,1/2/24,1
+CLM0935,Investigation Complete,2/1/24,30
+CLM0936,Claim Assigned,2/27/24,0
+CLM0936,Initial Contact Made,2/28/24,1
+CLM0936,Investigation Complete,3/16/24,17
+CLM0936,Settlement Offer Made,3/24/24,8
+CLM0936,Claim Closed,4/3/24,10
+CLM0937,Claim Assigned,3/21/24,0
+CLM0937,Initial Contact Made,3/22/24,1
+CLM0937,Investigation Complete,4/16/24,25
+CLM0937,Settlement Offer Made,4/25/24,9
+CLM0937,Claim Closed,5/1/24,6
+CLM0938,Claim Assigned,2/5/24,0
+CLM0938,Initial Contact Made,2/6/24,1
+CLM0938,Investigation Complete,3/7/24,30
+CLM0938,Settlement Offer Made,3/20/24,13
+CLM0939,Claim Assigned,1/27/24,0
+CLM0939,Initial Contact Made,1/28/24,1
+CLM0939,Investigation Complete,2/29/24,32
+CLM0939,Settlement Offer Made,3/12/24,12
+CLM0940,Claim Assigned,1/17/24,0
+CLM0940,Initial Contact Made,1/18/24,1
+CLM0941,Claim Assigned,3/4/24,0
+CLM0941,Initial Contact Made,3/5/24,1
+CLM0941,Investigation Complete,3/28/24,23
+CLM0941,Settlement Offer Made,4/12/24,15
+CLM0942,Claim Assigned,2/20/24,0
+CLM0942,Initial Contact Made,2/21/24,1
+CLM0942,Investigation Complete,3/2/24,10
+CLM0943,Claim Assigned,2/2/24,0
+CLM0943,Initial Contact Made,2/3/24,1
+CLM0943,Investigation Complete,2/15/24,12
+CLM0943,Settlement Offer Made,2/26/24,11
+CLM0944,Claim Assigned,1/22/24,0
+CLM0944,Initial Contact Made,1/23/24,1
+CLM0944,Investigation Complete,2/16/24,24
+CLM0945,Claim Assigned,3/10/24,0
+CLM0945,Initial Contact Made,3/11/24,1
+CLM0945,Investigation Complete,3/23/24,12
+CLM0945,Settlement Offer Made,3/28/24,5
+CLM0945,Claim Closed,4/2/24,5
+CLM0946,Claim Assigned,1/27/24,0
+CLM0946,Initial Contact Made,1/28/24,1
+CLM0946,Investigation Complete,2/27/24,30
+CLM0946,Settlement Offer Made,3/1/24,3
+CLM0946,Claim Closed,3/6/24,5
+CLM0947,Claim Assigned,3/14/24,0
+CLM0947,Initial Contact Made,3/15/24,1
+CLM0947,Investigation Complete,3/26/24,11
+CLM0948,Claim Assigned,1/13/24,0
+CLM0948,Initial Contact Made,1/14/24,1
+CLM0948,Investigation Complete,2/20/24,37
+CLM0948,Settlement Offer Made,3/3/24,12
+CLM0948,Claim Closed,3/6/24,3
+CLM0949,Claim Assigned,3/10/24,0
+CLM0949,Initial Contact Made,3/11/24,1
+CLM0949,Investigation Complete,4/20/24,40
+CLM0949,Settlement Offer Made,4/28/24,8
+CLM0949,Claim Closed,5/4/24,6
+CLM0950,Claim Assigned,1/25/24,0
+CLM0950,Initial Contact Made,1/26/24,1
+CLM0950,Investigation Complete,2/21/24,26
+CLM0950,Settlement Offer Made,3/7/24,15
+CLM0951,Claim Assigned,2/13/24,0
+CLM0951,Initial Contact Made,2/14/24,1
+CLM0951,Investigation Complete,3/21/24,36
+CLM0951,Settlement Offer Made,3/31/24,10
+CLM0952,Claim Assigned,2/23/24,0
+CLM0952,Initial Contact Made,2/24/24,1
+CLM0952,Investigation Complete,3/31/24,36
+CLM0952,Settlement Offer Made,4/9/24,9
+CLM0952,Claim Closed,4/14/24,5
+CLM0953,Claim Assigned,2/12/24,0
+CLM0953,Initial Contact Made,2/13/24,1
+CLM0954,Claim Assigned,3/20/24,0
+CLM0954,Initial Contact Made,3/21/24,1
+CLM0955,Claim Assigned,2/24/24,0
+CLM0955,Initial Contact Made,2/25/24,1
+CLM0955,Investigation Complete,4/2/24,37
+CLM0955,Settlement Offer Made,4/8/24,6
+CLM0956,Claim Assigned,2/7/24,0
+CLM0956,Initial Contact Made,2/8/24,1
+CLM0956,Investigation Complete,2/20/24,12
+CLM0956,Settlement Offer Made,3/4/24,13
+CLM0956,Claim Closed,3/10/24,6
+CLM0957,Claim Assigned,2/10/24,0
+CLM0957,Initial Contact Made,2/11/24,1
+CLM0957,Investigation Complete,3/19/24,37
+CLM0958,Claim Assigned,3/4/24,0
+CLM0958,Initial Contact Made,3/5/24,1
+CLM0959,Claim Assigned,3/10/24,0
+CLM0959,Initial Contact Made,3/11/24,1
+CLM0959,Investigation Complete,4/11/24,31
+CLM0959,Settlement Offer Made,4/17/24,6
+CLM0960,Claim Assigned,1/26/24,0
+CLM0960,Initial Contact Made,1/27/24,1
+CLM0960,Investigation Complete,3/7/24,40
+CLM0960,Settlement Offer Made,3/15/24,8
+CLM0961,Claim Assigned,2/4/24,0
+CLM0961,Initial Contact Made,2/5/24,1
+CLM0961,Investigation Complete,3/4/24,28
+CLM0961,Settlement Offer Made,3/9/24,5
+CLM0961,Claim Closed,3/23/24,14
+CLM0962,Claim Assigned,3/29/24,0
+CLM0962,Initial Contact Made,3/30/24,1
+CLM0962,Investigation Complete,5/9/24,40
+CLM0963,Claim Assigned,2/23/24,0
+CLM0963,Initial Contact Made,2/24/24,1
+CLM0963,Investigation Complete,3/6/24,11
+CLM0963,Settlement Offer Made,3/17/24,11
+CLM0963,Claim Closed,3/23/24,6
+CLM0964,Claim Assigned,3/12/24,0
+CLM0964,Initial Contact Made,3/13/24,1
+CLM0964,Investigation Complete,4/17/24,35
+CLM0964,Settlement Offer Made,4/20/24,3
+CLM0965,Claim Assigned,2/27/24,0
+CLM0965,Initial Contact Made,2/28/24,1
+CLM0966,Claim Assigned,2/6/24,0
+CLM0966,Initial Contact Made,2/7/24,1
+CLM0966,Investigation Complete,3/7/24,29
+CLM0966,Settlement Offer Made,3/11/24,4
+CLM0966,Claim Closed,3/18/24,7
+CLM0967,Claim Assigned,2/26/24,0
+CLM0967,Initial Contact Made,2/27/24,1
+CLM0967,Investigation Complete,3/28/24,30
+CLM0967,Settlement Offer Made,4/4/24,7
+CLM0967,Claim Closed,4/14/24,10
+CLM0968,Claim Assigned,2/21/24,0
+CLM0968,Initial Contact Made,2/22/24,1
+CLM0968,Investigation Complete,3/17/24,24
+CLM0969,Claim Assigned,2/17/24,0
+CLM0969,Initial Contact Made,2/18/24,1
+CLM0969,Investigation Complete,3/10/24,21
+CLM0969,Settlement Offer Made,3/15/24,5
+CLM0970,Claim Assigned,2/6/24,0
+CLM0970,Initial Contact Made,2/7/24,1
+CLM0970,Investigation Complete,3/15/24,37
+CLM0970,Settlement Offer Made,3/18/24,3
+CLM0970,Claim Closed,4/2/24,15
+CLM0971,Claim Assigned,1/30/24,0
+CLM0971,Initial Contact Made,1/31/24,1
+CLM0971,Investigation Complete,2/15/24,15
+CLM0972,Claim Assigned,2/8/24,0
+CLM0972,Initial Contact Made,2/9/24,1
+CLM0973,Claim Assigned,1/11/24,0
+CLM0973,Initial Contact Made,1/12/24,1
+CLM0973,Investigation Complete,2/6/24,25
+CLM0973,Settlement Offer Made,2/11/24,5
+CLM0974,Claim Assigned,3/28/24,0
+CLM0974,Initial Contact Made,3/29/24,1
+CLM0975,Claim Assigned,2/27/24,0
+CLM0975,Initial Contact Made,2/28/24,1
+CLM0975,Investigation Complete,3/26/24,27
+CLM0975,Settlement Offer Made,4/1/24,6
+CLM0975,Claim Closed,4/5/24,4
+CLM0976,Claim Assigned,3/11/24,0
+CLM0976,Initial Contact Made,3/12/24,1
+CLM0976,Investigation Complete,3/26/24,14
+CLM0976,Settlement Offer Made,3/30/24,4
+CLM0977,Claim Assigned,3/11/24,0
+CLM0977,Initial Contact Made,3/12/24,1
+CLM0978,Claim Assigned,2/7/24,0
+CLM0978,Initial Contact Made,2/8/24,1
+CLM0979,Claim Assigned,2/14/24,0
+CLM0979,Initial Contact Made,2/15/24,1
+CLM0979,Investigation Complete,3/21/24,35
+CLM0979,Settlement Offer Made,4/3/24,13
+CLM0979,Claim Closed,4/15/24,12
+CLM0980,Claim Assigned,3/6/24,0
+CLM0980,Initial Contact Made,3/7/24,1
+CLM0980,Investigation Complete,4/5/24,29
+CLM0980,Settlement Offer Made,4/16/24,11
+CLM0981,Claim Assigned,3/3/24,0
+CLM0981,Initial Contact Made,3/4/24,1
+CLM0981,Investigation Complete,4/11/24,38
+CLM0981,Settlement Offer Made,4/22/24,11
+CLM0982,Claim Assigned,1/21/24,0
+CLM0982,Initial Contact Made,1/22/24,1
+CLM0982,Investigation Complete,2/1/24,10
+CLM0982,Settlement Offer Made,2/4/24,3
+CLM0982,Claim Closed,2/9/24,5
+CLM0983,Claim Assigned,3/4/24,0
+CLM0983,Initial Contact Made,3/5/24,1
+CLM0983,Investigation Complete,3/20/24,15
+CLM0983,Settlement Offer Made,3/27/24,7
+CLM0984,Claim Assigned,3/26/24,0
+CLM0984,Initial Contact Made,3/27/24,1
+CLM0984,Investigation Complete,5/2/24,36
+CLM0984,Settlement Offer Made,5/13/24,11
+CLM0984,Claim Closed,5/25/24,12
+CLM0985,Claim Assigned,2/16/24,0
+CLM0985,Initial Contact Made,2/17/24,1
+CLM0985,Investigation Complete,3/10/24,22
+CLM0985,Settlement Offer Made,3/20/24,10
+CLM0985,Claim Closed,3/23/24,3
+CLM0986,Claim Assigned,1/12/24,0
+CLM0986,Initial Contact Made,1/13/24,1
+CLM0986,Investigation Complete,2/20/24,38
+CLM0987,Claim Assigned,2/16/24,0
+CLM0987,Initial Contact Made,2/17/24,1
+CLM0987,Investigation Complete,3/26/24,38
+CLM0987,Settlement Offer Made,4/3/24,8
+CLM0988,Claim Assigned,3/30/24,0
+CLM0988,Initial Contact Made,3/31/24,1
+CLM0988,Investigation Complete,5/5/24,35
+CLM0989,Claim Assigned,1/31/24,0
+CLM0989,Initial Contact Made,2/1/24,1
+CLM0989,Investigation Complete,3/12/24,40
+CLM0989,Settlement Offer Made,3/19/24,7
+CLM0990,Claim Assigned,3/14/24,0
+CLM0990,Initial Contact Made,3/15/24,1
+CLM0990,Investigation Complete,4/22/24,38
+CLM0990,Settlement Offer Made,4/26/24,4
+CLM0990,Claim Closed,5/2/24,6
+CLM0991,Claim Assigned,2/4/24,0
+CLM0991,Initial Contact Made,2/5/24,1
+CLM0991,Investigation Complete,2/20/24,15
+CLM0991,Settlement Offer Made,3/5/24,14
+CLM0991,Claim Closed,3/11/24,6
+CLM0992,Claim Assigned,3/16/24,0
+CLM0992,Initial Contact Made,3/17/24,1
+CLM0992,Investigation Complete,4/11/24,25
+CLM0993,Claim Assigned,3/25/24,0
+CLM0993,Initial Contact Made,3/26/24,1
+CLM0994,Claim Assigned,2/21/24,0
+CLM0994,Initial Contact Made,2/22/24,1
+CLM0994,Investigation Complete,3/11/24,18
+CLM0994,Settlement Offer Made,3/19/24,8
+CLM0995,Claim Assigned,2/26/24,0
+CLM0995,Initial Contact Made,2/27/24,1
+CLM0995,Investigation Complete,4/7/24,40
+CLM0995,Settlement Offer Made,4/18/24,11
+CLM0996,Claim Assigned,2/2/24,0
+CLM0996,Initial Contact Made,2/3/24,1
+CLM0996,Investigation Complete,3/7/24,33
+CLM0996,Settlement Offer Made,3/16/24,9
+CLM0997,Claim Assigned,2/23/24,0
+CLM0997,Initial Contact Made,2/24/24,1
+CLM0997,Investigation Complete,3/8/24,13
+CLM0997,Settlement Offer Made,3/22/24,14
+CLM0998,Claim Assigned,3/7/24,0
+CLM0998,Initial Contact Made,3/8/24,1
+CLM0998,Investigation Complete,3/30/24,22
+CLM0998,Settlement Offer Made,4/5/24,6
+CLM0998,Claim Closed,4/9/24,4
+CLM0999,Claim Assigned,1/25/24,0
+CLM0999,Initial Contact Made,1/26/24,1
+CLM0999,Investigation Complete,2/28/24,33
+CLM0999,Settlement Offer Made,3/4/24,5
+CLM1000,Claim Assigned,2/9/24,0
+CLM1000,Initial Contact Made,2/10/24,1
+CLM1001,Claim Assigned,3/7/24,0
+CLM1001,Initial Contact Made,3/8/24,1
+CLM1001,Investigation Complete,3/31/24,23
+CLM1001,Settlement Offer Made,4/5/24,5
+CLM1002,Claim Assigned,1/30/24,0
+CLM1002,Initial Contact Made,1/31/24,1
+CLM1003,Claim Assigned,1/31/24,0
+CLM1003,Initial Contact Made,2/1/24,1
+CLM1003,Investigation Complete,3/4/24,32
+CLM1003,Settlement Offer Made,3/10/24,6
+CLM1004,Claim Assigned,1/3/24,0
+CLM1004,Initial Contact Made,1/4/24,1
+CLM1004,Investigation Complete,2/10/24,37
+CLM1004,Settlement Offer Made,2/16/24,6
+CLM1005,Claim Assigned,1/16/24,0
+CLM1005,Initial Contact Made,1/17/24,1
+CLM1005,Investigation Complete,2/2/24,16
+CLM1005,Settlement Offer Made,2/15/24,13
+CLM1005,Claim Closed,2/24/24,9
+CLM1006,Claim Assigned,3/30/24,0
+CLM1006,Initial Contact Made,3/31/24,1
+CLM1006,Investigation Complete,5/7/24,37
+CLM1006,Settlement Offer Made,5/16/24,9
+CLM1006,Claim Closed,5/20/24,4
+CLM1007,Claim Assigned,1/7/24,0
+CLM1007,Initial Contact Made,1/8/24,1
+CLM1007,Investigation Complete,2/4/24,27
+CLM1007,Settlement Offer Made,2/15/24,11
+CLM1007,Claim Closed,2/19/24,4
+CLM1008,Claim Assigned,2/23/24,0
+CLM1008,Initial Contact Made,2/24/24,1
+CLM1008,Investigation Complete,3/29/24,34
+CLM1008,Settlement Offer Made,4/2/24,4
+CLM1009,Claim Assigned,1/31/24,0
+CLM1009,Initial Contact Made,2/1/24,1
+CLM1009,Investigation Complete,2/21/24,20
+CLM1009,Settlement Offer Made,2/27/24,6
+CLM1010,Claim Assigned,2/27/24,0
+CLM1010,Initial Contact Made,2/28/24,1
+CLM1010,Investigation Complete,3/15/24,16
+CLM1011,Claim Assigned,1/27/24,0
+CLM1011,Initial Contact Made,1/28/24,1
+CLM1011,Investigation Complete,2/18/24,21
+CLM1011,Settlement Offer Made,3/4/24,15
+CLM1011,Claim Closed,3/13/24,9
+CLM1012,Claim Assigned,1/2/24,0
+CLM1012,Initial Contact Made,1/3/24,1
+CLM1012,Investigation Complete,1/19/24,16
+CLM1012,Settlement Offer Made,1/28/24,9
+CLM1013,Claim Assigned,3/12/24,0
+CLM1013,Initial Contact Made,3/13/24,1
+CLM1013,Investigation Complete,4/19/24,37
+CLM1014,Claim Assigned,1/27/24,0
+CLM1014,Initial Contact Made,1/28/24,1
+CLM1015,Claim Assigned,2/6/24,0
+CLM1015,Initial Contact Made,2/7/24,1
+CLM1015,Investigation Complete,3/2/24,24
+CLM1016,Claim Assigned,2/25/24,0
+CLM1016,Initial Contact Made,2/26/24,1
+CLM1016,Investigation Complete,3/8/24,11
+CLM1016,Settlement Offer Made,3/16/24,8
+CLM1017,Claim Assigned,3/24/24,0
+CLM1017,Initial Contact Made,3/25/24,1
+CLM1018,Claim Assigned,1/12/24,0
+CLM1018,Initial Contact Made,1/13/24,1
+CLM1018,Investigation Complete,2/4/24,22
+CLM1019,Claim Assigned,1/31/24,0
+CLM1019,Initial Contact Made,2/1/24,1
+CLM1019,Investigation Complete,3/3/24,31
+CLM1020,Claim Assigned,3/26/24,0
+CLM1020,Initial Contact Made,3/27/24,1
+CLM1020,Investigation Complete,4/25/24,29
+CLM1021,Claim Assigned,1/4/24,0
+CLM1021,Initial Contact Made,1/5/24,1
+CLM1022,Claim Assigned,1/3/24,0
+CLM1022,Initial Contact Made,1/4/24,1
+CLM1022,Investigation Complete,1/31/24,27
+CLM1022,Settlement Offer Made,2/10/24,10
+CLM1023,Claim Assigned,1/5/24,0
+CLM1023,Initial Contact Made,1/6/24,1
+CLM1023,Investigation Complete,1/20/24,14
+CLM1024,Claim Assigned,2/6/24,0
+CLM1024,Initial Contact Made,2/7/24,1
+CLM1024,Investigation Complete,2/25/24,18
+CLM1025,Claim Assigned,3/2/24,0
+CLM1025,Initial Contact Made,3/3/24,1
+CLM1025,Investigation Complete,3/27/24,24
+CLM1026,Claim Assigned,1/6/24,0
+CLM1026,Initial Contact Made,1/7/24,1
+CLM1026,Investigation Complete,1/27/24,20
+CLM1026,Settlement Offer Made,2/6/24,10
+CLM1026,Claim Closed,2/14/24,8
+CLM1027,Claim Assigned,2/2/24,0
+CLM1027,Initial Contact Made,2/3/24,1
+CLM1027,Investigation Complete,2/20/24,17
+CLM1027,Settlement Offer Made,3/3/24,12
+CLM1028,Claim Assigned,2/2/24,0
+CLM1028,Initial Contact Made,2/3/24,1
+CLM1028,Investigation Complete,2/19/24,16
+CLM1029,Claim Assigned,1/21/24,0
+CLM1029,Initial Contact Made,1/22/24,1
+CLM1029,Investigation Complete,2/11/24,20
+CLM1030,Claim Assigned,1/9/24,0
+CLM1030,Initial Contact Made,1/10/24,1
+CLM1030,Investigation Complete,1/21/24,11
+CLM1031,Claim Assigned,3/19/24,0
+CLM1031,Initial Contact Made,3/20/24,1
+CLM1031,Investigation Complete,4/27/24,38
+CLM1032,Claim Assigned,2/25/24,0
+CLM1032,Initial Contact Made,2/26/24,1
+CLM1033,Claim Assigned,1/24/24,0
+CLM1033,Initial Contact Made,1/25/24,1
+CLM1034,Claim Assigned,3/27/24,0
+CLM1034,Initial Contact Made,3/28/24,1
+CLM1034,Investigation Complete,5/5/24,38
+CLM1035,Claim Assigned,1/12/24,0
+CLM1035,Initial Contact Made,1/13/24,1
+CLM1035,Investigation Complete,2/20/24,38
+CLM1036,Claim Assigned,1/27/24,0
+CLM1036,Initial Contact Made,1/28/24,1
+CLM1037,Claim Assigned,2/6/24,0
+CLM1037,Initial Contact Made,2/7/24,1
+CLM1038,Claim Assigned,3/22/24,0
+CLM1038,Initial Contact Made,3/23/24,1
+CLM1038,Investigation Complete,4/10/24,18
+CLM1038,Settlement Offer Made,4/17/24,7
+CLM1039,Claim Assigned,3/10/24,0
+CLM1039,Initial Contact Made,3/11/24,1
+CLM1040,Claim Assigned,2/2/24,0
+CLM1040,Initial Contact Made,2/3/24,1
+CLM1040,Investigation Complete,3/13/24,39
+CLM1040,Settlement Offer Made,3/28/24,15
+CLM1041,Claim Assigned,1/23/24,0
+CLM1041,Initial Contact Made,1/24/24,1
+CLM1041,Investigation Complete,2/27/24,34
+CLM1042,Claim Assigned,3/4/24,0
+CLM1042,Initial Contact Made,3/5/24,1
+CLM1043,Claim Assigned,1/15/24,0
+CLM1043,Initial Contact Made,1/16/24,1
+CLM1043,Investigation Complete,1/29/24,13
+CLM1044,Claim Assigned,1/20/24,0
+CLM1044,Initial Contact Made,1/21/24,1
+CLM1044,Investigation Complete,2/19/24,29
+CLM1044,Settlement Offer Made,2/26/24,7
+CLM1044,Claim Closed,3/1/24,4
+CLM1045,Claim Assigned,1/5/24,0
+CLM1045,Initial Contact Made,1/6/24,1
+CLM1045,Investigation Complete,2/5/24,30
+CLM1046,Claim Assigned,2/4/24,0
+CLM1046,Initial Contact Made,2/5/24,1
+CLM1046,Investigation Complete,2/26/24,21
+CLM1047,Claim Assigned,3/16/24,0
+CLM1047,Initial Contact Made,3/17/24,1
+CLM1047,Investigation Complete,4/8/24,22
+CLM1048,Claim Assigned,1/9/24,0
+CLM1048,Initial Contact Made,1/10/24,1
+CLM1049,Claim Assigned,2/2/24,0
+CLM1049,Initial Contact Made,2/3/24,1
+CLM1049,Investigation Complete,3/7/24,33
+CLM1049,Settlement Offer Made,3/11/24,4
+CLM1050,Claim Assigned,3/5/24,0
+CLM1050,Initial Contact Made,3/6/24,1
+CLM1050,Investigation Complete,3/23/24,17
+CLM1051,Claim Assigned,3/1/24,0
+CLM1051,Initial Contact Made,3/2/24,1
+CLM1051,Investigation Complete,4/2/24,31
+CLM1052,Claim Assigned,3/13/24,0
+CLM1052,Initial Contact Made,3/14/24,1
+CLM1052,Investigation Complete,4/16/24,33
+CLM1053,Claim Assigned,3/16/24,0
+CLM1053,Initial Contact Made,3/17/24,1
+CLM1054,Claim Assigned,1/4/24,0
+CLM1054,Initial Contact Made,1/5/24,1
+CLM1054,Investigation Complete,1/25/24,20
+CLM1054,Settlement Offer Made,2/7/24,13
+CLM1055,Claim Assigned,1/31/24,0
+CLM1055,Initial Contact Made,2/1/24,1
+CLM1056,Claim Assigned,2/17/24,0
+CLM1056,Initial Contact Made,2/18/24,1
+CLM1056,Investigation Complete,3/9/24,20
+CLM1056,Settlement Offer Made,3/23/24,14
+CLM1056,Claim Closed,4/1/24,9
+CLM1057,Claim Assigned,1/21/24,0
+CLM1057,Initial Contact Made,1/22/24,1
+CLM1058,Claim Assigned,3/15/24,0
+CLM1058,Initial Contact Made,3/16/24,1
+CLM1059,Claim Assigned,2/22/24,0
+CLM1059,Initial Contact Made,2/23/24,1
+CLM1059,Investigation Complete,3/21/24,27
+CLM1060,Claim Assigned,2/6/24,0
+CLM1060,Initial Contact Made,2/7/24,1
+CLM1060,Investigation Complete,2/23/24,16
+CLM1060,Settlement Offer Made,3/9/24,15
+CLM1060,Claim Closed,3/19/24,10
+CLM1061,Claim Assigned,3/28/24,0
+CLM1061,Initial Contact Made,3/29/24,1
+CLM1061,Investigation Complete,4/30/24,32
+CLM1062,Claim Assigned,3/18/24,0
+CLM1062,Initial Contact Made,3/19/24,1
+CLM1062,Investigation Complete,4/12/24,24
+CLM1062,Settlement Offer Made,4/22/24,10
+CLM1062,Claim Closed,5/1/24,9
+CLM1063,Claim Assigned,3/23/24,0
+CLM1063,Initial Contact Made,3/24/24,1
+CLM1064,Claim Assigned,2/14/24,0
+CLM1064,Initial Contact Made,2/15/24,1
+CLM1064,Investigation Complete,3/20/24,34
+CLM1065,Claim Assigned,1/17/24,0
+CLM1065,Initial Contact Made,1/18/24,1
+CLM1065,Investigation Complete,2/14/24,27
+CLM1066,Claim Assigned,2/24/24,0
+CLM1066,Initial Contact Made,2/25/24,1
+CLM1066,Investigation Complete,3/16/24,20
+CLM1066,Settlement Offer Made,3/24/24,8
+CLM1067,Claim Assigned,2/7/24,0
+CLM1067,Initial Contact Made,2/8/24,1
+CLM1067,Investigation Complete,3/18/24,39
+CLM1067,Settlement Offer Made,4/2/24,15
+CLM1067,Claim Closed,4/12/24,10
+CLM1068,Claim Assigned,3/24/24,0
+CLM1068,Initial Contact Made,3/25/24,1
+CLM1068,Investigation Complete,4/25/24,31
+CLM1068,Settlement Offer Made,5/1/24,6
+CLM1068,Claim Closed,5/15/24,14
+CLM1069,Claim Assigned,3/4/24,0
+CLM1069,Initial Contact Made,3/5/24,1
+CLM1069,Investigation Complete,3/25/24,20
+CLM1069,Settlement Offer Made,4/1/24,7
+CLM1069,Claim Closed,4/4/24,3
+CLM1070,Claim Assigned,2/6/24,0
+CLM1070,Initial Contact Made,2/7/24,1
+CLM1071,Claim Assigned,1/1/24,0
+CLM1071,Initial Contact Made,1/2/24,1
+CLM1071,Investigation Complete,1/22/24,20
+CLM1072,Claim Assigned,1/28/24,0
+CLM1072,Initial Contact Made,1/29/24,1
+CLM1072,Investigation Complete,3/1/24,32
+CLM1073,Claim Assigned,2/25/24,0
+CLM1073,Initial Contact Made,2/26/24,1
+CLM1074,Claim Assigned,2/8/24,0
+CLM1074,Initial Contact Made,2/9/24,1
+CLM1074,Investigation Complete,3/5/24,25
+CLM1074,Settlement Offer Made,3/10/24,5
+CLM1075,Claim Assigned,1/19/24,0
+CLM1075,Initial Contact Made,1/20/24,1
+CLM1075,Investigation Complete,1/31/24,11
+CLM1076,Claim Assigned,3/22/24,0
+CLM1076,Initial Contact Made,3/23/24,1
+CLM1076,Investigation Complete,4/25/24,33
+CLM1077,Claim Assigned,1/22/24,0
+CLM1077,Initial Contact Made,1/23/24,1
+CLM1077,Investigation Complete,2/10/24,18
+CLM1077,Settlement Offer Made,2/14/24,4
+CLM1078,Claim Assigned,2/13/24,0
+CLM1078,Initial Contact Made,2/14/24,1
+CLM1078,Investigation Complete,3/25/24,40
+CLM1078,Settlement Offer Made,3/29/24,4
+CLM1079,Claim Assigned,2/3/24,0
+CLM1079,Initial Contact Made,2/4/24,1
+CLM1080,Claim Assigned,1/3/24,0
+CLM1080,Initial Contact Made,1/4/24,1
+CLM1080,Investigation Complete,2/1/24,28
+CLM1080,Settlement Offer Made,2/7/24,6
+CLM1080,Claim Closed,2/13/24,6
+CLM1081,Claim Assigned,1/15/24,0
+CLM1081,Initial Contact Made,1/16/24,1
+CLM1082,Claim Assigned,1/29/24,0
+CLM1082,Initial Contact Made,1/30/24,1
+CLM1083,Claim Assigned,2/6/24,0
+CLM1083,Initial Contact Made,2/7/24,1
+CLM1083,Investigation Complete,2/19/24,12
+CLM1084,Claim Assigned,3/21/24,0
+CLM1084,Initial Contact Made,3/22/24,1
+CLM1085,Claim Assigned,1/20/24,0
+CLM1085,Initial Contact Made,1/21/24,1
+CLM1085,Investigation Complete,2/6/24,16
+CLM1085,Settlement Offer Made,2/9/24,3
+CLM1085,Claim Closed,2/17/24,8
+CLM1086,Claim Assigned,2/28/24,0
+CLM1086,Initial Contact Made,2/29/24,1
+CLM1086,Investigation Complete,3/15/24,15
+CLM1087,Claim Assigned,3/2/24,0
+CLM1087,Initial Contact Made,3/3/24,1
+CLM1087,Investigation Complete,4/9/24,37
+CLM1087,Settlement Offer Made,4/18/24,9
+CLM1088,Claim Assigned,2/13/24,0
+CLM1088,Initial Contact Made,2/14/24,1
+CLM1088,Investigation Complete,3/7/24,22
+CLM1088,Settlement Offer Made,3/14/24,7
+CLM1089,Claim Assigned,1/17/24,0
+CLM1089,Initial Contact Made,1/18/24,1
+CLM1089,Investigation Complete,2/17/24,30
+CLM1090,Claim Assigned,3/26/24,0
+CLM1090,Initial Contact Made,3/27/24,1
+CLM1090,Investigation Complete,4/13/24,17
+CLM1091,Claim Assigned,3/8/24,0
+CLM1091,Initial Contact Made,3/9/24,1
+CLM1091,Investigation Complete,3/19/24,10
+CLM1092,Claim Assigned,3/5/24,0
+CLM1092,Initial Contact Made,3/6/24,1
+CLM1092,Investigation Complete,4/8/24,33
+CLM1092,Settlement Offer Made,4/17/24,9
+CLM1093,Claim Assigned,1/8/24,0
+CLM1093,Initial Contact Made,1/9/24,1
+CLM1093,Investigation Complete,1/22/24,13
+CLM1093,Settlement Offer Made,1/29/24,7
+CLM1094,Claim Assigned,1/9/24,0
+CLM1094,Initial Contact Made,1/10/24,1
+CLM1094,Investigation Complete,1/28/24,18
+CLM1094,Settlement Offer Made,2/3/24,6
+CLM1094,Claim Closed,2/18/24,15
+CLM1095,Claim Assigned,3/11/24,0
+CLM1095,Initial Contact Made,3/12/24,1
+CLM1095,Investigation Complete,3/22/24,10
+CLM1095,Settlement Offer Made,3/25/24,3
+CLM1095,Claim Closed,4/8/24,14
+CLM1096,Claim Assigned,2/28/24,0
+CLM1096,Initial Contact Made,2/29/24,1
+CLM1096,Investigation Complete,3/28/24,28
+CLM1097,Claim Assigned,1/10/24,0
+CLM1097,Initial Contact Made,1/11/24,1
+CLM1097,Investigation Complete,2/1/24,21
+CLM1097,Settlement Offer Made,2/12/24,11
+CLM1098,Claim Assigned,3/23/24,0
+CLM1098,Initial Contact Made,3/24/24,1
+CLM1098,Investigation Complete,4/16/24,23
+CLM1098,Settlement Offer Made,4/27/24,11
+CLM1098,Claim Closed,5/8/24,11
+CLM1099,Claim Assigned,3/18/24,0
+CLM1099,Initial Contact Made,3/19/24,1
+CLM1100,Claim Assigned,2/4/24,0
+CLM1100,Initial Contact Made,2/5/24,1
+CLM1100,Investigation Complete,3/16/24,40
+CLM1100,Settlement Offer Made,3/19/24,3
+CLM1100,Claim Closed,3/25/24,6
+CLM1101,Claim Assigned,2/8/24,0
+CLM1101,Initial Contact Made,2/9/24,1
+CLM1101,Investigation Complete,2/23/24,14
+CLM1102,Claim Assigned,1/12/24,0
+CLM1102,Initial Contact Made,1/13/24,1
+CLM1103,Claim Assigned,2/4/24,0
+CLM1103,Initial Contact Made,2/5/24,1
+CLM1104,Claim Assigned,2/10/24,0
+CLM1104,Initial Contact Made,2/11/24,1
+CLM1104,Investigation Complete,2/22/24,11
+CLM1105,Claim Assigned,1/17/24,0
+CLM1105,Initial Contact Made,1/18/24,1
+CLM1105,Investigation Complete,2/21/24,34
+CLM1105,Settlement Offer Made,3/7/24,15
+CLM1105,Claim Closed,3/11/24,4
+CLM1106,Claim Assigned,1/31/24,0
+CLM1106,Initial Contact Made,2/1/24,1
+CLM1106,Investigation Complete,2/26/24,25
+CLM1106,Settlement Offer Made,3/7/24,10
+CLM1107,Claim Assigned,3/6/24,0
+CLM1107,Initial Contact Made,3/7/24,1
+CLM1107,Investigation Complete,3/25/24,18
+CLM1107,Settlement Offer Made,3/30/24,5
+CLM1107,Claim Closed,4/11/24,12
+CLM1108,Claim Assigned,1/8/24,0
+CLM1108,Initial Contact Made,1/9/24,1
+CLM1108,Investigation Complete,2/16/24,38
+CLM1108,Settlement Offer Made,2/28/24,12
+CLM1108,Claim Closed,3/2/24,3
+CLM1109,Claim Assigned,1/7/24,0
+CLM1109,Initial Contact Made,1/8/24,1
+CLM1109,Investigation Complete,1/28/24,20
+CLM1109,Settlement Offer Made,2/12/24,15
+CLM1109,Claim Closed,2/26/24,14
+CLM1110,Claim Assigned,3/26/24,0
+CLM1110,Initial Contact Made,3/27/24,1
+CLM1110,Investigation Complete,4/11/24,15
+CLM1110,Settlement Offer Made,4/18/24,7
+CLM1111,Claim Assigned,1/21/24,0
+CLM1111,Initial Contact Made,1/22/24,1
+CLM1111,Investigation Complete,2/4/24,13
+CLM1111,Settlement Offer Made,2/10/24,6
+CLM1111,Claim Closed,2/18/24,8
+CLM1112,Claim Assigned,3/1/24,0
+CLM1112,Initial Contact Made,3/2/24,1
+CLM1113,Claim Assigned,1/16/24,0
+CLM1113,Initial Contact Made,1/17/24,1
+CLM1113,Investigation Complete,2/18/24,32
+CLM1113,Settlement Offer Made,2/22/24,4
+CLM1114,Claim Assigned,3/5/24,0
+CLM1114,Initial Contact Made,3/6/24,1
+CLM1114,Investigation Complete,3/16/24,10
+CLM1114,Settlement Offer Made,3/19/24,3
+CLM1114,Claim Closed,3/26/24,7
+CLM1115,Claim Assigned,2/27/24,0
+CLM1115,Initial Contact Made,2/28/24,1
+CLM1115,Investigation Complete,3/26/24,27
+CLM1115,Settlement Offer Made,4/6/24,11
+CLM1116,Claim Assigned,1/24/24,0
+CLM1116,Initial Contact Made,1/25/24,1
+CLM1116,Investigation Complete,2/16/24,22
+CLM1117,Claim Assigned,2/7/24,0
+CLM1117,Initial Contact Made,2/8/24,1
+CLM1117,Investigation Complete,3/14/24,35
+CLM1117,Settlement Offer Made,3/23/24,9
+CLM1118,Claim Assigned,1/30/24,0
+CLM1118,Initial Contact Made,1/31/24,1
+CLM1118,Investigation Complete,3/6/24,35
+CLM1119,Claim Assigned,3/25/24,0
+CLM1119,Initial Contact Made,3/26/24,1
+CLM1119,Investigation Complete,4/16/24,21
+CLM1120,Claim Assigned,3/5/24,0
+CLM1120,Initial Contact Made,3/6/24,1
+CLM1120,Investigation Complete,4/15/24,40
+CLM1120,Settlement Offer Made,4/29/24,14
+CLM1121,Claim Assigned,3/2/24,0
+CLM1121,Initial Contact Made,3/3/24,1
+CLM1122,Claim Assigned,3/28/24,0
+CLM1122,Initial Contact Made,3/29/24,1
+CLM1123,Claim Assigned,2/6/24,0
+CLM1123,Initial Contact Made,2/7/24,1
+CLM1124,Claim Assigned,3/16/24,0
+CLM1124,Initial Contact Made,3/17/24,1
+CLM1125,Claim Assigned,1/4/24,0
+CLM1125,Initial Contact Made,1/5/24,1
+CLM1125,Investigation Complete,2/1/24,27
+CLM1125,Settlement Offer Made,2/15/24,14
+CLM1126,Claim Assigned,2/27/24,0
+CLM1126,Initial Contact Made,2/28/24,1
+CLM1127,Claim Assigned,3/11/24,0
+CLM1127,Initial Contact Made,3/12/24,1
+CLM1127,Investigation Complete,4/2/24,21
+CLM1128,Claim Assigned,3/10/24,0
+CLM1128,Initial Contact Made,3/11/24,1
+CLM1128,Investigation Complete,4/6/24,26
+CLM1129,Claim Assigned,2/12/24,0
+CLM1129,Initial Contact Made,2/13/24,1
+CLM1129,Investigation Complete,3/5/24,21
+CLM1129,Settlement Offer Made,3/12/24,7
+CLM1130,Claim Assigned,3/31/24,0
+CLM1130,Initial Contact Made,4/1/24,1
+CLM1130,Investigation Complete,4/27/24,26
+CLM1130,Settlement Offer Made,5/9/24,12
+CLM1131,Claim Assigned,2/15/24,0
+CLM1131,Initial Contact Made,2/16/24,1
+CLM1132,Claim Assigned,2/23/24,0
+CLM1132,Initial Contact Made,2/24/24,1
+CLM1133,Claim Assigned,3/22/24,0
+CLM1133,Initial Contact Made,3/23/24,1
+CLM1133,Investigation Complete,4/30/24,38
+CLM1133,Settlement Offer Made,5/5/24,5
+CLM1133,Claim Closed,5/16/24,11
+CLM1134,Claim Assigned,1/28/24,0
+CLM1134,Initial Contact Made,1/29/24,1
+CLM1134,Investigation Complete,2/15/24,17
+CLM1134,Settlement Offer Made,2/29/24,14
+CLM1135,Claim Assigned,2/19/24,0
+CLM1135,Initial Contact Made,2/20/24,1
+CLM1135,Investigation Complete,3/25/24,34
+CLM1135,Settlement Offer Made,3/31/24,6
+CLM1136,Claim Assigned,2/20/24,0
+CLM1136,Initial Contact Made,2/21/24,1
+CLM1137,Claim Assigned,2/25/24,0
+CLM1137,Initial Contact Made,2/26/24,1
+CLM1138,Claim Assigned,2/13/24,0
+CLM1138,Initial Contact Made,2/14/24,1
+CLM1138,Investigation Complete,3/14/24,29
+CLM1139,Claim Assigned,1/3/24,0
+CLM1139,Initial Contact Made,1/4/24,1
+CLM1139,Investigation Complete,2/3/24,30
+CLM1139,Settlement Offer Made,2/12/24,9
+CLM1139,Claim Closed,2/19/24,7
+CLM1140,Claim Assigned,2/6/24,0
+CLM1140,Initial Contact Made,2/7/24,1
+CLM1140,Investigation Complete,2/21/24,14
+CLM1140,Settlement Offer Made,2/27/24,6
+CLM1141,Claim Assigned,1/20/24,0
+CLM1141,Initial Contact Made,1/21/24,1
+CLM1141,Investigation Complete,2/20/24,30
+CLM1141,Settlement Offer Made,2/24/24,4
+CLM1141,Claim Closed,2/29/24,5
+CLM1142,Claim Assigned,2/15/24,0
+CLM1142,Initial Contact Made,2/16/24,1
+CLM1142,Investigation Complete,2/29/24,13
+CLM1143,Claim Assigned,2/17/24,0
+CLM1143,Initial Contact Made,2/18/24,1
+CLM1143,Investigation Complete,2/28/24,10
+CLM1144,Claim Assigned,3/21/24,0
+CLM1144,Initial Contact Made,3/22/24,1
+CLM1144,Investigation Complete,4/15/24,24
+CLM1144,Settlement Offer Made,4/26/24,11
+CLM1145,Claim Assigned,3/9/24,0
+CLM1145,Initial Contact Made,3/10/24,1
+CLM1145,Investigation Complete,4/17/24,38
+CLM1145,Settlement Offer Made,4/29/24,12
+CLM1145,Claim Closed,5/10/24,11
+CLM1146,Claim Assigned,1/19/24,0
+CLM1146,Initial Contact Made,1/20/24,1
+CLM1146,Investigation Complete,2/27/24,38
+CLM1147,Claim Assigned,3/20/24,0
+CLM1147,Initial Contact Made,3/21/24,1
+CLM1147,Investigation Complete,4/7/24,17
+CLM1147,Settlement Offer Made,4/10/24,3
+CLM1147,Claim Closed,4/16/24,6
+CLM1148,Claim Assigned,1/20/24,0
+CLM1148,Initial Contact Made,1/21/24,1
+CLM1148,Investigation Complete,2/17/24,27
+CLM1149,Claim Assigned,1/12/24,0
+CLM1149,Initial Contact Made,1/13/24,1
+CLM1149,Investigation Complete,1/30/24,17
+CLM1149,Settlement Offer Made,2/6/24,7
+CLM1149,Claim Closed,2/14/24,8
+CLM1150,Claim Assigned,3/23/24,0
+CLM1150,Initial Contact Made,3/24/24,1
+CLM1151,Claim Assigned,1/13/24,0
+CLM1151,Initial Contact Made,1/14/24,1
+CLM1152,Claim Assigned,2/14/24,0
+CLM1152,Initial Contact Made,2/15/24,1
+CLM1152,Investigation Complete,3/10/24,24
+CLM1153,Claim Assigned,1/7/24,0
+CLM1153,Initial Contact Made,1/8/24,1
+CLM1153,Investigation Complete,2/9/24,32
+CLM1154,Claim Assigned,3/7/24,0
+CLM1154,Initial Contact Made,3/8/24,1
+CLM1155,Claim Assigned,1/19/24,0
+CLM1155,Initial Contact Made,1/20/24,1
+CLM1155,Investigation Complete,2/16/24,27
+CLM1155,Settlement Offer Made,2/25/24,9
+CLM1156,Claim Assigned,3/13/24,0
+CLM1156,Initial Contact Made,3/14/24,1
+CLM1156,Investigation Complete,3/26/24,12
+CLM1156,Settlement Offer Made,3/29/24,3
+CLM1156,Claim Closed,4/6/24,8
+CLM1157,Claim Assigned,2/18/24,0
+CLM1157,Initial Contact Made,2/19/24,1
+CLM1157,Investigation Complete,3/20/24,30
+CLM1157,Settlement Offer Made,3/26/24,6
+CLM1157,Claim Closed,4/5/24,10
+CLM1158,Claim Assigned,1/30/24,0
+CLM1158,Initial Contact Made,1/31/24,1
+CLM1159,Claim Assigned,2/1/24,0
+CLM1159,Initial Contact Made,2/2/24,1
+CLM1160,Claim Assigned,3/21/24,0
+CLM1160,Initial Contact Made,3/22/24,1
+CLM1160,Investigation Complete,4/26/24,35
+CLM1160,Settlement Offer Made,5/7/24,11
+CLM1160,Claim Closed,5/18/24,11
+CLM1161,Claim Assigned,1/29/24,0
+CLM1161,Initial Contact Made,1/30/24,1
+CLM1162,Claim Assigned,2/12/24,0
+CLM1162,Initial Contact Made,2/13/24,1
+CLM1162,Investigation Complete,3/22/24,38
+CLM1162,Settlement Offer Made,3/31/24,9
+CLM1163,Claim Assigned,3/6/24,0
+CLM1163,Initial Contact Made,3/7/24,1
+CLM1163,Investigation Complete,4/15/24,39
+CLM1164,Claim Assigned,2/29/24,0
+CLM1164,Initial Contact Made,3/1/24,1
+CLM1164,Investigation Complete,3/27/24,26
+CLM1165,Claim Assigned,1/8/24,0
+CLM1165,Initial Contact Made,1/9/24,1
+CLM1165,Investigation Complete,2/4/24,26
+CLM1166,Claim Assigned,3/20/24,0
+CLM1166,Initial Contact Made,3/21/24,1
+CLM1166,Investigation Complete,4/3/24,13
+CLM1166,Settlement Offer Made,4/8/24,5
+CLM1166,Claim Closed,4/15/24,7
+CLM1167,Claim Assigned,1/11/24,0
+CLM1167,Initial Contact Made,1/12/24,1
+CLM1167,Investigation Complete,2/3/24,22
+CLM1168,Claim Assigned,2/2/24,0
+CLM1168,Initial Contact Made,2/3/24,1
+CLM1169,Claim Assigned,1/10/24,0
+CLM1169,Initial Contact Made,1/11/24,1
+CLM1169,Investigation Complete,2/14/24,34
+CLM1169,Settlement Offer Made,2/19/24,5
+CLM1170,Claim Assigned,1/4/24,0
+CLM1170,Initial Contact Made,1/5/24,1
+CLM1170,Investigation Complete,1/23/24,18
+CLM1171,Claim Assigned,3/6/24,0
+CLM1171,Initial Contact Made,3/7/24,1
+CLM1171,Investigation Complete,4/13/24,37
+CLM1172,Claim Assigned,3/3/24,0
+CLM1172,Initial Contact Made,3/4/24,1
+CLM1172,Investigation Complete,3/26/24,22
+CLM1172,Settlement Offer Made,3/31/24,5
+CLM1172,Claim Closed,4/7/24,7
+CLM1173,Claim Assigned,1/23/24,0
+CLM1173,Initial Contact Made,1/24/24,1
+CLM1173,Investigation Complete,2/10/24,17
+CLM1173,Settlement Offer Made,2/20/24,10
+CLM1174,Claim Assigned,2/24/24,0
+CLM1174,Initial Contact Made,2/25/24,1
+CLM1174,Investigation Complete,3/15/24,19
+CLM1174,Settlement Offer Made,3/22/24,7
+CLM1174,Claim Closed,3/28/24,6
+CLM1175,Claim Assigned,1/4/24,0
+CLM1175,Initial Contact Made,1/5/24,1
+CLM1175,Investigation Complete,2/3/24,29
+CLM1175,Settlement Offer Made,2/17/24,14
+CLM1175,Claim Closed,2/21/24,4
+CLM1176,Claim Assigned,2/4/24,0
+CLM1176,Initial Contact Made,2/5/24,1
+CLM1176,Investigation Complete,2/19/24,14
+CLM1176,Settlement Offer Made,3/4/24,14
+CLM1177,Claim Assigned,1/9/24,0
+CLM1177,Initial Contact Made,1/10/24,1
+CLM1177,Investigation Complete,2/17/24,38
+CLM1177,Settlement Offer Made,3/1/24,13
+CLM1177,Claim Closed,3/14/24,13
+CLM1178,Claim Assigned,3/27/24,0
+CLM1178,Initial Contact Made,3/28/24,1
+CLM1178,Investigation Complete,4/13/24,16
+CLM1178,Settlement Offer Made,4/16/24,3
+CLM1179,Claim Assigned,3/29/24,0
+CLM1179,Initial Contact Made,3/30/24,1
+CLM1179,Investigation Complete,5/7/24,38
+CLM1179,Settlement Offer Made,5/19/24,12
+CLM1179,Claim Closed,5/30/24,11
+CLM1180,Claim Assigned,1/30/24,0
+CLM1180,Initial Contact Made,1/31/24,1
+CLM1180,Investigation Complete,3/6/24,35
+CLM1181,Claim Assigned,2/10/24,0
+CLM1181,Initial Contact Made,2/11/24,1
+CLM1181,Investigation Complete,3/6/24,24
+CLM1182,Claim Assigned,1/11/24,0
+CLM1182,Initial Contact Made,1/12/24,1
+CLM1182,Investigation Complete,1/30/24,18
+CLM1183,Claim Assigned,1/31/24,0
+CLM1183,Initial Contact Made,2/1/24,1
+CLM1183,Investigation Complete,2/29/24,28
+CLM1183,Settlement Offer Made,3/12/24,12
+CLM1183,Claim Closed,3/25/24,13
+CLM1184,Claim Assigned,3/5/24,0
+CLM1184,Initial Contact Made,3/6/24,1
+CLM1184,Investigation Complete,4/11/24,36
+CLM1184,Settlement Offer Made,4/18/24,7
+CLM1185,Claim Assigned,1/16/24,0
+CLM1185,Initial Contact Made,1/17/24,1
+CLM1185,Investigation Complete,2/3/24,17
+CLM1185,Settlement Offer Made,2/16/24,13
+CLM1185,Claim Closed,2/27/24,11
+CLM1186,Claim Assigned,1/8/24,0
+CLM1186,Initial Contact Made,1/9/24,1
+CLM1187,Claim Assigned,2/20/24,0
+CLM1187,Initial Contact Made,2/21/24,1
+CLM1187,Investigation Complete,3/9/24,17
+CLM1187,Settlement Offer Made,3/15/24,6
+CLM1187,Claim Closed,3/25/24,10
+CLM1188,Claim Assigned,1/16/24,0
+CLM1188,Initial Contact Made,1/17/24,1
+CLM1188,Investigation Complete,2/16/24,30
+CLM1188,Settlement Offer Made,2/29/24,13
+CLM1188,Claim Closed,3/6/24,6
+CLM1189,Claim Assigned,3/21/24,0
+CLM1189,Initial Contact Made,3/22/24,1
+CLM1189,Investigation Complete,4/13/24,22
+CLM1189,Settlement Offer Made,4/24/24,11
+CLM1190,Claim Assigned,2/4/24,0
+CLM1190,Initial Contact Made,2/5/24,1
+CLM1190,Investigation Complete,2/23/24,18
+CLM1191,Claim Assigned,3/7/24,0
+CLM1191,Initial Contact Made,3/8/24,1
+CLM1191,Investigation Complete,3/31/24,23
+CLM1191,Settlement Offer Made,4/5/24,5
+CLM1191,Claim Closed,4/8/24,3
+CLM1192,Claim Assigned,1/28/24,0
+CLM1192,Initial Contact Made,1/29/24,1
+CLM1193,Claim Assigned,3/11/24,0
+CLM1193,Initial Contact Made,3/12/24,1
+CLM1194,Claim Assigned,2/18/24,0
+CLM1194,Initial Contact Made,2/19/24,1
+CLM1194,Investigation Complete,3/29/24,39
+CLM1194,Settlement Offer Made,4/3/24,5
+CLM1195,Claim Assigned,3/16/24,0
+CLM1195,Initial Contact Made,3/17/24,1
+CLM1195,Investigation Complete,4/15/24,29
+CLM1195,Settlement Offer Made,4/22/24,7
+CLM1195,Claim Closed,4/25/24,3
+CLM1196,Claim Assigned,1/9/24,0
+CLM1196,Initial Contact Made,1/10/24,1
+CLM1196,Investigation Complete,2/9/24,30
+CLM1196,Settlement Offer Made,2/18/24,9
+CLM1197,Claim Assigned,1/16/24,0
+CLM1197,Initial Contact Made,1/17/24,1
+CLM1197,Investigation Complete,2/16/24,30
+CLM1197,Settlement Offer Made,2/28/24,12
+CLM1198,Claim Assigned,3/18/24,0
+CLM1198,Initial Contact Made,3/19/24,1
+CLM1198,Investigation Complete,3/29/24,10
+CLM1198,Settlement Offer Made,4/8/24,10
+CLM1198,Claim Closed,4/18/24,10
+CLM1199,Claim Assigned,1/12/24,0
+CLM1199,Initial Contact Made,1/13/24,1
+CLM1200,Claim Assigned,2/14/24,0
+CLM1200,Initial Contact Made,2/15/24,1
+CLM1201,Claim Assigned,1/26/24,0
+CLM1201,Initial Contact Made,1/27/24,1
+CLM1201,Investigation Complete,2/27/24,31
+CLM1201,Settlement Offer Made,3/3/24,5
+CLM1202,Claim Assigned,3/9/24,0
+CLM1202,Initial Contact Made,3/10/24,1
+CLM1202,Investigation Complete,3/28/24,18
+CLM1202,Settlement Offer Made,4/12/24,15
+CLM1203,Claim Assigned,2/17/24,0
+CLM1203,Initial Contact Made,2/18/24,1
+CLM1203,Investigation Complete,3/20/24,31
+CLM1203,Settlement Offer Made,3/28/24,8
+CLM1203,Claim Closed,4/4/24,7
+CLM1204,Claim Assigned,2/9/24,0
+CLM1204,Initial Contact Made,2/10/24,1
+CLM1204,Investigation Complete,3/2/24,21
+CLM1205,Claim Assigned,3/29/24,0
+CLM1205,Initial Contact Made,3/30/24,1
+CLM1205,Investigation Complete,4/17/24,18
+CLM1205,Settlement Offer Made,4/20/24,3
+CLM1205,Claim Closed,4/25/24,5
+CLM1206,Claim Assigned,2/3/24,0
+CLM1206,Initial Contact Made,2/4/24,1
+CLM1207,Claim Assigned,3/22/24,0
+CLM1207,Initial Contact Made,3/23/24,1
+CLM1207,Investigation Complete,4/23/24,31
+CLM1207,Settlement Offer Made,4/30/24,7
+CLM1208,Claim Assigned,3/13/24,0
+CLM1208,Initial Contact Made,3/14/24,1
+CLM1208,Investigation Complete,4/8/24,25
+CLM1208,Settlement Offer Made,4/22/24,14
+CLM1208,Claim Closed,4/27/24,5
+CLM1209,Claim Assigned,1/11/24,0
+CLM1209,Initial Contact Made,1/12/24,1
+CLM1209,Investigation Complete,2/2/24,21
+CLM1209,Settlement Offer Made,2/14/24,12
+CLM1210,Claim Assigned,1/26/24,0
+CLM1210,Initial Contact Made,1/27/24,1
+CLM1210,Investigation Complete,2/29/24,33
+CLM1211,Claim Assigned,2/24/24,0
+CLM1211,Initial Contact Made,2/25/24,1
+CLM1211,Investigation Complete,4/4/24,39
+CLM1211,Settlement Offer Made,4/10/24,6
+CLM1212,Claim Assigned,1/13/24,0
+CLM1212,Initial Contact Made,1/14/24,1
+CLM1212,Investigation Complete,2/4/24,21
+CLM1212,Settlement Offer Made,2/18/24,14
+CLM1213,Claim Assigned,1/7/24,0
+CLM1213,Initial Contact Made,1/8/24,1
+CLM1213,Investigation Complete,1/27/24,19
+CLM1214,Claim Assigned,1/21/24,0
+CLM1214,Initial Contact Made,1/22/24,1
+CLM1214,Investigation Complete,2/27/24,36
+CLM1214,Settlement Offer Made,3/4/24,6
+CLM1214,Claim Closed,3/11/24,7
+CLM1215,Claim Assigned,2/12/24,0
+CLM1215,Initial Contact Made,2/13/24,1
+CLM1215,Investigation Complete,3/6/24,22
+CLM1215,Settlement Offer Made,3/10/24,4
+CLM1215,Claim Closed,3/22/24,12
+CLM1216,Claim Assigned,1/23/24,0
+CLM1216,Initial Contact Made,1/24/24,1
+CLM1216,Investigation Complete,2/14/24,21
+CLM1216,Settlement Offer Made,2/23/24,9
+CLM1216,Claim Closed,3/2/24,8
+CLM1217,Claim Assigned,3/9/24,0
+CLM1217,Initial Contact Made,3/10/24,1
+CLM1217,Investigation Complete,4/3/24,24
+CLM1218,Claim Assigned,3/31/24,0
+CLM1218,Initial Contact Made,4/1/24,1
+CLM1218,Investigation Complete,5/6/24,35
+CLM1218,Settlement Offer Made,5/12/24,6
+CLM1219,Claim Assigned,2/22/24,0
+CLM1219,Initial Contact Made,2/23/24,1
+CLM1219,Investigation Complete,3/19/24,25
+CLM1219,Settlement Offer Made,3/29/24,10
+CLM1219,Claim Closed,4/8/24,10
+CLM1220,Claim Assigned,3/21/24,0
+CLM1220,Initial Contact Made,3/22/24,1
+CLM1220,Investigation Complete,4/20/24,29
+CLM1220,Settlement Offer Made,4/25/24,5
+CLM1221,Claim Assigned,1/28/24,0
+CLM1221,Initial Contact Made,1/29/24,1
+CLM1221,Investigation Complete,2/8/24,10
+CLM1221,Settlement Offer Made,2/14/24,6
+CLM1221,Claim Closed,2/18/24,4
+CLM1222,Claim Assigned,3/21/24,0
+CLM1222,Initial Contact Made,3/22/24,1
+CLM1223,Claim Assigned,2/5/24,0
+CLM1223,Initial Contact Made,2/6/24,1
+CLM1223,Investigation Complete,2/27/24,21
+CLM1224,Claim Assigned,3/25/24,0
+CLM1224,Initial Contact Made,3/26/24,1
+CLM1224,Investigation Complete,4/8/24,13
+CLM1224,Settlement Offer Made,4/13/24,5
+CLM1225,Claim Assigned,1/19/24,0
+CLM1225,Initial Contact Made,1/20/24,1
+CLM1225,Investigation Complete,2/4/24,15
+CLM1225,Settlement Offer Made,2/19/24,15
+CLM1225,Claim Closed,3/2/24,12
+CLM1226,Claim Assigned,1/30/24,0
+CLM1226,Initial Contact Made,1/31/24,1
+CLM1227,Claim Assigned,2/24/24,0
+CLM1227,Initial Contact Made,2/25/24,1
+CLM1227,Investigation Complete,3/14/24,18
+CLM1227,Settlement Offer Made,3/21/24,7
+CLM1228,Claim Assigned,1/14/24,0
+CLM1228,Initial Contact Made,1/15/24,1
+CLM1228,Investigation Complete,2/2/24,18
+CLM1228,Settlement Offer Made,2/6/24,4
+CLM1229,Claim Assigned,3/9/24,0
+CLM1229,Initial Contact Made,3/10/24,1
+CLM1229,Investigation Complete,4/11/24,32
+CLM1229,Settlement Offer Made,4/25/24,14
+CLM1230,Claim Assigned,2/25/24,0
+CLM1230,Initial Contact Made,2/26/24,1
+CLM1230,Investigation Complete,3/8/24,11
+CLM1230,Settlement Offer Made,3/14/24,6
+CLM1231,Claim Assigned,2/17/24,0
+CLM1231,Initial Contact Made,2/18/24,1
+CLM1231,Investigation Complete,2/28/24,10
+CLM1232,Claim Assigned,2/9/24,0
+CLM1232,Initial Contact Made,2/10/24,1
+CLM1233,Claim Assigned,2/2/24,0
+CLM1233,Initial Contact Made,2/3/24,1
+CLM1233,Investigation Complete,3/10/24,36
+CLM1233,Settlement Offer Made,3/14/24,4
+CLM1233,Claim Closed,3/25/24,11
+CLM1234,Claim Assigned,3/8/24,0
+CLM1234,Initial Contact Made,3/9/24,1
+CLM1235,Claim Assigned,2/20/24,0
+CLM1235,Initial Contact Made,2/21/24,1
+CLM1235,Investigation Complete,3/6/24,14
+CLM1235,Settlement Offer Made,3/10/24,4
+CLM1236,Claim Assigned,1/11/24,0
+CLM1236,Initial Contact Made,1/12/24,1
+CLM1236,Investigation Complete,1/26/24,14
+CLM1236,Settlement Offer Made,1/31/24,5
+CLM1237,Claim Assigned,1/30/24,0
+CLM1237,Initial Contact Made,1/31/24,1
+CLM1237,Investigation Complete,2/17/24,17
+CLM1237,Settlement Offer Made,3/1/24,13
+CLM1237,Claim Closed,3/10/24,9
+CLM1238,Claim Assigned,2/15/24,0
+CLM1238,Initial Contact Made,2/16/24,1
+CLM1239,Claim Assigned,3/21/24,0
+CLM1239,Initial Contact Made,3/22/24,1
+CLM1239,Investigation Complete,4/21/24,30
+CLM1239,Settlement Offer Made,5/3/24,12
+CLM1240,Claim Assigned,2/20/24,0
+CLM1240,Initial Contact Made,2/21/24,1
+CLM1240,Investigation Complete,3/13/24,21
+CLM1240,Settlement Offer Made,3/20/24,7
+CLM1241,Claim Assigned,3/2/24,0
+CLM1241,Initial Contact Made,3/3/24,1
+CLM1241,Investigation Complete,3/28/24,25
+CLM1241,Settlement Offer Made,4/8/24,11
+CLM1241,Claim Closed,4/13/24,5
+CLM1242,Claim Assigned,3/27/24,0
+CLM1242,Initial Contact Made,3/28/24,1
+CLM1242,Investigation Complete,4/13/24,16
+CLM1242,Settlement Offer Made,4/23/24,10
+CLM1243,Claim Assigned,3/19/24,0
+CLM1243,Initial Contact Made,3/20/24,1
+CLM1243,Investigation Complete,4/28/24,39
+CLM1243,Settlement Offer Made,5/1/24,3
+CLM1244,Claim Assigned,2/26/24,0
+CLM1244,Initial Contact Made,2/27/24,1
+CLM1244,Investigation Complete,3/22/24,24
+CLM1245,Claim Assigned,2/16/24,0
+CLM1245,Initial Contact Made,2/17/24,1
+CLM1245,Investigation Complete,3/26/24,38
+CLM1245,Settlement Offer Made,4/4/24,9
+CLM1245,Claim Closed,4/19/24,15
+CLM1246,Claim Assigned,3/6/24,0
+CLM1246,Initial Contact Made,3/7/24,1
+CLM1246,Investigation Complete,3/27/24,20
+CLM1246,Settlement Offer Made,4/5/24,9
+CLM1246,Claim Closed,4/10/24,5
+CLM1247,Claim Assigned,3/16/24,0
+CLM1247,Initial Contact Made,3/17/24,1
+CLM1247,Investigation Complete,4/11/24,25
+CLM1247,Settlement Offer Made,4/16/24,5
+CLM1248,Claim Assigned,1/6/24,0
+CLM1248,Initial Contact Made,1/7/24,1
+CLM1249,Claim Assigned,2/14/24,0
+CLM1249,Initial Contact Made,2/15/24,1
+CLM1249,Investigation Complete,3/19/24,33
+CLM1250,Claim Assigned,2/5/24,0
+CLM1250,Initial Contact Made,2/6/24,1
+CLM1250,Investigation Complete,3/11/24,34
+CLM1250,Settlement Offer Made,3/26/24,15
+CLM1251,Claim Assigned,2/23/24,0
+CLM1251,Initial Contact Made,2/24/24,1
+CLM1251,Investigation Complete,3/24/24,29
+CLM1251,Settlement Offer Made,3/31/24,7
+CLM1251,Claim Closed,4/6/24,6
+CLM1252,Claim Assigned,3/7/24,0
+CLM1252,Initial Contact Made,3/8/24,1
+CLM1252,Investigation Complete,3/28/24,20
+CLM1253,Claim Assigned,3/20/24,0
+CLM1253,Initial Contact Made,3/21/24,1
+CLM1254,Claim Assigned,1/23/24,0
+CLM1254,Initial Contact Made,1/24/24,1
+CLM1254,Investigation Complete,2/25/24,32
+CLM1255,Claim Assigned,2/14/24,0
+CLM1255,Initial Contact Made,2/15/24,1
+CLM1255,Investigation Complete,3/15/24,29
+CLM1255,Settlement Offer Made,3/26/24,11
+CLM1255,Claim Closed,4/1/24,6
+CLM1256,Claim Assigned,3/24/24,0
+CLM1256,Initial Contact Made,3/25/24,1
+CLM1256,Investigation Complete,4/13/24,19
+CLM1256,Settlement Offer Made,4/23/24,10
+CLM1256,Claim Closed,5/2/24,9
+CLM1257,Claim Assigned,2/25/24,0
+CLM1257,Initial Contact Made,2/26/24,1
+CLM1257,Investigation Complete,3/11/24,14
+CLM1257,Settlement Offer Made,3/23/24,12
+CLM1258,Claim Assigned,3/5/24,0
+CLM1258,Initial Contact Made,3/6/24,1
+CLM1258,Investigation Complete,3/17/24,11
+CLM1258,Settlement Offer Made,3/26/24,9
+CLM1258,Claim Closed,4/4/24,9
+CLM1259,Claim Assigned,2/4/24,0
+CLM1259,Initial Contact Made,2/5/24,1
+CLM1259,Investigation Complete,3/3/24,27
+CLM1259,Settlement Offer Made,3/14/24,11
+CLM1259,Claim Closed,3/28/24,14
+CLM1260,Claim Assigned,3/1/24,0
+CLM1260,Initial Contact Made,3/2/24,1
+CLM1261,Claim Assigned,1/23/24,0
+CLM1261,Initial Contact Made,1/24/24,1
+CLM1262,Claim Assigned,3/27/24,0
+CLM1262,Initial Contact Made,3/28/24,1
+CLM1262,Investigation Complete,4/29/24,32
+CLM1263,Claim Assigned,1/11/24,0
+CLM1263,Initial Contact Made,1/12/24,1
+CLM1263,Investigation Complete,2/9/24,28
+CLM1263,Settlement Offer Made,2/21/24,12
+CLM1263,Claim Closed,3/6/24,14
+CLM1264,Claim Assigned,3/3/24,0
+CLM1264,Initial Contact Made,3/4/24,1
+CLM1264,Investigation Complete,3/19/24,15
+CLM1264,Settlement Offer Made,3/23/24,4
+CLM1265,Claim Assigned,1/24/24,0
+CLM1265,Initial Contact Made,1/25/24,1
+CLM1266,Claim Assigned,3/5/24,0
+CLM1266,Initial Contact Made,3/6/24,1
+CLM1266,Investigation Complete,4/6/24,31
+CLM1266,Settlement Offer Made,4/14/24,8
+CLM1267,Claim Assigned,3/6/24,0
+CLM1267,Initial Contact Made,3/7/24,1
+CLM1267,Investigation Complete,3/17/24,10
+CLM1267,Settlement Offer Made,3/20/24,3
+CLM1268,Claim Assigned,2/25/24,0
+CLM1268,Initial Contact Made,2/26/24,1
+CLM1268,Investigation Complete,3/26/24,29
+CLM1268,Settlement Offer Made,4/3/24,8
+CLM1268,Claim Closed,4/13/24,10
+CLM1269,Claim Assigned,3/23/24,0
+CLM1269,Initial Contact Made,3/24/24,1
+CLM1269,Investigation Complete,4/19/24,26
+CLM1269,Settlement Offer Made,5/4/24,15
+CLM1270,Claim Assigned,1/14/24,0
+CLM1270,Initial Contact Made,1/15/24,1
+CLM1270,Investigation Complete,2/12/24,28
+CLM1270,Settlement Offer Made,2/20/24,8
+CLM1270,Claim Closed,3/1/24,10
+CLM1271,Claim Assigned,1/27/24,0
+CLM1271,Initial Contact Made,1/28/24,1
+CLM1271,Investigation Complete,2/13/24,16
+CLM1272,Claim Assigned,3/15/24,0
+CLM1272,Initial Contact Made,3/16/24,1
+CLM1272,Investigation Complete,4/13/24,28
+CLM1272,Settlement Offer Made,4/16/24,3
+CLM1273,Claim Assigned,1/3/24,0
+CLM1273,Initial Contact Made,1/4/24,1
+CLM1273,Investigation Complete,2/2/24,29
+CLM1273,Settlement Offer Made,2/6/24,4
+CLM1274,Claim Assigned,3/12/24,0
+CLM1274,Initial Contact Made,3/13/24,1
+CLM1274,Investigation Complete,3/31/24,18
+CLM1274,Settlement Offer Made,4/5/24,5
+CLM1274,Claim Closed,4/11/24,6
+CLM1275,Claim Assigned,3/22/24,0
+CLM1275,Initial Contact Made,3/23/24,1
+CLM1275,Investigation Complete,4/30/24,38
+CLM1275,Settlement Offer Made,5/6/24,6
+CLM1276,Claim Assigned,2/22/24,0
+CLM1276,Initial Contact Made,2/23/24,1
+CLM1277,Claim Assigned,2/2/24,0
+CLM1277,Initial Contact Made,2/3/24,1
+CLM1277,Investigation Complete,2/23/24,20
+CLM1277,Settlement Offer Made,3/7/24,13
+CLM1277,Claim Closed,3/10/24,3
+CLM1278,Claim Assigned,1/14/24,0
+CLM1278,Initial Contact Made,1/15/24,1
+CLM1279,Claim Assigned,1/25/24,0
+CLM1279,Initial Contact Made,1/26/24,1
+CLM1279,Investigation Complete,2/10/24,15
+CLM1279,Settlement Offer Made,2/20/24,10
+CLM1280,Claim Assigned,2/24/24,0
+CLM1280,Initial Contact Made,2/25/24,1
+CLM1280,Investigation Complete,3/15/24,19
+CLM1281,Claim Assigned,3/9/24,0
+CLM1281,Initial Contact Made,3/10/24,1
+CLM1281,Investigation Complete,4/4/24,25
+CLM1281,Settlement Offer Made,4/9/24,5
+CLM1282,Claim Assigned,3/4/24,0
+CLM1282,Initial Contact Made,3/5/24,1
+CLM1282,Investigation Complete,4/10/24,36
+CLM1283,Claim Assigned,3/2/24,0
+CLM1283,Initial Contact Made,3/3/24,1
+CLM1284,Claim Assigned,3/17/24,0
+CLM1284,Initial Contact Made,3/18/24,1
+CLM1285,Claim Assigned,1/19/24,0
+CLM1285,Initial Contact Made,1/20/24,1
+CLM1285,Investigation Complete,2/16/24,27
+CLM1285,Settlement Offer Made,2/20/24,4
+CLM1286,Claim Assigned,2/15/24,0
+CLM1286,Initial Contact Made,2/16/24,1
+CLM1286,Investigation Complete,3/14/24,27
+CLM1286,Settlement Offer Made,3/18/24,4
+CLM1287,Claim Assigned,2/3/24,0
+CLM1287,Initial Contact Made,2/4/24,1
+CLM1288,Claim Assigned,2/10/24,0
+CLM1288,Initial Contact Made,2/11/24,1
+CLM1288,Investigation Complete,2/25/24,14
+CLM1289,Claim Assigned,1/15/24,0
+CLM1289,Initial Contact Made,1/16/24,1
+CLM1289,Investigation Complete,1/26/24,10
+CLM1289,Settlement Offer Made,2/6/24,11
+CLM1290,Claim Assigned,1/9/24,0
+CLM1290,Initial Contact Made,1/10/24,1
+CLM1290,Investigation Complete,1/20/24,10
+CLM1290,Settlement Offer Made,1/27/24,7
+CLM1290,Claim Closed,2/3/24,7
+CLM1291,Claim Assigned,2/14/24,0
+CLM1291,Initial Contact Made,2/15/24,1
+CLM1291,Investigation Complete,3/8/24,22
+CLM1292,Claim Assigned,2/15/24,0
+CLM1292,Initial Contact Made,2/16/24,1
+CLM1292,Investigation Complete,3/14/24,27
+CLM1292,Settlement Offer Made,3/29/24,15
+CLM1293,Claim Assigned,1/5/24,0
+CLM1293,Initial Contact Made,1/6/24,1
+CLM1293,Investigation Complete,2/7/24,32
+CLM1294,Claim Assigned,2/17/24,0
+CLM1294,Initial Contact Made,2/18/24,1
+CLM1294,Investigation Complete,3/27/24,38
+CLM1294,Settlement Offer Made,4/1/24,5
+CLM1294,Claim Closed,4/12/24,11
+CLM1295,Claim Assigned,1/13/24,0
+CLM1295,Initial Contact Made,1/14/24,1
+CLM1295,Investigation Complete,1/29/24,15
+CLM1296,Claim Assigned,3/24/24,0
+CLM1296,Initial Contact Made,3/25/24,1
+CLM1296,Investigation Complete,4/16/24,22
+CLM1296,Settlement Offer Made,4/24/24,8
+CLM1296,Claim Closed,4/28/24,4
+CLM1297,Claim Assigned,1/6/24,0
+CLM1297,Initial Contact Made,1/7/24,1
+CLM1298,Claim Assigned,1/7/24,0
+CLM1298,Initial Contact Made,1/8/24,1
+CLM1298,Investigation Complete,2/6/24,29
+CLM1299,Claim Assigned,3/5/24,0
+CLM1299,Initial Contact Made,3/6/24,1
+CLM1300,Claim Assigned,1/8/24,0
+CLM1300,Initial Contact Made,1/9/24,1
+CLM1300,Investigation Complete,2/17/24,39
+CLM1301,Claim Assigned,3/20/24,0
+CLM1301,Initial Contact Made,3/21/24,1
+CLM1301,Investigation Complete,4/25/24,35
+CLM1301,Settlement Offer Made,5/7/24,12
+CLM1302,Claim Assigned,1/3/24,0
+CLM1302,Initial Contact Made,1/4/24,1
+CLM1302,Investigation Complete,2/3/24,30
+CLM1303,Claim Assigned,1/29/24,0
+CLM1303,Initial Contact Made,1/30/24,1
+CLM1304,Claim Assigned,1/25/24,0
+CLM1304,Initial Contact Made,1/26/24,1
+CLM1304,Investigation Complete,2/27/24,32
+CLM1304,Settlement Offer Made,3/3/24,5
+CLM1305,Claim Assigned,1/2/24,0
+CLM1305,Initial Contact Made,1/3/24,1
+CLM1305,Investigation Complete,2/8/24,36
+CLM1305,Settlement Offer Made,2/20/24,12
+CLM1305,Claim Closed,2/28/24,8
+CLM1306,Claim Assigned,1/11/24,0
+CLM1306,Initial Contact Made,1/12/24,1
+CLM1306,Investigation Complete,1/22/24,10
+CLM1306,Settlement Offer Made,1/27/24,5
+CLM1307,Claim Assigned,2/29/24,0
+CLM1307,Initial Contact Made,3/1/24,1
+CLM1307,Investigation Complete,3/13/24,12
+CLM1307,Settlement Offer Made,3/25/24,12
+CLM1308,Claim Assigned,1/18/24,0
+CLM1308,Initial Contact Made,1/19/24,1
+CLM1308,Investigation Complete,1/31/24,12
+CLM1308,Settlement Offer Made,2/5/24,5
+CLM1309,Claim Assigned,3/23/24,0
+CLM1309,Initial Contact Made,3/24/24,1
+CLM1309,Investigation Complete,4/21/24,28
+CLM1309,Settlement Offer Made,5/5/24,14
+CLM1309,Claim Closed,5/12/24,7
+CLM1310,Claim Assigned,3/5/24,0
+CLM1310,Initial Contact Made,3/6/24,1
+CLM1310,Investigation Complete,3/20/24,14
+CLM1310,Settlement Offer Made,4/1/24,12
+CLM1311,Claim Assigned,3/25/24,0
+CLM1311,Initial Contact Made,3/26/24,1
+CLM1312,Claim Assigned,3/31/24,0
+CLM1312,Initial Contact Made,4/1/24,1
+CLM1312,Investigation Complete,4/24/24,23
+CLM1312,Settlement Offer Made,5/4/24,10
+CLM1313,Claim Assigned,3/6/24,0
+CLM1313,Initial Contact Made,3/7/24,1
+CLM1313,Investigation Complete,4/16/24,40
+CLM1314,Claim Assigned,2/22/24,0
+CLM1314,Initial Contact Made,2/23/24,1
+CLM1314,Investigation Complete,3/17/24,23
+CLM1315,Claim Assigned,3/10/24,0
+CLM1315,Initial Contact Made,3/11/24,1
+CLM1315,Investigation Complete,3/29/24,18
+CLM1316,Claim Assigned,1/29/24,0
+CLM1316,Initial Contact Made,1/30/24,1
+CLM1317,Claim Assigned,2/21/24,0
+CLM1317,Initial Contact Made,2/22/24,1
+CLM1318,Claim Assigned,2/11/24,0
+CLM1318,Initial Contact Made,2/12/24,1
+CLM1319,Claim Assigned,3/29/24,0
+CLM1319,Initial Contact Made,3/30/24,1
+CLM1319,Investigation Complete,4/16/24,17
+CLM1320,Claim Assigned,2/5/24,0
+CLM1320,Initial Contact Made,2/6/24,1
+CLM1321,Claim Assigned,3/29/24,0
+CLM1321,Initial Contact Made,3/30/24,1
+CLM1322,Claim Assigned,3/21/24,0
+CLM1322,Initial Contact Made,3/22/24,1
+CLM1323,Claim Assigned,2/24/24,0
+CLM1323,Initial Contact Made,2/25/24,1
+CLM1324,Claim Assigned,3/4/24,0
+CLM1324,Initial Contact Made,3/5/24,1
+CLM1325,Claim Assigned,1/13/24,0
+CLM1325,Initial Contact Made,1/14/24,1
+CLM1325,Investigation Complete,2/17/24,34
+CLM1325,Settlement Offer Made,2/29/24,12
+CLM1326,Claim Assigned,2/19/24,0
+CLM1326,Initial Contact Made,2/20/24,1
+CLM1327,Claim Assigned,2/28/24,0
+CLM1327,Initial Contact Made,2/29/24,1
+CLM1327,Investigation Complete,3/12/24,12
+CLM1327,Settlement Offer Made,3/25/24,13
+CLM1327,Claim Closed,4/4/24,10
+CLM1328,Claim Assigned,1/4/24,0
+CLM1328,Initial Contact Made,1/5/24,1
+CLM1328,Investigation Complete,2/4/24,30
+CLM1328,Settlement Offer Made,2/7/24,3
+CLM1329,Claim Assigned,2/26/24,0
+CLM1329,Initial Contact Made,2/27/24,1
+CLM1329,Investigation Complete,3/17/24,19
+CLM1329,Settlement Offer Made,3/30/24,13
+CLM1329,Claim Closed,4/9/24,10
+CLM1330,Claim Assigned,3/6/24,0
+CLM1330,Initial Contact Made,3/7/24,1
+CLM1330,Investigation Complete,3/22/24,15
+CLM1331,Claim Assigned,3/9/24,0
+CLM1331,Initial Contact Made,3/10/24,1
+CLM1332,Claim Assigned,1/29/24,0
+CLM1332,Initial Contact Made,1/30/24,1
+CLM1332,Investigation Complete,2/21/24,22
+CLM1333,Claim Assigned,2/7/24,0
+CLM1333,Initial Contact Made,2/8/24,1
+CLM1334,Claim Assigned,1/28/24,0
+CLM1334,Initial Contact Made,1/29/24,1
+CLM1334,Investigation Complete,2/11/24,13
+CLM1335,Claim Assigned,2/19/24,0
+CLM1335,Initial Contact Made,2/20/24,1
+CLM1335,Investigation Complete,3/22/24,31
+CLM1335,Settlement Offer Made,4/1/24,10
+CLM1335,Claim Closed,4/10/24,9
+CLM1336,Claim Assigned,1/26/24,0
+CLM1336,Initial Contact Made,1/27/24,1
+CLM1336,Investigation Complete,2/15/24,19
+CLM1336,Settlement Offer Made,2/20/24,5
+CLM1337,Claim Assigned,3/9/24,0
+CLM1337,Initial Contact Made,3/10/24,1
+CLM1338,Claim Assigned,3/31/24,0
+CLM1338,Initial Contact Made,4/1/24,1
+CLM1339,Claim Assigned,1/27/24,0
+CLM1339,Initial Contact Made,1/28/24,1
+CLM1339,Investigation Complete,2/14/24,17
+CLM1340,Claim Assigned,1/23/24,0
+CLM1340,Initial Contact Made,1/24/24,1
+CLM1341,Claim Assigned,2/12/24,0
+CLM1341,Initial Contact Made,2/13/24,1
+CLM1341,Investigation Complete,3/19/24,35
+CLM1342,Claim Assigned,3/1/24,0
+CLM1342,Initial Contact Made,3/2/24,1
+CLM1342,Investigation Complete,3/21/24,19
+CLM1343,Claim Assigned,1/24/24,0
+CLM1343,Initial Contact Made,1/25/24,1
+CLM1344,Claim Assigned,2/13/24,0
+CLM1344,Initial Contact Made,2/14/24,1
+CLM1344,Investigation Complete,3/13/24,28
+CLM1345,Claim Assigned,2/28/24,0
+CLM1345,Initial Contact Made,2/29/24,1
+CLM1346,Claim Assigned,1/13/24,0
+CLM1346,Initial Contact Made,1/14/24,1
+CLM1346,Investigation Complete,1/25/24,11
+CLM1346,Settlement Offer Made,2/8/24,14
+CLM1347,Claim Assigned,3/11/24,0
+CLM1347,Initial Contact Made,3/12/24,1
+CLM1347,Investigation Complete,4/2/24,21
+CLM1348,Claim Assigned,2/4/24,0
+CLM1348,Initial Contact Made,2/5/24,1
+CLM1348,Investigation Complete,3/1/24,25
+CLM1348,Settlement Offer Made,3/5/24,4
+CLM1349,Claim Assigned,1/16/24,0
+CLM1349,Initial Contact Made,1/17/24,1
+CLM1350,Claim Assigned,1/9/24,0
+CLM1350,Initial Contact Made,1/10/24,1
+CLM1350,Investigation Complete,1/30/24,20
+CLM1350,Settlement Offer Made,2/4/24,5
+CLM1351,Claim Assigned,3/8/24,0
+CLM1351,Initial Contact Made,3/9/24,1
+CLM1352,Claim Assigned,2/24/24,0
+CLM1352,Initial Contact Made,2/25/24,1
+CLM1352,Investigation Complete,3/18/24,22
+CLM1353,Claim Assigned,2/11/24,0
+CLM1353,Initial Contact Made,2/12/24,1
+CLM1353,Investigation Complete,3/2/24,19
+CLM1353,Settlement Offer Made,3/12/24,10
+CLM1353,Claim Closed,3/18/24,6
+CLM1354,Claim Assigned,2/29/24,0
+CLM1354,Initial Contact Made,3/1/24,1
+CLM1354,Investigation Complete,3/31/24,30
+CLM1354,Settlement Offer Made,4/12/24,12
+CLM1355,Claim Assigned,3/24/24,0
+CLM1355,Initial Contact Made,3/25/24,1
+CLM1355,Investigation Complete,5/2/24,38
+CLM1356,Claim Assigned,2/10/24,0
+CLM1356,Initial Contact Made,2/11/24,1
+CLM1356,Investigation Complete,2/25/24,14
+CLM1356,Settlement Offer Made,2/29/24,4
+CLM1357,Claim Assigned,1/19/24,0
+CLM1357,Initial Contact Made,1/20/24,1
+CLM1358,Claim Assigned,2/4/24,0
+CLM1358,Initial Contact Made,2/5/24,1
+CLM1358,Investigation Complete,2/25/24,20
+CLM1358,Settlement Offer Made,3/2/24,6
+CLM1358,Claim Closed,3/15/24,13
+CLM1359,Claim Assigned,3/1/24,0
+CLM1359,Initial Contact Made,3/2/24,1
+CLM1359,Investigation Complete,3/22/24,20
+CLM1360,Claim Assigned,2/21/24,0
+CLM1360,Initial Contact Made,2/22/24,1
+CLM1360,Investigation Complete,3/16/24,23
+CLM1360,Settlement Offer Made,3/22/24,6
+CLM1361,Claim Assigned,2/6/24,0
+CLM1361,Initial Contact Made,2/7/24,1
+CLM1361,Investigation Complete,2/28/24,21
+CLM1361,Settlement Offer Made,3/13/24,14
+CLM1361,Claim Closed,3/26/24,13
+CLM1362,Claim Assigned,1/1/24,0
+CLM1362,Initial Contact Made,1/2/24,1
+CLM1362,Investigation Complete,1/25/24,23
+CLM1362,Settlement Offer Made,1/28/24,3
+CLM1362,Claim Closed,2/10/24,13
+CLM1363,Claim Assigned,3/17/24,0
+CLM1363,Initial Contact Made,3/18/24,1
+CLM1363,Investigation Complete,4/4/24,17
+CLM1363,Settlement Offer Made,4/16/24,12
+CLM1364,Claim Assigned,1/11/24,0
+CLM1364,Initial Contact Made,1/12/24,1
+CLM1364,Investigation Complete,2/12/24,31
+CLM1364,Settlement Offer Made,2/21/24,9
+CLM1365,Claim Assigned,3/9/24,0
+CLM1365,Initial Contact Made,3/10/24,1
+CLM1365,Investigation Complete,3/23/24,13
+CLM1366,Claim Assigned,2/10/24,0
+CLM1366,Initial Contact Made,2/11/24,1
+CLM1366,Investigation Complete,2/28/24,17
+CLM1367,Claim Assigned,3/15/24,0
+CLM1367,Initial Contact Made,3/16/24,1
+CLM1367,Investigation Complete,3/27/24,11
+CLM1367,Settlement Offer Made,4/11/24,15
+CLM1368,Claim Assigned,2/27/24,0
+CLM1368,Initial Contact Made,2/28/24,1
+CLM1368,Investigation Complete,3/20/24,21
+CLM1368,Settlement Offer Made,3/24/24,4
+CLM1369,Claim Assigned,3/18/24,0
+CLM1369,Initial Contact Made,3/19/24,1
+CLM1369,Investigation Complete,4/5/24,17
+CLM1369,Settlement Offer Made,4/8/24,3
+CLM1370,Claim Assigned,2/29/24,0
+CLM1370,Initial Contact Made,3/1/24,1
+CLM1370,Investigation Complete,4/4/24,34
+CLM1370,Settlement Offer Made,4/17/24,13
+CLM1370,Claim Closed,4/27/24,10
+CLM1371,Claim Assigned,1/12/24,0
+CLM1371,Initial Contact Made,1/13/24,1
+CLM1371,Investigation Complete,2/8/24,26
+CLM1372,Claim Assigned,3/9/24,0
+CLM1372,Initial Contact Made,3/10/24,1
+CLM1372,Investigation Complete,3/25/24,15
+CLM1373,Claim Assigned,1/26/24,0
+CLM1373,Initial Contact Made,1/27/24,1
+CLM1373,Investigation Complete,2/29/24,33
+CLM1373,Settlement Offer Made,3/15/24,15
+CLM1374,Claim Assigned,1/10/24,0
+CLM1374,Initial Contact Made,1/11/24,1
+CLM1374,Investigation Complete,2/19/24,39
+CLM1374,Settlement Offer Made,3/5/24,15
+CLM1375,Claim Assigned,1/29/24,0
+CLM1375,Initial Contact Made,1/30/24,1
+CLM1375,Investigation Complete,3/8/24,38
+CLM1375,Settlement Offer Made,3/15/24,7
+CLM1376,Claim Assigned,3/30/24,0
+CLM1376,Initial Contact Made,3/31/24,1
+CLM1377,Claim Assigned,3/29/24,0
+CLM1377,Initial Contact Made,3/30/24,1
+CLM1378,Claim Assigned,3/14/24,0
+CLM1378,Initial Contact Made,3/15/24,1
+CLM1378,Investigation Complete,3/29/24,14
+CLM1378,Settlement Offer Made,4/4/24,6
+CLM1379,Claim Assigned,2/23/24,0
+CLM1379,Initial Contact Made,2/24/24,1
+CLM1379,Investigation Complete,3/29/24,34
+CLM1379,Settlement Offer Made,4/3/24,5
+CLM1379,Claim Closed,4/15/24,12
+CLM1380,Claim Assigned,3/13/24,0
+CLM1380,Initial Contact Made,3/14/24,1
+CLM1380,Investigation Complete,4/9/24,26
+CLM1380,Settlement Offer Made,4/20/24,11
+CLM1381,Claim Assigned,3/11/24,0
+CLM1381,Initial Contact Made,3/12/24,1
+CLM1382,Claim Assigned,1/21/24,0
+CLM1382,Initial Contact Made,1/22/24,1
+CLM1382,Investigation Complete,2/20/24,29
+CLM1382,Settlement Offer Made,3/5/24,14
+CLM1382,Claim Closed,3/12/24,7
+CLM1383,Claim Assigned,2/17/24,0
+CLM1383,Initial Contact Made,2/18/24,1
+CLM1383,Investigation Complete,3/3/24,14
+CLM1383,Settlement Offer Made,3/18/24,15
+CLM1383,Claim Closed,3/26/24,8
+CLM1384,Claim Assigned,1/12/24,0
+CLM1384,Initial Contact Made,1/13/24,1
+CLM1384,Investigation Complete,1/27/24,14
+CLM1384,Settlement Offer Made,2/3/24,7
+CLM1385,Claim Assigned,2/10/24,0
+CLM1385,Initial Contact Made,2/11/24,1
+CLM1385,Investigation Complete,3/13/24,31
+CLM1385,Settlement Offer Made,3/17/24,4
+CLM1386,Claim Assigned,3/14/24,0
+CLM1386,Initial Contact Made,3/15/24,1
+CLM1387,Claim Assigned,2/4/24,0
+CLM1387,Initial Contact Made,2/5/24,1
+CLM1387,Investigation Complete,2/25/24,20
+CLM1388,Claim Assigned,1/17/24,0
+CLM1388,Initial Contact Made,1/18/24,1
+CLM1388,Investigation Complete,2/18/24,31
+CLM1389,Claim Assigned,1/15/24,0
+CLM1389,Initial Contact Made,1/16/24,1
+CLM1390,Claim Assigned,1/22/24,0
+CLM1390,Initial Contact Made,1/23/24,1
+CLM1390,Investigation Complete,2/17/24,25
+CLM1390,Settlement Offer Made,2/23/24,6
+CLM1390,Claim Closed,3/1/24,7
+CLM1391,Claim Assigned,1/3/24,0
+CLM1391,Initial Contact Made,1/4/24,1
+CLM1391,Investigation Complete,2/13/24,40
+CLM1392,Claim Assigned,1/7/24,0
+CLM1392,Initial Contact Made,1/8/24,1
+CLM1393,Claim Assigned,1/24/24,0
+CLM1393,Initial Contact Made,1/25/24,1
+CLM1393,Investigation Complete,2/25/24,31
+CLM1393,Settlement Offer Made,3/9/24,13
+CLM1393,Claim Closed,3/12/24,3
+CLM1394,Claim Assigned,2/6/24,0
+CLM1394,Initial Contact Made,2/7/24,1
+CLM1394,Investigation Complete,3/13/24,35
+CLM1395,Claim Assigned,1/16/24,0
+CLM1395,Initial Contact Made,1/17/24,1
+CLM1395,Investigation Complete,2/11/24,25
+CLM1395,Settlement Offer Made,2/19/24,8
+CLM1396,Claim Assigned,3/18/24,0
+CLM1396,Initial Contact Made,3/19/24,1
+CLM1396,Investigation Complete,4/25/24,37
+CLM1396,Settlement Offer Made,5/7/24,12
+CLM1396,Claim Closed,5/10/24,3
+CLM1397,Claim Assigned,3/11/24,0
+CLM1397,Initial Contact Made,3/12/24,1
+CLM1397,Investigation Complete,4/2/24,21
+CLM1397,Settlement Offer Made,4/7/24,5
+CLM1398,Claim Assigned,3/9/24,0
+CLM1398,Initial Contact Made,3/10/24,1
+CLM1399,Claim Assigned,1/23/24,0
+CLM1399,Initial Contact Made,1/24/24,1
+CLM1399,Investigation Complete,2/15/24,22
+CLM1399,Settlement Offer Made,2/22/24,7
+CLM1399,Claim Closed,2/28/24,6
+CLM1400,Claim Assigned,3/6/24,0
+CLM1400,Initial Contact Made,3/7/24,1
+CLM1400,Investigation Complete,4/15/24,39
+CLM1401,Claim Assigned,3/1/24,0
+CLM1401,Initial Contact Made,3/2/24,1
+CLM1401,Investigation Complete,3/13/24,11
+CLM1401,Settlement Offer Made,3/27/24,14
+CLM1401,Claim Closed,4/3/24,7
+CLM1402,Claim Assigned,3/3/24,0
+CLM1402,Initial Contact Made,3/4/24,1
+CLM1402,Investigation Complete,3/31/24,27
+CLM1402,Settlement Offer Made,4/5/24,5
+CLM1402,Claim Closed,4/19/24,14
+CLM1403,Claim Assigned,2/25/24,0
+CLM1403,Initial Contact Made,2/26/24,1
+CLM1403,Investigation Complete,4/3/24,37
+CLM1403,Settlement Offer Made,4/8/24,5
+CLM1404,Claim Assigned,2/11/24,0
+CLM1404,Initial Contact Made,2/12/24,1
+CLM1404,Investigation Complete,3/1/24,18
+CLM1404,Settlement Offer Made,3/6/24,5
+CLM1404,Claim Closed,3/18/24,12
+CLM1405,Claim Assigned,1/23/24,0
+CLM1405,Initial Contact Made,1/24/24,1
+CLM1405,Investigation Complete,2/18/24,25
+CLM1405,Settlement Offer Made,2/25/24,7
+CLM1405,Claim Closed,2/28/24,3
+CLM1406,Claim Assigned,1/8/24,0
+CLM1406,Initial Contact Made,1/9/24,1
+CLM1406,Investigation Complete,1/26/24,17
+CLM1406,Settlement Offer Made,2/9/24,14
+CLM1406,Claim Closed,2/14/24,5
+CLM1407,Claim Assigned,2/20/24,0
+CLM1407,Initial Contact Made,2/21/24,1
+CLM1407,Investigation Complete,3/3/24,11
+CLM1407,Settlement Offer Made,3/15/24,12
+CLM1408,Claim Assigned,1/24/24,0
+CLM1408,Initial Contact Made,1/25/24,1
+CLM1408,Investigation Complete,2/15/24,21
+CLM1408,Settlement Offer Made,2/28/24,13
+CLM1408,Claim Closed,3/12/24,13
+CLM1409,Claim Assigned,1/22/24,0
+CLM1409,Initial Contact Made,1/23/24,1
+CLM1409,Investigation Complete,2/22/24,30
+CLM1409,Settlement Offer Made,2/27/24,5
+CLM1409,Claim Closed,3/4/24,6
+CLM1410,Claim Assigned,3/21/24,0
+CLM1410,Initial Contact Made,3/22/24,1
+CLM1411,Claim Assigned,2/25/24,0
+CLM1411,Initial Contact Made,2/26/24,1
+CLM1411,Investigation Complete,3/24/24,27
+CLM1412,Claim Assigned,2/4/24,0
+CLM1412,Initial Contact Made,2/5/24,1
+CLM1412,Investigation Complete,3/15/24,39
+CLM1413,Claim Assigned,2/1/24,0
+CLM1413,Initial Contact Made,2/2/24,1
+CLM1413,Investigation Complete,2/21/24,19
+CLM1413,Settlement Offer Made,3/2/24,10
+CLM1413,Claim Closed,3/11/24,9
+CLM1414,Claim Assigned,2/13/24,0
+CLM1414,Initial Contact Made,2/14/24,1
+CLM1414,Investigation Complete,3/21/24,36
+CLM1415,Claim Assigned,2/3/24,0
