@@ -1,3 +1,23 @@
+> ⚠️ You are not connected to any database.
+
+The provided SQL script creates and populates a table named `Departments` in the `PATIENTDATABASE` database. Here's how it relates to the concepts of **star schema** and **snowflake schema**:
+
+### **Star Schema Context**
+In a star schema, the `Departments` table could represent a **dimension table**. Dimension tables store descriptive attributes (e.g., `DepartmentName`, `Floor`) that provide context for analyzing facts in a **fact table** (e.g., patient visits, treatments, or billing). The `DepartmentID` serves as the **primary key** and would be used to link this table to a fact table.
+
+### **Snowflake Schema Context**
+In a snowflake schema, dimension tables are normalized into multiple related tables to reduce redundancy. If the `Departments` table were part of a snowflake schema, it might be further normalized. For example:
+- The `Floor` attribute could be moved to a separate table (e.g., `Floors`), with a foreign key relationship to `Departments`.
+- This normalization would create a more complex structure but reduce data duplication.
+
+### Key Points:
+- **Star Schema**: `Departments` remains a single table with all attributes stored together.
+- **Snowflake Schema**: Attributes like `Floor` might be split into separate tables, creating a normalized structure.
+
+The script itself aligns more closely with a **star schema** approach, as it keeps all department-related attributes in one table without normalization.
+
+---
+
 > 🟢 Connected to:  
 > ➖ Server - localhost,1433  
 > ➖ Database - master
