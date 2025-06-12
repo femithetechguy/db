@@ -1,3 +1,32 @@
+> ⚠️ You are not connected to any database.
+
+The SQL script provided defines a `Patients` table and inserts sample records into it. To explain this in the context of **Star Schema** and **Snowflake Schema**, let's break it down:
+
+### Star Schema Context:
+In a **Star Schema**, the `Patients` table could act as a **dimension table** that stores descriptive attributes about patients. Dimension tables are typically denormalized, meaning they contain all relevant information in a single table without splitting it into smaller related tables. For example:
+- Columns like `PatientID`, `FullName`, `Gender`, `AgeGroup`, `InsuranceType`, etc., represent descriptive attributes that can be used for analysis.
+- This table could be linked to a **fact table** (e.g., `MedicalRecords` or `Visits`) that stores metrics like visit counts, treatment costs, or diagnosis codes.
+
+The structure of the `Patients` table aligns with the denormalized nature of a Star Schema, where all patient-related information is stored in one place for easy querying.
+
+### Snowflake Schema Context:
+In a **Snowflake Schema**, dimension tables are normalized into multiple related tables to reduce redundancy. For example:
+- The `Patients` table could be split into smaller tables:
+  - A `Gender` table with values like `Male` and `Female.
+  - An `AgeGroup` table with values like `0–18`, `19–35`, etc.
+  - An `InsuranceType` table with values like `Public`, `Private`, and `None`.
+- Instead of storing these values directly in the `Patients` table, foreign keys would reference these smaller tables.
+
+This normalization reduces redundancy but increases the complexity of queries, as you need to join multiple tables to retrieve the same information.
+
+### Summary:
+- **Star Schema**: The `Patients` table is denormalized and directly usable as a dimension table.
+- **Snowflake Schema**: The `Patients` table would be normalized into multiple related tables, with foreign keys linking them.
+
+The choice between Star and Snowflake Schema depends on the trade-off between query performance (Star Schema) and storage efficiency (Snowflake Schema).
+
+---
+
 > 🟢 Connected to:  
 > ➖ Server - localhost,1433  
 > ➖ Database - master
