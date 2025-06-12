@@ -5,7 +5,7 @@ GO
 IF OBJECT_ID('Departments', 'U') IS NULL
 BEGIN
     CREATE TABLE Departments (
-        DepartmentID INT PRIMARY KEY IDENTITY(1,1),
+        DepartmentID VARCHAR(10) PRIMARY KEY,
         DepartmentName NVARCHAR(100) NOT NULL,
         Floor INT NOT NULL
     );
@@ -82,7 +82,7 @@ GO
 IF OBJECT_ID('Surveys', 'U') IS NULL
 BEGIN
     CREATE TABLE Surveys (
-        SurveyID INT PRIMARY KEY IDENTITY(1,1),
+        SurveyID VARCHAR(10) PRIMARY KEY,
         VisitID VARCHAR(20) NOT NULL,
         Rating INT CHECK (Rating BETWEEN 1 AND 5) NOT NULL,
         Comment NVARCHAR(500),
