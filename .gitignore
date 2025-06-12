@@ -1,4 +1,5 @@
 .vscode/
+*.DS_Store
 notes/powerbi/project/dataset/healthcarepatients_scripts/final_sql_scripts/.DS_Store
 notes/powerbi/project/dataset/healthcarepatients_scripts/final_sql_scripts/2_treatments_fact_table.sql
 notes/powerbi/project/dataset/healthcarepatients_scripts/final_sql_scripts/1_visits_fact_table.sql
